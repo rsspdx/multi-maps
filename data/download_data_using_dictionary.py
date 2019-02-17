@@ -21,7 +21,7 @@ import os
 import pandas as pd
 import statsmodels.api as sm
 
-wd = os.path.expanduser('~/data/geo/multi-maps/data')
+wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
 
 # download zip archives of csv data files

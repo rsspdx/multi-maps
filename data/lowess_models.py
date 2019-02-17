@@ -11,7 +11,7 @@ import os
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
-wd = os.path.expanduser('~/data/geo/multi-maps/data')
+wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
 
 gdpcap = pd.read_csv('gdp_per_capita.csv', index_col=0)
@@ -36,3 +36,4 @@ for i in range(len(vars)-1):
     df.to_csv(vars[i]['name'] + '_resid.csv')
     
 varnames_resid = pd.DataFrame(varnames)
+varnames_resid.to_csv('varnames_resid.csv')

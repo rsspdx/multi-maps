@@ -18,7 +18,7 @@ import requests
 import os
 import pandas as pd
 
-wd = os.path.expanduser('~/data/geo/multi-maps/data')
+wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
 
 

@@ -12,11 +12,13 @@ import os
 wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
 
+# open gdp_per_capita, get other varnames
 gdpcap = pd.read_csv('gdp_per_capita.csv', index_col=0)
 
 varnames = pd.read_csv('varnames.csv')
 varnames = varnames.iloc[:, 1].tolist()
 varnames.remove('gdp_per_capita')
+
 vars = []
 for var in varnames:
     vars.append({'name': var})
@@ -26,17 +28,20 @@ for i in range(len(vars)-1):
 
 varnames_resid = pd.read_csv('varnames_resid.csv')
 varnames_resid = varnames_resid.iloc[:, 1].tolist()
-varnames_resid.remove('gdp_per_capita')
-
-vars_resid = []
-for var in varnames_resid:
-    vars_resid.append({'name': var})
-for i in range(len(vars_resid)-1):
-    vars_resid[i]['file'] = vars[i]['name'] + '.csv'
+for i in range(len(varnames_resid)):
+    varnames_resid[i] = {'name': varnames_resid[i] + '_resid'}
+    varnames_resid[i]['file'] = varnames_resid[i]['name'] + '.csv'
     
-vars += vars_resid
 
-for i in range(len(vars) - 1):
-    gdpcap = gdpcap.merge(vars[i]['name'], on = ['country', 'country_code'])
+vars += varnames_resid
+
+# open files
+files = []
+for i in range(len(vars)-1):
+    file = str(vars[i]['file'])
+    files.append(pd.read_csv(vars[i]['file'], index_col=0))
+
+for i in range(len(files) - 1):
+    gdpcap = gdpcap.merge(files[i], on = ['country', 'country_code'])
 
 gdpcap.to_csv('wdi_vars.csv')
