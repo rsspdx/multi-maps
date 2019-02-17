@@ -381,7 +381,7 @@ data_dictionary = [
       },
 
 # Central government debt, total (% of GDP)
-     {'name' : 'central_govt_debt_pct_gdpll',
+     {'name' : 'central_govt_debt_pct_gdp',
       'url' : 'http://api.worldbank.org/v2/en/indicator/GC.DOD.TOTL.GD.ZS?downloadformat=csv',
       'long_name' : 'Central government debt, total (% of GDP)',
       'source' : 'World Bank, World Development Indicators',

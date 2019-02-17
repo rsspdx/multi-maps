@@ -35,3 +35,4 @@ for i in range(len(vars)-1):
     df = df.drop(columns = [vars[i]['name'], 'gdp_per_capita'])
     df.to_csv(vars[i]['name'] + '_resid.csv')
     
+varnames_resid = pd.DataFrame(varnames)
