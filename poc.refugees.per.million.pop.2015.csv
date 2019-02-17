@@ -1,0 +1,176 @@
+"","country.code","country.x","refugees","country.y","population","pop.million","country","refugees.per.million.pop"
+"1","ABW","Aruba",2,"Aruba",104341,0.104341,"Aruba",19
+"2","AFG","Afghanistan",257554,"Afghanistan",33736494,33.736494,"Afghanistan",7634
+"3","AGO","Angola",15555,"Angola",27859305,27.859305,"Angola",558
+"4","ALB","Albania",104,"Albania",2880703,2.880703,"Albania",36
+"5","ARG","Argentina",3207,"Argentina",43417765,43.417765,"Argentina",74
+"6","ARM","Armenia",19319,"Armenia",2916950,2.91695,"Armenia",6623
+"7","ATG","Antigua and Barbuda",15,"Antigua and Barbuda",99923,0.099923,"Antigua and Barbuda",150
+"8","AUS","Australia",36917,"Australia",23850784,23.850784,"Australia",1548
+"9","AUT","Austria",72216,"Austria",8642699,8.642699,"Austria",8356
+"10","AZE","Azerbaijan",1278,"Azerbaijan",9649341,9.649341,"Azerbaijan",132
+"11","BDI","Burundi",53363,"Burundi",10199270,10.19927,"Burundi",5232
+"12","BEL","Belgium",35314,"Belgium",11274196,11.274196,"Belgium",3132
+"13","BEN","Benin",530,"Benin",10575952,10.575952,"Benin",50
+"14","BFA","Burkina Faso",34017,"Burkina Faso",18110624,18.110624,"Burkina Faso",1878
+"15","BGD","Bangladesh",231958,"Bangladesh",161200886,161.200886,"Bangladesh",1439
+"16","BGR","Bulgaria",16557,"Bulgaria",7177991,7.177991,"Bulgaria",2307
+"17","BHR","Bahrain",247,"Bahrain",1371855,1.371855,"Bahrain",180
+"18","BHS","Bahamas",8,"Bahamas, The",386838,0.386838,"Bahamas",21
+"19","BIH","Bosnia and Herzegovina",6798,"Bosnia and Herzegovina",3535961,3.535961,"Bosnia and Herzegovina",1923
+"20","BLR","Belarus",1809,"Belarus",9489616,9.489616,"Belarus",191
+"21","BLZ","Belize",35,"Belize",359288,0.359288,"Belize",97
+"22","BOL","Bolivia (Plurinational State of)",775,"Bolivia",10724705,10.724705,"Bolivia (Plurinational State of)",72
+"23","BRA","Brazil",8707,"Brazil",205962108,205.962108,"Brazil",42
+"24","BRN","Brunei Darussalam",0,"Brunei Darussalam",417542,0.417542,"Brunei Darussalam",0
+"25","BWA","Botswana",2130,"Botswana",2209197,2.209197,"Botswana",964
+"26","CAF","Central African Rep.",7330,"Central African Republic",4546100,4.5461,"Central African Rep.",1612
+"27","CAN","Canada",135888,"Canada",35832513,35.832513,"Canada",3792
+"28","CHE","Switzerland",73336,"Switzerland",8282396,8.282396,"Switzerland",8854
+"29","CHL","Chile",1849,"Chile",17762681,17.762681,"Chile",104
+"30","CHN","China",301052,"China",1371220000,1371.22,"China",220
+"31","CIV","Cote d'Ivoire",1980,"Cote d'Ivoire",23108472,23.108472,"Cote d'Ivoire",86
+"32","CMR","Cameroon",342973,"Cameroon",22834522,22.834522,"Cameroon",15020
+"33","COD","Dem. Rep. of the Congo",383095,"Congo, Dem. Rep.",76196619,76.196619,"Dem. Rep. of the Congo",5028
+"34","COG","Congo",44955,"Congo, Rep.",4995648,4.995648,"Congo",8999
+"35","COL","Colombia",226,"Colombia",48228697,48.228697,"Colombia",5
+"36","CPV","Cabo Verde",0,"Cabo Verde",532913,0.532913,"Cabo Verde",0
+"37","CRI","Costa Rica",3616,"Costa Rica",4807852,4.807852,"Costa Rica",752
+"38","CUB","Cuba",303,"Cuba",11461432,11.461432,"Cuba",26
+"39","CYM","Cayman Islands",12,"Cayman Islands",59963,0.059963,"Cayman Islands",200
+"40","CYP","Cyprus",7067,"Cyprus",1160985,1.160985,"Cyprus",6087
+"41","CZE","Czech Rep.",3644,"Czech Republic",10546059,10.546059,"Czech Rep.",346
+"42","DEU","Germany",316115,"Germany",81686611,81.686611,"Germany",3870
+"43","DJI","Djibouti",19365,"Djibouti",927414,0.927414,"Djibouti",20881
+"44","DNK","Denmark",27326,"Denmark",5683483,5.683483,"Denmark",4808
+"45","DOM","Dominican Rep.",615,"Dominican Republic",10528394,10.528394,"Dominican Rep.",58
+"46","DZA","Algeria",94182,"Algeria",39871528,39.871528,"Algeria",2362
+"47","ECU","Ecuador",121535,"Ecuador",16144368,16.144368,"Ecuador",7528
+"48","EGY","Egypt",212500,"Egypt, Arab Rep.",93778172,93.778172,"Egypt",2266
+"49","ERI","Eritrea",2549,"Eritrea",NA,NA,"Eritrea",NA
+"50","ESP","Spain",6457,"Spain",46444832,46.444832,"Spain",139
+"51","EST","Estonia",168,"Estonia",1315407,1.315407,"Estonia",128
+"52","ETH","Ethiopia",736086,"Ethiopia",99873033,99.873033,"Ethiopia",7370
+"53","FIN","Finland",12703,"Finland",5479531,5.479531,"Finland",2318
+"54","FJI","Fiji",12,"Fiji",892149,0.892149,"Fiji",13
+"55","FRA","France",273126,"France",66593366,66.593366,"France",4101
+"56","FSM","Micronesia (Federated States of)",3,"Micronesia, Fed. Sts.",104433,0.104433,"Micronesia (Federated States of)",29
+"57","GAB","Gabon",943,"Gabon",1930175,1.930175,"Gabon",489
+"58","GBR","United Kingdom",123067,"United Kingdom",65128861,65.128861,"United Kingdom",1890
+"59","GEO","Georgia",1979,"Georgia",3717100,3.7171,"Georgia",532
+"60","GHA","Ghana",17406,"Ghana",27582821,27.582821,"Ghana",631
+"61","GIN","Guinea",8839,"Guinea",12091533,12.091533,"Guinea",731
+"62","GMB","Gambia",7854,"Gambia, The",1977590,1.97759,"Gambia",3972
+"63","GNB","Guinea-Bissau",8684,"Guinea-Bissau",1770526,1.770526,"Guinea-Bissau",4905
+"64","GRC","Greece",24838,"Greece",10820883,10.820883,"Greece",2295
+"65","GRD","Grenada",1,"Grenada",106823,0.106823,"Grenada",9
+"66","GTM","Guatemala",226,"Guatemala",16252429,16.252429,"Guatemala",14
+"67","GUY","Guyana",11,"Guyana",768514,0.768514,"Guyana",14
+"68","HND","Honduras",30,"Honduras",8960829,8.960829,"Honduras",3
+"69","HRV","Croatia",522,"Croatia",4203604,4.203604,"Croatia",124
+"70","HTI","Haiti",3,"Haiti",10711061,10.711061,"Haiti",0
+"71","HUN","Hungary",4393,"Hungary",9843028,9.843028,"Hungary",446
+"72","IDN","Indonesia",5957,"Indonesia",258162113,258.162113,"Indonesia",23
+"73","IND","India",201381,"India",1309053980,1309.05398,"India",154
+"74","IRL","Ireland",6125,"Ireland",4701957,4.701957,"Ireland",1303
+"75","IRN","Iran (Islamic Rep. of)",979437,"Iran, Islamic Rep.",79360487,79.360487,"Iran (Islamic Rep. of)",12342
+"76","IRQ","Iraq",277701,"Iraq",36115649,36.115649,"Iraq",7689
+"77","ISL","Iceland",179,"Iceland",330815,0.330815,"Iceland",541
+"78","ISR","Israel",32946,"Israel",8380100,8.3801,"Israel",3931
+"79","ITA","Italy",118047,"Italy",60730582,60.730582,"Italy",1944
+"80","JAM","Jamaica",12,"Jamaica",2871934,2.871934,"Jamaica",4
+"81","JOR","Jordan",664118,"Jordan",9159302,9.159302,"Jordan",72507
+"82","JPN","Japan",2474,"Japan",127141000,127.141,"Japan",19
+"83","KAZ","Kazakhstan",708,"Kazakhstan",17542806,17.542806,"Kazakhstan",40
+"84","KEN","Kenya",553912,"Kenya",47236259,47.236259,"Kenya",11726
+"85","KGZ","Kyrgyzstan",354,"Kyrgyz Republic",5956900,5.9569,"Kyrgyzstan",59
+"86","KHM","Cambodia",76,"Cambodia",15517635,15.517635,"Cambodia",5
+"87","KOR","Rep. of Korea",1463,"Korea, Rep.",51014947,51.014947,"Rep. of Korea",29
+"88","KWT","Kuwait",741,"Kuwait",3935794,3.935794,"Kuwait",188
+"89","LBN","Lebanon",1070854,"Lebanon",5851479,5.851479,"Lebanon",183006
+"90","LBR","Liberia",36505,"Liberia",4499621,4.499621,"Liberia",8113
+"91","LBY","Libya",9305,"Libya",6234955,6.234955,"Libya",1492
+"92","LCA","Saint Lucia",1,"St. Lucia",177206,0.177206,"Saint Lucia",6
+"93","LIE","Liechtenstein",150,"Liechtenstein",37403,0.037403,"Liechtenstein",4010
+"94","LKA","Sri Lanka",784,"Sri Lanka",20966000,20.966,"Sri Lanka",37
+"95","LSO","Lesotho",31,"Lesotho",2174645,2.174645,"Lesotho",14
+"96","LTU","Lithuania",1093,"Lithuania",2904910,2.90491,"Lithuania",376
+"97","LUX","Luxembourg",1332,"Luxembourg",569604,0.569604,"Luxembourg",2338
+"98","LVA","Latvia",208,"Latvia",1977527,1.977527,"Latvia",105
+"99","MAR","Morocco",3908,"Morocco",34803322,34.803322,"Morocco",112
+"100","MCO","Monaco",32,"Monaco",38307,0.038307,"Monaco",835
+"101","MDA","Rep. of Moldova",446,"Moldova",3554108,3.554108,"Rep. of Moldova",125
+"102","MDG","Madagascar",10,"Madagascar",24234088,24.234088,"Madagascar",0
+"103","MEX","Mexico",2923,"Mexico",125890949,125.890949,"Mexico",23
+"104","MKD","The former Yugoslav Republic of Macedonia",701,"Macedonia, FYR",2079308,2.079308,"The former Yugoslav Republic of Macedonia",337
+"105","MLI","Mali",15917,"Mali",17467905,17.467905,"Mali",911
+"106","MLT","Malta",7075,"Malta",445053,0.445053,"Malta",15897
+"107","MMR","Myanmar",0,"Myanmar",52403669,52.403669,"Myanmar",0
+"108","MNE","Montenegro",1771,"Montenegro",622159,0.622159,"Montenegro",2847
+"109","MNG","Mongolia",9,"Mongolia",2976877,2.976877,"Mongolia",3
+"110","MOZ","Mozambique",5622,"Mozambique",28010691,28.010691,"Mozambique",201
+"111","MRT","Mauritania",77394,"Mauritania",4182341,4.182341,"Mauritania",18505
+"112","MWI","Malawi",9019,"Malawi",17573607,17.573607,"Malawi",513
+"113","MYS","Malaysia",94166,"Malaysia",30723155,30.723155,"Malaysia",3065
+"114","NAM","Namibia",1737,"Namibia",2425561,2.425561,"Namibia",716
+"115","NER","Niger",124721,"Niger",19896965,19.896965,"Niger",6268
+"116","NGA","Nigeria",1395,"Nigeria",181181744,181.181744,"Nigeria",8
+"117","NIC","Nicaragua",330,"Nicaragua",6082035,6.082035,"Nicaragua",54
+"118","NLD","Netherlands",88536,"Netherlands",16939923,16.939923,"Netherlands",5226
+"119","NOR","Norway",50389,"Norway",5190239,5.190239,"Norway",9708
+"120","NPL","Nepal",32667,"Nepal",28656282,28.656282,"Nepal",1140
+"121","NRU","Nauru",506,"Nauru",12475,0.012475,"Nauru",40561
+"122","NZL","New Zealand",1337,"New Zealand",4595700,4.5957,"New Zealand",291
+"123","OMN","Oman",245,"Oman",4199810,4.19981,"Oman",58
+"124","PAK","Pakistan",1561162,"Pakistan",189380513,189.380513,"Pakistan",8244
+"125","PAN","Panama",17322,"Panama",3969249,3.969249,"Panama",4364
+"126","PER","Peru",1488,"Peru",31376671,31.376671,"Peru",47
+"127","PHL","Philippines",269,"Philippines",101716359,101.716359,"Philippines",3
+"128","PNG","Papua New Guinea",9510,"Papua New Guinea",7919825,7.919825,"Papua New Guinea",1201
+"129","POL","Poland",14065,"Poland",37986412,37.986412,"Poland",370
+"130","PRK","Dem. People's Rep. of Korea",0,"Korea, Dem. People’s Rep.",25243917,25.243917,"Dem. People's Rep. of Korea",0
+"131","PRY","Paraguay",172,"Paraguay",6639119,6.639119,"Paraguay",26
+"132","QAT","Qatar",120,"Qatar",2481539,2.481539,"Qatar",48
+"133","ROU","Romania",2598,"Romania",19815481,19.815481,"Romania",131
+"134","RUS","Russian Federation",314507,"Russian Federation",144096870,144.09687,"Russian Federation",2183
+"135","RWA","Rwanda",144737,"Rwanda",11629553,11.629553,"Rwanda",12446
+"136","SAU","Saudi Arabia",125,"Saudi Arabia",31557144,31.557144,"Saudi Arabia",4
+"137","SDN","Sudan",309639,"Sudan",38647803,38.647803,"Sudan",8012
+"138","SEN","Senegal",14392,"Senegal",14976994,14.976994,"Senegal",961
+"139","SGP","Singapore",0,"Singapore",5535002,5.535002,"Singapore",0
+"140","SLB","Solomon Islands",3,"Solomon Islands",587482,0.587482,"Solomon Islands",5
+"141","SLE","Sierra Leone",760,"Sierra Leone",7237025,7.237025,"Sierra Leone",105
+"142","SLV","El Salvador",48,"El Salvador",6312478,6.312478,"El Salvador",8
+"143","SOM","Somalia",8081,"Somalia",13908129,13.908129,"Somalia",581
+"144","SRB","Serbia and Kosovo (S/RES/1244 (1999))",35332,"Serbia",7095383,7.095383,"Serbia and Kosovo (S/RES/1244 (1999))",4980
+"145","SSD","South Sudan",263016,"South Sudan",11882136,11.882136,"South Sudan",22135
+"146","SUR","Suriname",1,"Suriname",553208,0.553208,"Suriname",2
+"147","SVK","Slovakia",820,"Slovak Republic",5423801,5.423801,"Slovakia",151
+"148","SVN","Slovenia",292,"Slovenia",2063531,2.063531,"Slovenia",142
+"149","SWE","Sweden",169520,"Sweden",9799186,9.799186,"Sweden",17299
+"150","SWZ","Swaziland",696,"Eswatini",1319011,1.319011,"Swaziland",528
+"151","SXM","Sint Maarten (Dutch part)",3,"Sint Maarten (Dutch part)",38824,0.038824,"Sint Maarten (Dutch part)",77
+"152","SYR","Syrian Arab Rep.",21113,"Syrian Arab Republic",18734987,18.734987,"Syrian Arab Rep.",1127
+"153","TCA","Turks and Caicos Islands",4,"Turks and Caicos Islands",34339,0.034339,"Turks and Caicos Islands",116
+"154","TCD","Chad",369540,"Chad",14009413,14.009413,"Chad",26378
+"155","TGO","Togo",21953,"Togo",7416802,7.416802,"Togo",2960
+"156","THA","Thailand",108261,"Thailand",68657600,68.6576,"Thailand",1577
+"157","TJK","Tajikistan",1969,"Tajikistan",8548651,8.548651,"Tajikistan",230
+"158","TKM","Turkmenistan",26,"Turkmenistan",5565284,5.565284,"Turkmenistan",5
+"159","TTO","Trinidad and Tobago",113,"Trinidad and Tobago",1360092,1.360092,"Trinidad and Tobago",83
+"160","TUN","Tunisia",665,"Tunisia",11273661,11.273661,"Tunisia",59
+"161","TUR","Turkey",2541352,"Turkey",78271472,78.271472,"Turkey",32468
+"162","TZA","United Rep. of Tanzania",211845,"Tanzania",53879957,53.879957,"United Rep. of Tanzania",3932
+"163","UGA","Uganda",477187,"Uganda",40144870,40.14487,"Uganda",11887
+"164","UKR","Ukraine",3273,"Ukraine",45154029,45.154029,"Ukraine",72
+"165","URY","Uruguay",301,"Uruguay",3431552,3.431552,"Uruguay",88
+"166","USA","United States of America",273202,"United States",321039839,321.039839,"United States of America",851
+"167","UZB","Uzbekistan",107,"Uzbekistan",31298900,31.2989,"Uzbekistan",3
+"168","VEN","Venezuela (Bolivarian Republic of)",173754,"Venezuela, RB",31155134,31.155134,"Venezuela (Bolivarian Republic of)",5577
+"169","VNM","Viet Nam",0,"Vietnam",93571567,93.571567,"Viet Nam",0
+"170","VUT","Vanuatu",0,"Vanuatu",264603,0.264603,"Vanuatu",0
+"171","WSM","Samoa",0,"Samoa",193759,0.193759,"Samoa",0
+"172","YEM","Yemen",267173,"Yemen, Rep.",26916207,26.916207,"Yemen",9926
+"173","ZAF","South Africa",121645,"South Africa",55291225,55.291225,"South Africa",2200
+"174","ZMB","Zambia",26447,"Zambia",16100587,16.100587,"Zambia",1643
+"175","ZWE","Zimbabwe",6950,"Zimbabwe",15777451,15.777451,"Zimbabwe",441
