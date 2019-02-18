@@ -493,7 +493,7 @@ for i in range(len(data_dictionary)-1):
     else:
         csv = csv.rename(index =  str, columns={'Country Name' : 'country', 'Country Code': 'country_code', '2015': data_dictionary[i]['name']})
         
-    csv.to_csv(data_dictionary[i]['name']+'.csv')
+    csv.to_csv(data_dictionary[i]['name']+'.csv', index=False)
 
 varnames = []
 for i in range(len(data_dictionary)-1):

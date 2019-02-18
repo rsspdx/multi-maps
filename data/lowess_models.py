@@ -23,10 +23,10 @@ varnames.remove('gdp_per_capita')
 vars = []
 for var in varnames:
     vars.append({'name': var})
-for i in range(len(vars)-1):
+for i in range(len(vars)):
     vars[i]['file'] = vars[i]['name'] + '.csv'
 
-for i in range(len(vars)-1):
+for i in range(len(vars)):
     df = pd.read_csv(vars[i]['file'], index_col=0)
     df = df.merge(gdpcap, on=['country', 'country_code'])
     df = df.dropna()
