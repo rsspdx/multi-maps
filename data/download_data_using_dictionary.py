@@ -14,6 +14,12 @@ Created on Fri Jan  4 07:09:57 2019
 @author: rs
 """
 
+# run this file first.
+# quit python and run download_unhcr_data.py
+# run lowess_models.py
+# then run merge_wdi_vars.py and merge_unhcr_wdi.py
+# to create map_data.csv
+
 import requests
 import zipfile
 import io
@@ -26,15 +32,11 @@ os.chdir(wd)
 
 # download zip archives of csv data files
 # unzip them
-# write to csv for use in R
+# write to csv
 
 
-# data = [{
-#         'name': 'matermal',
-#         'url': 'http:'
-#     },{
 
-# }]
+
 
 data_dictionary = [
         
