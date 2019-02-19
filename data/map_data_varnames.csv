@@ -1,0 +1,117 @@
+,0
+0,country_code
+1,gdp_per_capita
+2,population
+3,migrant_stock
+4,maternal_mortality_rate
+5,life_expectancy
+6,hiv_prevalence
+7,urbpop
+8,lowest_twenty_income_share
+9,oda_pct_of_gni
+10,net_migration
+11,poverty_headcount_ratio_190_2011_ppp
+12,access_to_electricity_pct_of_population
+13,co2_tons_per_capita
+14,mortality_under_5_per_1000_live_births
+15,energy_use_per_capita
+16,remittances
+17,revenue_pct_gdp
+18,govt_exp_educ_pct_gdp
+19,female_literacy_pct
+20,external_debt_pct_GNI
+21,fdi_net_current_usd
+22,strength_legal_rights_0_12
+23,adolescent_fertility_rate
+24,fertility_rate
+25,female_employment_pct_of_total
+26,lowest_ten_income_share
+27,highest_ten_income_share
+28,trade_pct_gdp
+29,use_internet_pct_pop
+30,mobile_phone_subscriptions_pct_pop
+31,days_required_to_start_business
+32,ease_doing_business
+33,tax_revenue_pct_gdp
+34,net_lending_borrowing_pct_gdp
+35,central_govt_debt_pct_gdp
+36,risk_premium
+37,biodiversity_protected_areas
+38,renewable_freshwater_per_capita
+39,slum_population_pct_urban_population
+40,pm25_pct_population
+41,population_resid
+42,migrant_stock_resid
+43,maternal_mortality_rate_resid
+44,life_expectancy_resid
+45,hiv_prevalence_resid
+46,urbpop_resid
+47,lowest_twenty_income_share_resid
+48,oda_pct_of_gni_resid
+49,net_migration_resid
+50,poverty_headcount_ratio_190_2011_ppp_resid
+51,access_to_electricity_pct_of_population_resid
+52,co2_tons_per_capita_resid
+53,mortality_under_5_per_1000_live_births_resid
+54,energy_use_per_capita_resid
+55,remittances_resid
+56,revenue_pct_gdp_resid
+57,govt_exp_educ_pct_gdp_resid
+58,female_literacy_pct_resid
+59,external_debt_pct_GNI_resid
+60,fdi_net_current_usd_resid
+61,strength_legal_rights_0_12_resid
+62,adolescent_fertility_rate_resid
+63,fertility_rate_resid
+64,female_employment_pct_of_total_resid
+65,lowest_ten_income_share_resid
+66,highest_ten_income_share_resid
+67,trade_pct_gdp_resid
+68,use_internet_pct_pop_resid
+69,mobile_phone_subscriptions_pct_pop_resid
+70,days_required_to_start_business_resid
+71,ease_doing_business_resid
+72,tax_revenue_pct_gdp_resid
+73,net_lending_borrowing_pct_gdp_resid
+74,central_govt_debt_pct_gdp_resid
+75,risk_premium_resid
+76,biodiversity_protected_areas_resid
+77,renewable_freshwater_per_capita_resid
+78,slum_population_pct_urban_population_resid
+79,pm25_pct_population_resid
+80,asylum_seekers
+81,idps
+82,refugees
+83,recognized
+84,total_decisions
+85,recognition_rate
+86,iso_3
+87,iso_2
+88,refugees_per_pop
+89,asylum_seekers_per_pop
+90,country
+91,country_code.1
+92,happiness
+93,Unnamed: 5
+94,Country Rank
+95,Country/Territory
+96,Region
+97,ti_cpi
+98,Number of Surveys Used
+99,Std Error
+100,Min
+101,Max
+102,90% Lower CI
+103,90%Upper CI
+104,World Bank CPIA
+105,World  Economic Forum EOS
+106,Bertelsmann  Foundation TI
+107,Arican Development Bank
+108,IMD World Competitiveness Year Book
+109,Bertelsmann Foundation SGI
+110,World Justice Project ROL
+111,PRS Internationl Country Risk Guide
+112,Economist Intelligence Unit
+113,IHS Global Insight
+114,PERC Asia Risk Guide
+115,Freedom House NIT

@@ -39,6 +39,26 @@ os.chdir(wd)
 
 
 data_dictionary = [
+      
+        
+# Population, total   
+        
+    {'name' : 'population',
+     'url' : 'http://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv',
+     'long_name' : 'Population',
+     'source' : 'World Bank, World Development Indicators',
+     'short_name' : 'Population)'
+     },
+        
+# International migrant stock (% of population    
+        
+    {'name' : 'migrant_stock',
+     'url' : 'http://api.worldbank.org/v2/en/indicator/SM.POP.TOTL.ZS?downloadformat=csv',
+     'long_name' : 'International migrant stock (% of population)',
+     'source' : 'World Bank, World Development Indicators',
+     'short_name' : 'International migrant stock (% of population)'
+     },
+
         
 # gross domestic product per capita, current USD at PPP
 
