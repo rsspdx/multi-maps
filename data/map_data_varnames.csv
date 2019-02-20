@@ -93,25 +93,24 @@
 91,country_code.1
 92,happiness
 93,Unnamed: 5
-94,Country Rank
-95,Country/Territory
-96,Region
-97,ti_cpi
-98,Number of Surveys Used
-99,Std Error
-100,Min
-101,Max
-102,90% Lower CI
-103,90%Upper CI
-104,World Bank CPIA
-105,World  Economic Forum EOS
-106,Bertelsmann  Foundation TI
-107,Arican Development Bank
-108,IMD World Competitiveness Year Book
-109,Bertelsmann Foundation SGI
-110,World Justice Project ROL
-111,PRS Internationl Country Risk Guide
-112,Economist Intelligence Unit
-113,IHS Global Insight
-114,PERC Asia Risk Guide
-115,Freedom House NIT
+94,Country/Territory
+95,Region
+96,ti_cpi
+97,Number of Surveys Used
+98,Std Error
+99,Min
+100,Max
+101,90% Lower CI
+102,90%Upper CI
+103,World Bank CPIA
+104,World  Economic Forum EOS
+105,Bertelsmann  Foundation TI
+106,Arican Development Bank
+107,IMD World Competitiveness Year Book
+108,Bertelsmann Foundation SGI
+109,World Justice Project ROL
+110,PRS Internationl Country Risk Guide
+111,Economist Intelligence Unit
+112,IHS Global Insight
+113,PERC Asia Risk Guide
+114,Freedom House NIT

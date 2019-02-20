@@ -26,6 +26,8 @@ for var in varnames:
 for i in range(len(vars)):
     vars[i]['file'] = vars[i]['name'] + '.csv'
 
+lowess = sm.nonparametric.lowess
+
 for i in range(len(vars)):
     df = pd.read_csv(vars[i]['file'], index_col=0)
     df = df.merge(gdpcap, on=['country', 'country_code'])

@@ -97,7 +97,7 @@ vars = [
 {'varname': 'idps', 'long_name': 'Internally Displaced Persons', 'short_name': 'Internally Displaced Persons', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'refugees', 'long_name': 'Refugees', 'short_name': 'Refugees', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'recognition_rate', 'long_name': 'Asylum Recognition Rate', 'short_name': 'Asylum Recognition Rate', 'source':'United Nations High Commission for Refugees, Population Statistics'},
-{'varname': 'refugees_per_pop', 'long_name': 'Refugees per P{opulation', 'short_name': 'Refugees per P{opulation', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+{'varname': 'refugees_per_pop', 'long_name': 'Refugees per Population', 'short_name': 'Refugees per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'asylum_seekers_per_pop', 'long_name': 'Asylum Seekers per Population', 'short_name': 'Asylum Seekers per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'happiness', 'long_name': 'Self-Reported Happiness (1-10, 10 high)', 'short_name': 'Self-Reported Happiness (1-10, 10 high)', 'source':'World Happiness Report'},
 {'varname': 'ti_cpi', 'long_name': 'Corruption Perception Index (reversed)', 'short_name': 'Corruption Perception Index (reversed)', 'source':'Transparency International'}
@@ -146,4 +146,4 @@ for i in range(len(vars)):
     )
     
     fig = dict( data=data, layout=layout )
-    plotly.offline.plot(fig, filename = 'maps/'+ df.varname+'.html', auto_open=False)
+    plotly.offline.plot(fig, filename = '../maps/'+ vars[i]['varname'] +'.html', auto_open=False)

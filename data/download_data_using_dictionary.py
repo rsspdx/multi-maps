@@ -25,7 +25,6 @@ import zipfile
 import io
 import os
 import pandas as pd
-import statsmodels.api as sm
 
 wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
@@ -90,7 +89,7 @@ data_dictionary = [
      'url' : 'http://api.worldbank.org/v2/en/indicator/SH.DYN.AIDS.ZS?downloadformat=csv',
      'long_name' : 'HIV prevalance, %, 2015',
      'source' : 'World Bank, World Development Indicators',
-     'short_name' : 'HIC Prevalence'
+     'short_name' : 'HIV Prevalence'
      },
      
 # urban population, percent of population
@@ -473,7 +472,7 @@ data_dictionary = [
 # Foreign direct investment, net (BoP, current US$
      {'name' : 'net_fdi',
       'url' : 'http://api.worldbank.org/v2/en/indicator/BN.KLT.DINV.CD?downloadformat=csv',
-      'long_name' : 'Foreign direct investment, net (BoP, current US$',
+      'long_name' : 'Foreign direct investment, net (BoP, current US$)',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Net foreign direct investment)'
       } 

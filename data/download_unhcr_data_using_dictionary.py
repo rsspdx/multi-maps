@@ -99,8 +99,11 @@ refugees = poc_df_2015.groupby('country').refugees.sum()
 
 #merge asylum_seekers, idps, refugees to a single data set
 asylum_seekers = pd.DataFrame(asylum_seekers)
+asylum_seekers.to_csv('asylum_seekers.csv')
 idps = pd.DataFrame(idps)
+idps.to_csv('idps.csv')
 refugees = pd.DataFrame(refugees)
+refugees.to_csv('refugees.csv')
 
 asylum_idps_refugees = asylum_seekers.merge(idps, on='country')
 asylum_idps_refugees = asylum_idps_refugees.merge(refugees, on='country')
@@ -158,3 +161,7 @@ total_decisions_2015 = pd.DataFrame(total_decisions_2015)
 recognized_total_decisions_2015 = recognized_2015.merge(total_decisions_2015, on='country')
 recognized_total_decisions_2015['recognition_rate'] = 100 * recognized_total_decisions_2015.recognized / recognized_total_decisions_2015.total_decisions
 recognized_total_decisions_2015.to_csv('recognized_total_decisions.csv')
+recognition_rate = pd.read_csv('recognized_total_decisions.csv')
+recognition_rate = recognition_rate.drop('recognized', 1)
+recognition_rate = recognition_rate.drop('total_decisions', 1)
+recognition_rate.to_csv('recognition_rate.csv')
