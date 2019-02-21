@@ -2,7 +2,7 @@ import json
 import requests
 from django.core.management.base import BaseCommand
 
-from get_data_app.models import Chart, DataRow
+from get_data_app.models import Chart, DataRow, Country
 
 class Command(BaseCommand):
 
@@ -11,6 +11,8 @@ class Command(BaseCommand):
         # PURGE DATA
         Chart.objects.all().delete()
         DataRow.objects.all().delete()
+        Country.objects.all().delete()
+
 
         # csvs = [{
         #     'file': 'file1.csv',
@@ -472,9 +474,12 @@ class Command(BaseCommand):
             data = data[1] # list of data rows (dictionaries)
             print(f'Downloading {item["name"]}')
             for datum in data:
+                country_name = datum['country']['value']
+                country_code = datum['countryiso3code']
+                country, created = Country.objects.get_or_create(name=country_name, code=country_code)
+
                 data_row = DataRow()
-                data_row.country = datum['country']['value']
-                data_row.country_code = datum['countryiso3code']
+                data_row.country = country
                 data_row.value = datum['value']
                 data_row.year = datum['date']
                 data_row.indicator = datum['indicator']['id']

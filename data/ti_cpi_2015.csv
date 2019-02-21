@@ -1,17 +1,17 @@
-Country Rank,Country/Territory,country_code,Region,ti_cpi,Number of Surveys Used,Std Error,Min,Max,90% Lower CI,90%Upper CI,World Bank CPIA,World  Economic Forum EOS,Bertelsmann  Foundation TI,Arican Development Bank,IMD World Competitiveness Year Book,Bertelsmann Foundation SGI,World Justice Project ROL,PRS Internationl Country Risk Guide,Economist Intelligence Unit,IHS Global Insight,PERC Asia Risk Guide,Freedom House NIT
+Country Rank,country,country_code,Region,ti_cpi,Number of Surveys Used,Std Error,Min,Max,90% Lower CI,90%Upper CI,World Bank CPIA,World  Economic Forum EOS,Bertelsmann  Foundation TI,Arican Development Bank,IMD World Competitiveness Year Book,Bertelsmann Foundation SGI,World Justice Project ROL,PRS Internationl Country Risk Guide,Economist Intelligence Unit,IHS Global Insight,PERC Asia Risk Guide,Freedom House NIT
 1,Denmark,DNK,Err:507,91,7,2.16,83,98,87,95,,89,,,96,97,88,98,88,83,,
 1,New Zealand,NZL,Err:507,91,7,2.32,83,98,87,95,,92,,,93,97,83,98,88,83,,
 3,Finland,FIN,Err:507,90,7,1.77,83,98,87,93,,93,,,91,89,88,98,88,83,,
 4,Sweden,SWE,Err:507,89,7,1.71,83,98,86,92,,89,,,87,89,88,98,88,83,,
 5,Norway,NOR,Err:507,88,7,2.24,81,98,84,92,,92,,,84,81,90,98,88,83,,
 6,Switzerland,CHE,Err:507,86,6,2.55,73,89,82,90,,87,,,88,89,,89,88,73,,
-7,Luxembourg,LUX,Err:507,85,5,1.60,81,89,82,88,,89,,,85,81,,89,,83,,
+7,Luxembourg,LUX,Err:507,85,5,1.6,81,89,82,88,,89,,,85,81,,89,,83,,
 7,Singapore,SGP,Err:507,85,8,2.02,75,92,82,88,,92,75,,87,,90,79,88,83,84,
 9,Netherlands,NLD,Err:507,84,7,1.98,73,89,81,87,,84,,,85,73,85,89,88,83,,
 10,Canada,CAN,Err:507,83,7,1.63,79,89,80,86,,79,,,79,81,79,89,88,83,,
-11,Germany,DEU,Err:507,81,7,2.50,72,89,77,85,,72,,,83,81,80,89,88,73,,
-11,United Kingdom,GBR,Err:507,81,7,2.40,73,89,77,85,,82,,,81,73,80,89,88,73,,
-13,Australia,AUS,Err:507,79,8,1.50,71,83,77,81,,81,,,82,81,81,79,71,83,74,
+11,Germany,DEU,Err:507,81,7,2.5,72,89,77,85,,72,,,83,81,80,89,88,73,,
+11,United Kingdom,GBR,Err:507,81,7,2.4,73,89,77,85,,82,,,81,73,80,89,88,73,,
+13,Australia,AUS,Err:507,79,8,1.5,71,83,77,81,,81,,,82,81,81,79,71,83,74,
 13,Iceland,ISL,Err:507,79,5,4.53,65,89,72,86,,87,,,83,65,,89,,73,,
 15,Belgium,BEL,Err:507,77,7,1.34,71,81,75,79,,79,,,77,81,76,79,71,73,,
 16,Austria,AUT,Err:507,76,7,1.76,70,81,73,79,,77,,,70,81,81,79,71,73,,
@@ -26,7 +26,7 @@ Country Rank,Country/Territory,country_code,Region,ti_cpi,Number of Surveys Used
 23,France,FRA,Err:507,70,7,2.49,57,79,66,74,,70,,,71,57,71,79,71,73,,
 23,United Arab Emirates,ARE,Err:507,70,7,5.07,53,91,62,78,,91,53,,76,,77,69,54,73,,
 27,Bhutan,BTN,Err:507,65,4,2.14,60,70,61,69,70,60,66,,,,,,,63,,
-28,Portugal,PRT,Err:507,64,7,2.50,54,73,60,68,,62,,,58,65,68,69,54,73,,
+28,Portugal,PRT,Err:507,64,7,2.5,54,73,60,68,,62,,,58,65,68,69,54,73,,
 29,Botswana,BWA,Err:507,63,6,2.35,58,71,59,67,,59,58,,,,58,69,71,63,,
 29,Poland,POL,Err:507,63,9,2.59,54,73,59,67,,58,71,,58,73,67,60,54,73,,55
 31,Taiwan,TWN,Err:507,62,7,3.78,50,79,56,68,,70,79,,60,,,50,54,63,56,
@@ -40,10 +40,10 @@ Country Rank,Country/Territory,country_code,Region,ti_cpi,Number of Surveys Used
 38,Latvia,LVA,Err:507,56,8,2.76,48,73,51,61,,56,58,,48,73,,50,54,52,,60
 40,Cape Verde,CPV,Err:507,55,4,6.16,42,70,45,65,70,49,,60,,,,,,42,,
 40,Costa Rica,CRI,Err:507,55,6,2.71,48,66,51,59,,48,66,,,,59,50,54,52,,
-40,Seychelles,SYC,Err:507,55,3,8.50,42,71,41,69,,42,,,,,,,71,52,,
+40,Seychelles,SYC,Err:507,55,3,8.5,42,71,41,69,,42,,,,,,,71,52,,
 43,Korea (South),KOR,Err:507,54,9,2.29,46,70,50,58,,52,58,,51,57,70,50,54,52,46,
 43,Rwanda,RWA,Err:507,54,5,6.42,40,78,43,65,47,78,40,55,,,,,,52,,
-45,Jordan,JOR,Err:507,53,7,3.00,40,65,48,58,,60,40,,65,,51,50,54,52,,
+45,Jordan,JOR,Err:507,53,7,3,40,65,48,58,,60,40,,65,,51,50,54,52,,
 45,Mauritius,MUS,Err:507,53,4,1.49,49,56,51,55,,56,49,,,,,,54,52,,
 45,Namibia,NAM,Err:507,53,5,2.75,48,63,48,58,,48,49,,,,,50,54,63,,
 48,Georgia,GEO,Err:507,52,5,6.53,32,69,41,63,,69,53,,,,62,,,32,,44
@@ -52,24 +52,24 @@ Country Rank,Country/Territory,country_code,Region,ti_cpi,Number of Surveys Used
 50,Croatia,HRV,Err:507,51,9,2.02,41,62,48,54,,46,62,,41,57,50,50,54,52,,50
 50,Hungary,HUN,Err:507,51,9,3.73,34,71,45,57,,47,53,,34,41,44,50,71,63,,52
 50,Slovakia,SVK,Err:507,51,8,3.63,35,63,45,57,,38,62,,35,57,,50,54,63,,52
-54,Malaysia,MYS,Err:507,50,8,3.00,40,64,45,55,,64,49,,53,,40,41,54,42,56,
+54,Malaysia,MYS,Err:507,50,8,3,40,64,45,55,,64,49,,53,,40,41,54,42,56,
 55,Kuwait,KWT,Err:507,49,5,4.51,38,63,42,56,,52,40,,,,,50,38,63,,
 56,Cuba,CUB,Err:507,47,4,3.64,40,54,41,53,,,40,,,,,41,54,52,,
 56,Ghana,GHA,Err:507,47,8,2.82,33,55,42,52,47,33,45,55,,,37,50,54,52,,
 58,Greece,GRC,Err:507,46,7,5.08,21,63,38,54,,45,,,43,57,50,41,21,63,,
 58,Romania,ROM,Err:507,46,9,3.11,36,62,41,51,,36,62,,37,57,45,41,38,42,,52
 60,Oman,OMN,Err:507,45,5,6.69,23,62,34,56,,62,23,,,,,50,38,52,,
-61,Italy,ITA,Err:507,44,7,2.50,35,54,40,48,,47,,,35,49,54,41,38,42,,
+61,Italy,ITA,Err:507,44,7,2.5,35,54,40,48,,47,,,35,49,54,41,38,42,,
 61,Lesotho,LSO,Err:507,44,5,4.99,35,63,36,52,35,38,40,42,,,,,,63,,
 61,Montenegro,MON,Err:507,44,4,4.87,32,53,36,52,,50,53,,,,,,,32,,39
 61,Senegal,SEN,Err:507,44,8,2.61,32,54,40,48,47,43,53,45,,,38,41,54,32,,
 61,South Africa,ZAF,Err:507,44,7,2.61,34,54,40,48,,52,45,,34,,41,41,54,42,,
-66,Sao Tome and Principe,STP,Err:507,42,3,5.00,32,47,34,50,47,,,47,,,,,,32,,
+66,Sao Tome and Principe,STP,Err:507,42,3,5,32,47,34,50,47,,,47,,,,,,32,,
 66,The FYR of Macedonia,MKD,Err:507,42,6,5.27,21,61,33,51,,61,40,,,,41,,21,42,,47
 66,Turkey,TUR,Err:507,42,8,2.02,33,53,39,45,,53,45,,42,41,33,41,38,42,,
 69,Bulgaria,BGR,Err:507,41,9,2.43,32,53,37,45,,38,53,,32,49,32,41,38,42,,47
 69,Jamaica,JAM,Err:507,41,6,1.68,36,48,38,44,,42,36,,,,48,41,38,42,,
-71,Serbia,SCG,Err:507,40,7,3.90,27,58,34,46,,37,58,,,,27,31,38,42,,47
+71,Serbia,SCG,Err:507,40,7,3.9,27,58,34,46,,37,58,,,,27,31,38,42,,47
 72,El Salvador,SLV,Err:507,39,6,2.26,29,45,35,43,,37,45,,,,29,41,38,42,,
 72,Mongolia,MNG,Err:507,39,8,1.76,31,47,36,42,47,42,36,,37,,35,31,38,42,,
 72,Panama,PAN,Err:507,39,6,3.01,31,52,34,44,,41,36,,,,34,31,38,52,,
@@ -123,7 +123,7 @@ Country Rank,Country/Territory,country_code,Region,ti_cpi,Number of Surveys Used
 119,Sierra Leone,SLE,Err:507,29,8,3.44,14,40,23,35,35,20,40,40,,,14,31,21,32,,
 123,Gambia,GMB,Err:507,28,5,6.67,12,49,17,39,12,49,,15,,,,31,,32,,
 123,Guatemala,GTM,Err:507,28,6,3.46,15,38,22,34,,38,32,,,,15,31,21,32,,
-123,Kazakhstan,KAZ,Err:507,28,8,4.90,11,51,20,36,,51,19,,46,,28,21,21,11,,23
+123,Kazakhstan,KAZ,Err:507,28,8,4.9,11,51,20,36,,51,19,,46,,28,21,21,11,,23
 123,Kyrgyzstan,KGZ,Err:507,28,6,2.29,20,35,24,32,35,25,32,,,,20,,,32,,26
 123,Lebanon,LBN,Err:507,28,6,3.22,19,38,23,33,,35,19,,,,24,21,38,32,,
 123,Madagascar,MDG,Err:507,28,7,2.99,20,42,23,33,23,29,32,20,,,20,31,,42,,
@@ -131,13 +131,13 @@ Country Rank,Country/Territory,country_code,Region,ti_cpi,Number of Surveys Used
 130,Cameroon,CMR,Err:507,27,8,3.26,14,45,22,32,23,30,28,45,,,14,31,21,22,,
 130,Iran,IRN,Err:507,27,6,3.28,21,41,22,32,,41,23,,,,31,21,21,22,,
 130,Nepal,NPL,Err:507,27,5,2.73,22,35,23,31,35,33,23,,,,24,,,22,,
-130,Nicaragua,NIC,Err:507,27,7,2.50,19,35,23,31,35,33,28,,,,19,21,21,32,,
+130,Nicaragua,NIC,Err:507,27,7,2.5,19,35,23,31,35,33,28,,,,19,21,21,32,,
 130,Paraguay,PRY,Err:507,27,5,2.85,21,36,22,32,,25,36,,,,,31,21,22,,
 130,Ukraine,UKR,Err:507,27,8,1.93,21,36,24,30,,28,36,,26,,22,21,21,32,,29
 136,Comoros,COM,Err:507,26,3,8.76,12,42,12,40,23,,,12,,,,,,42,,
 136,Nigeria,NGA,Err:507,26,8,2.24,19,35,22,30,35,25,28,35,,,19,21,21,22,,
 136,Tajikistan,TJK,Err:507,26,5,7.36,11,53,14,38,23,53,15,,,,,,,11,,26
-139,Bangladesh,BGD,Err:507,25,7,4.30,16,50,18,32,23,19,23,,,,16,50,21,22,,
+139,Bangladesh,BGD,Err:507,25,7,4.3,16,50,18,32,23,19,23,,,,16,50,21,22,,
 139,Guinea,GIN,Err:507,25,6,3.16,15,36,20,30,23,15,36,32,,,,21,,22,,
 139,Kenya,KEN,Err:507,25,8,3.02,11,35,20,30,35,30,28,35,,,18,21,21,11,,
 139,Laos,LAO,Err:507,25,4,5.31,15,40,16,34,23,40,15,,,,,,,22,,
@@ -159,9 +159,9 @@ Country Rank,Country/Territory,country_code,Region,ti_cpi,Number of Surveys Used
 158,Guinea-Bissau,GNB,Err:507,17,4,2.63,12,22,13,21,12,,,20,,,,12,,22,,
 158,Haiti,HTI,Err:507,17,5,2.74,11,24,13,21,23,24,15,,,,,12,,11,,
 158,Venezuela,VEN,Err:507,17,7,2.64,5,25,13,21,,21,15,,25,,5,12,21,22,,
-161,Iraq,IRQ,Err:507,16,4,2.50,11,21,12,20,,,19,,,,,12,21,11,,
+161,Iraq,IRQ,Err:507,16,4,2.5,11,21,12,20,,,19,,,,,12,21,11,,
 161,Libya,LBY,Err:507,16,5,3.18,10,26,11,21,,26,10,,,,,12,21,11,,
-163,Angola,AGO,Err:507,15,5,1.80,11,21,12,18,,17,15,,,,,12,21,11,,
+163,Angola,AGO,Err:507,15,5,1.8,11,21,12,18,,17,15,,,,,12,21,11,,
 163,South Sudan,SSD,SSA,15,3,1.45,12,17,13,17,12,,15,17,,,,,,,,
 165,Sudan,SDN,Err:507,12,6,3.64,0,21,6,18,0,,15,20,,,,2,21,11,,
 166,Afghanistan,AFG,Err:507,11,4,3.49,2,19,5,17,12,,19,,,,2,,,11,,

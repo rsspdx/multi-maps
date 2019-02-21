@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    </head>
+    <body>
+        <select id="chart_ddl">
+            {% for chart in charts %}
+            <option value="{{chart.id}}">{{ chart.shortname }}</option>
+            {% endfor %}
+        </select>
+        <script type="text/javascript">
+            // get the value of the selected option in the ddl
+            let chart_ddl = document.querySelector('#chart_ddl')
+            let chart_id = chart_ddl.options[chart_ddl.selectedIndex].value
+            // add that chart id as a query parameter to the url
+            // use axios to do a get request to {% url 'get_data_app:get_chart_data' %}
+            axios.get('/get_chart_data/?chart_id=' + chart_id).then(function(response) {
+                let chart_data = response.data
+            })
+        </script>
+    </body>
+</html>

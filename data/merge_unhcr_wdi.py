@@ -14,21 +14,22 @@ wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
 
 
-gdpcap = pd.read_csv('gdp_per_capita.csv', index_col=0)
-asylum_idps_refugees = pd.read_csv('asylum_idps_refugees.csv', index_col=0)
-recognized_total_decisions = pd.read_csv('recognized_total_decisions.csv', index_col=0)
-wdi_vars = pd.read_csv('wdi_vars.csv', index_col=0)
-country_iso_2_iso_3 = pd.read_csv('country_iso_2_iso_3.csv', index_col=0)
-happiness = pd.read_csv('happiness.2015.csv', index_col=0)
+gdpcap = pd.read_csv('gdp_per_capita.csv')
+asylum_idps_refugees = pd.read_csv('asylum_idps_refugees.csv')
+recognized_total_decisions = pd.read_csv('recognized_total_decisions.csv')
+wdi_vars = pd.read_csv('wdi_vars.csv')
+country_iso_2_iso_3 = pd.read_csv('country_iso_2_iso_3.csv')
+happiness = pd.read_csv('happiness.2015.csv')
 happiness.to_csv('happiness.csv')
-ti_cpi = pd.read_csv('ti_cpi_2015.csv', index_col=0)
-asylum_seekers = pd.read_csv('asylum_seekers.csv', index_col=0)
-idps = pd.read_csv('idps.csv', index_col=0)
-refugees = pd.read_csv('refugees.csv', index_col=0)
-recognition_rate = pd.read_csv('recognition_rate.csv', index_col=0)
+ti_cpi = pd.read_csv('ti_cpi_2015.csv')
+asylum_seekers = pd.read_csv('asylum_seekers.csv')
+idps = pd.read_csv('idps.csv')
+refugees = pd.read_csv('refugees.csv')
+recognition_rate = pd.read_csv('recognition_rate.csv')
 
 unhcr_vars = asylum_idps_refugees.merge(recognized_total_decisions, on='country')
 unhcr_vars = unhcr_vars.merge(country_iso_2_iso_3, on='country')
+unhcr_vars['country_code'] = unhcr_vars['iso_3']
 
 refugees = refugees.merge(country_iso_2_iso_3, on='country')
 refugees['country_code'] = refugees['iso_3']
@@ -46,7 +47,7 @@ recognition_rate = recognition_rate.merge(country_iso_2_iso_3, on='country')
 recognition_rate['country_code'] = recognition_rate['iso_3']
 recognition_rate.to_csv('recognition_rate.csv')
 
-wdi_vars = wdi_vars.merge(unhcr_vars, left_on='country_code', right_on='iso_3')
+wdi_vars = wdi_vars.merge(unhcr_vars, on='country_code')
 
 wdi_vars['refugees_per_pop'] = wdi_vars['refugees'] / wdi_vars['population']
 wdi_vars['asylum_seekers_per_pop'] = wdi_vars['asylum_seekers'] / wdi_vars['population']

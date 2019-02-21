@@ -2,6 +2,13 @@ from django.db import models
 
 
 
+class Country(models.Model):
+    name = models.CharField(max_length=100)
+    code = models.CharField(max_length=3)
+
+    def __str__(self):
+        return self.name
+
 class Chart(models.Model):
     name = models.CharField(max_length=50)
     url = models.CharField(max_length=200)
@@ -13,8 +20,7 @@ class Chart(models.Model):
         return self.shortname
 
 class DataRow(models.Model):
-    country = models.CharField(max_length=100)
-    country_code = models.CharField(max_length=3)
+    country = models.ForeignKey(Country, on_delete=models.PROTECT)
     varname = models.ForeignKey(Chart, on_delete=models.PROTECT)
     value = models.FloatField(null=True, blank=True)
     year = models.IntegerField()

@@ -94,13 +94,21 @@ vars = [
 {'varname': 'slum_population_pct_urban_population_resid', 'long_name': 'Slum Population, % of Urban Population, Residuals from Regression on GDP per Capita', 'short_name': 'Slum Population, % of Urban Population, Residuals from Regression on GDP per Capita', 'source':'World Bank, World Development Indicators'},
 {'varname': 'pm25_pct_population_resid', 'long_name': 'PM25 Exposure, % of population, Residuals from Regression on GDP per Capita', 'short_name': 'PM25 Exposure, % of population, Residuals from Regression on GDP per Capita', 'source':'World Bank, World Development Indicators'},
 {'varname': 'asylum_seekers', 'long_name': 'Asylum Seekers', 'short_name': 'Asylum Seekers', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+{'varname': 'asylum_seekers_resid', 'long_name': 'Asylum Seekers, Residuals from Regression on GDP per Capita', 'short_name': 'Asylum Seekers, residuals', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'idps', 'long_name': 'Internally Displaced Persons', 'short_name': 'Internally Displaced Persons', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+{'varname': 'idps_resid', 'long_name': 'Internally Displaced Persons, Residuals from Regression on GDP per Capita', 'short_name': 'Internally Displaced Persons, residuals', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'refugees', 'long_name': 'Refugees', 'short_name': 'Refugees', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+{'varname': 'refugees_resid', 'long_name': 'Refugees, Residuals from Regression on GDP per Capita', 'short_name': 'Refugees, residuals', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'recognition_rate', 'long_name': 'Asylum Recognition Rate', 'short_name': 'Asylum Recognition Rate', 'source':'United Nations High Commission for Refugees, Population Statistics'},
-{'varname': 'refugees_per_pop', 'long_name': 'Refugees per Population', 'short_name': 'Refugees per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+{'varname': 'recognition_rate_resid', 'long_name': 'Asylum Recognition Rate, Residuals from Regression on GDP per Capita', 'short_name': 'Asylum Recognition Rate, residuals', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+#{'varname': 'refugees_per_pop', 'long_name': 'Refugees per Population', 'short_name': 'Refugees per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+#{'varname': 'refugees_per_pop_resid', 'long_name': 'Refugees per Population, Residuals from Regression on GDP per Capita', 'short_name': 'Refugees per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+{'varname': 'asylum_seekers_per_pop', 'long_name': 'Asylum Seekers per Population', 'short_name': 'Asylum Seekers per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'asylum_seekers_per_pop', 'long_name': 'Asylum Seekers per Population', 'short_name': 'Asylum Seekers per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'happiness', 'long_name': 'Self-Reported Happiness (1-10, 10 high)', 'short_name': 'Self-Reported Happiness (1-10, 10 high)', 'source':'World Happiness Report'},
-{'varname': 'ti_cpi', 'long_name': 'Corruption Perception Index (reversed)', 'short_name': 'Corruption Perception Index (reversed)', 'source':'Transparency International'}
+{'varname': 'happiness_resid', 'long_name': 'Self-Reported Happiness (1-10, 10 high), Residuals from Regression on GDP per Capita', 'short_name': 'Self-Reported Happiness, residuals', 'source':'World Happiness Report'},
+{'varname': 'ti_cpi', 'long_name': 'Corruption Perception Index (reversed)', 'short_name': 'Corruption Perception Index (reversed)', 'source':'Transparency International'},
+{'varname': 'ti_cpi_resid', 'long_name': 'Corruption Perception Index (reversed), Residuals from Regression on GDP per Capita', 'short_name': 'Corruption Perception Index (reversed), residuals', 'source':'Transparency International'}
 
 ]
 
@@ -111,7 +119,7 @@ for i in range(len(vars)):
     data = [ dict(
            type = 'choropleth',
            locations = df['country_code'],
-           z = df.iloc[:,2],
+           z = df[vars[i]['varname']],
            text = df['country'],
            colorscale = [[0,"rgb(5, 10, 172)"],[0.35,"rgb(40, 60, 190)"],[0.5,"rgb(70, 100, 245)"],\
                [0.6,"rgb(90, 120, 245)"],[0.7,"rgb(106, 137, 247)"],[1,"rgb(220, 220, 220)"]],
