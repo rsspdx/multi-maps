@@ -19,5 +19,16 @@ def get_chart_data(request):
     # get all the chart data associated with that chart
     # put it into a list
     # return a jsonresponse
-    chart = Chart.objects.filter(pk=chart_id)
+    # chart = Chart.objects.filter(pk=chart_id)
     pass
+   
+
+
+
+def chart(request):
+    chart_html = ''
+    with open('get_data_app/charts/chart.html', 'r') as f:
+        chart_html = f.read()
+    return render(request, 'get_data_app/chart.html', {'chart_html': chart_html})
+
+
