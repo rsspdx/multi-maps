@@ -35,7 +35,7 @@ os.chdir(wd)
 
 
 
-
+regions = ['ARB', 'CEB', 'CSS', 'EAP', 'EAR', 'ECA', 'ECS', 'EMU', 'EUU', 'FCS', 'HIC', 'HPC', 'IBD', 'IBT', 'IDA', 'IDB', 'IDX', 'INX', 'LAC', 'LCN', 'LDC', 'LIC', 'LMC', 'LMY', 'LTE', 'MEA', 'MIC', 'MNA', 'NAC', 'OED', 'OSS', 'PRE', 'PST','SSA', 'SST','TEA', 'TEC', 'TLA', 'TMN', 'TSA', 'TSS', 'UMC', 'WLD']
 
 data_dictionary = [
       
@@ -44,7 +44,7 @@ data_dictionary = [
         
     {'name' : 'population',
      'url' : 'http://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv',
-     'long_name' : 'Population',
+     'long_name' : 'Population, 2015',
      'source' : 'World Bank, World Development Indicators',
      'short_name' : 'Population)'
      },
@@ -53,7 +53,7 @@ data_dictionary = [
         
     {'name' : 'migrant_stock',
      'url' : 'http://api.worldbank.org/v2/en/indicator/SM.POP.TOTL.ZS?downloadformat=csv',
-     'long_name' : 'International migrant stock (% of population)',
+     'long_name' : 'International migrant stock (% of population), 2015',
      'source' : 'World Bank, World Development Indicators',
      'short_name' : 'International migrant stock (% of population)'
      },
@@ -169,7 +169,7 @@ data_dictionary = [
 # remittances received, current USD
     {'name' : 'remittances',
      'url' : 'http://api.worldbank.org/v2/en/indicator/BX.TRF.PWKR.CD.DT?downloadformat=csv',
-     'long_name' : 'Remittances received, current USD',
+     'long_name' : 'Remittances received, current USD, 2015',
      'source' : 'World Bank, World Development Indicators',
      'short_name' : 'Remittances received'
      },
@@ -250,7 +250,7 @@ data_dictionary = [
   # ---------->  # NOTE: Indonesia data appears to be missing
      {'name' : 'lowest_ten_income_share',
       'url' : 'http://api.worldbank.org/v2/en/indicator/SI.DST.FRST.10?downloadformat=csv',
-      'long_name' : 'Share of income held by lowest 10% of population',
+      'long_name' : 'Share of income held by lowest 10% of population, 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Income share, lowest 10%'
       },
@@ -259,7 +259,7 @@ data_dictionary = [
   # ---------->  # NOTE: Indonesia data appears to be missing
      {'name' : 'highest_ten_income_share',
       'url' : 'http://api.worldbank.org/v2/en/indicator/SI.DST.10TH.10?downloadformat=csv',
-      'long_name' : 'Share of income held by highest 10% of population',
+      'long_name' : 'Share of income held by highest 10% of population, 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Income share, highest 10%'
       },
@@ -321,7 +321,7 @@ data_dictionary = [
 # trade (% of GDP)
      {'name' : 'trade_pct_gdp',
       'url' : 'http://api.worldbank.org/v2/en/indicator/NE.TRD.GNFS.ZS?downloadformat=csv',
-      'long_name' : 'Trade, % of gross domestic product',
+      'long_name' : 'Trade, % of gross domestic product, 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Trade, % of GDP'
       },
@@ -329,7 +329,7 @@ data_dictionary = [
 # Individuals using the Internet (% of population)
      {'name' : 'use_internet_pct_pop',
       'url' : 'http://api.worldbank.org/v2/en/indicator/IT.NET.USER.ZS?downloadformat=csv',
-      'long_name' : 'Individuals using the Internet (% of population)',
+      'long_name' : 'Individuals using the Internet (% of population), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Internet users, & of population'
       },
@@ -337,7 +337,7 @@ data_dictionary = [
 # Mobile cellular subscriptions (per 100 people)
      {'name' : 'mobile_phone_subscriptions_pct_pop',
       'url' : 'http://api.worldbank.org/v2/en/indicator/IT.CEL.SETS.P2?downloadformat=csv',
-      'long_name' : 'Mobile cellular subscriptions, % of population',
+      'long_name' : 'Mobile cellular subscriptions, % of population, 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Mobile phone subscriptions, & of population'
       },
@@ -345,7 +345,7 @@ data_dictionary = [
 # Time required to start a business (days)
      {'name' : 'days_required_to_start_business',
       'url' : 'http://api.worldbank.org/v2/en/indicator/IC.REG.DURS?downloadformat=csv',
-      'long_name' : 'Time required to start a business (days)',
+      'long_name' : 'Time required to start a business (days), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Time required to start a business (days)'
       },
@@ -380,7 +380,7 @@ data_dictionary = [
 # ------------> # NOTE: data from 2018
      {'name' : 'ease_doing_business',
       'url' : 'http://api.worldbank.org/v2/en/indicator/IC.BUS.EASE.XQ?downloadformat=csv',
-      'long_name' : 'Ease of doing business index (1=most business-friendly regulations)',
+      'long_name' : 'Ease of doing business index (1=most business-friendly regulations), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Ease of doing business index (1=most business-friendly regulations)'
       },
@@ -388,7 +388,7 @@ data_dictionary = [
 # Tax revenue (% of GDP)
      {'name' : 'tax_revenue_pct_gdp',
       'url' : 'http://api.worldbank.org/v2/en/indicator/GC.TAX.TOTL.GD.ZS?downloadformat=csv',
-      'long_name' : 'Tax revenue (% of GDP)',
+      'long_name' : 'Tax revenue (% of GDP), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Tax revenue (% of GDP)'
       },
@@ -396,7 +396,7 @@ data_dictionary = [
 # Net lending (+) / net borrowing (-) (% of GDP)
      {'name' : 'net_lending_borrowing_pct_gdp',
       'url' : 'http://api.worldbank.org/v2/en/indicator/GC.NLD.TOTL.GD.ZS?downloadformat=csv',
-      'long_name' : 'Net lending (+) / net borrowing (-) (% of GDP)',
+      'long_name' : 'Net lending (+) / net borrowing (-) (% of GDP), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Net lending (+) / net borrowing (-) (% of GDP)'
       },
@@ -404,7 +404,7 @@ data_dictionary = [
 # Central government debt, total (% of GDP)
      {'name' : 'central_govt_debt_pct_gdp',
       'url' : 'http://api.worldbank.org/v2/en/indicator/GC.DOD.TOTL.GD.ZS?downloadformat=csv',
-      'long_name' : 'Central government debt, total (% of GDP)',
+      'long_name' : 'Central government debt, total (% of GDP), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Central government debt, total (% of GDP)'
       },  
@@ -421,7 +421,7 @@ data_dictionary = [
 # Risk premium on lending (lending rate minus treasury bill rate, %)
      {'name' : 'risk_premium',
       'url' : 'http://api.worldbank.org/v2/en/indicator/FR.INR.RISK?downloadformat=csv',
-      'long_name' : 'Risk premium on lending (lending rate minus treasury bill rate, %)',
+      'long_name' : 'Risk premium on lending (lending rate minus treasury bill rate, %), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Risk premium on lending'
       },
@@ -430,7 +430,7 @@ data_dictionary = [
      # data are from 2016
      {'name' : 'biodiversity_protected_areas',
       'url' : 'http://api.worldbank.org/v2/en/indicator/ER.PTD.TOTL.ZS?downloadformat=csv',
-      'long_name' : 'Terrestrial and marine protected areas (% of total territorial area)',
+      'long_name' : 'Terrestrial and marine protected areas (% of total territorial area), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Terrestrial and marine protected areas (% of total territorial area)'
       },
@@ -438,7 +438,7 @@ data_dictionary = [
 # Renewable internal freshwater resources per capita (cubic meters)
      {'name' : 'renewable_freshwater_per_capita',
       'url' : 'http://api.worldbank.org/v2/en/indicator/ER.H2O.INTR.PC?downloadformat=csv',
-      'long_name' : 'Renewable internal freshwater resources per capita (cubic meters)',
+      'long_name' : 'Renewable internal freshwater resources per capita (cubic meters), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Renewable internal freshwater resources per capita (cubic meters)'
       },
@@ -456,7 +456,7 @@ data_dictionary = [
 # NOTE: data from 2014
      {'name' : 'slum_population_pct_urban_population',
       'url' : 'http://api.worldbank.org/v2/en/indicator/EN.POP.SLUM.UR.ZS?downloadformat=csv',
-      'long_name' : 'Population living in slums (% of urban population)',
+      'long_name' : 'Population living in slums (% of urban population), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Population living in slums (% of urban population)'
       }, 
@@ -464,7 +464,7 @@ data_dictionary = [
 # PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)
      {'name' : 'pm25_pct_population',
       'url' : 'http://api.worldbank.org/v2/en/indicator/EN.ATM.PM25.MC.ZS?downloadformat=csv',
-      'long_name' : 'PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)',
+      'long_name' : 'PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'PM2.5 air pollution exposure, % of population)'
       }, 
@@ -472,11 +472,28 @@ data_dictionary = [
 # Foreign direct investment, net (BoP, current US$
      {'name' : 'net_fdi',
       'url' : 'http://api.worldbank.org/v2/en/indicator/BN.KLT.DINV.CD?downloadformat=csv',
-      'long_name' : 'Foreign direct investment, net (BoP, current US$)',
+      'long_name' : 'Foreign direct investment, net (BoP, current US$), 2015',
       'source' : 'World Bank, World Development Indicators',
       'short_name' : 'Net foreign direct investment)'
-      } 
+      } ,
 
+# Literacy rate, adults
+    {'name': 'literacy_rate',
+     'url' : 'http://api.worldbank.org/v2/en/indicator/SE.ADT.LITR.ZS?downloadformat=csv',
+     'long_name' : 'Adult Literacy Rate, %, 2015',
+     'source' : 'World Bank, World Development Indicators',
+     'short_name' : 'Adult Literacy Rate'
+     },
+     
+# Gini coefficient     
+     {'name' : 'gini_coefficient',
+      'url' : 'http://api.worldbank.org/v2/en/indicator/SI.POV.GINI?downloadformat=csv',
+      'long_name' : 'Gini Coefficient',
+      'source' : 'World Bank, World Development Indicators',
+      'short_name' : 'Gini Coefficient'
+      }
+      
+      
 ]
 
 for i in range(len(data_dictionary)-1):
@@ -513,7 +530,9 @@ for i in range(len(data_dictionary)-1):
         csv = csv.rename(index =  str, columns={'Country Name' : 'country', 'Country Code': 'country_code', '2014': data_dictionary[i]['name']})
     else:
         csv = csv.rename(index =  str, columns={'Country Name' : 'country', 'Country Code': 'country_code', '2015': data_dictionary[i]['name']})
-        
+    
+    for reg in regions:
+        csv[csv.country_code == reg] = np.nan
     csv.to_csv(data_dictionary[i]['name']+'.csv', index=False)
 
 varnames = []
