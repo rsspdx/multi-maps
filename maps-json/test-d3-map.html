@@ -1,0 +1,29 @@
+<html>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-geo/1.9.1/d3-geo.min.js"></script>
+</head>
+<body>
+<script>
+
+var format = function(d) {
+    d = d / 1000000;
+    return d3.format(',.02f')(d) + 'M';
+}
+
+var map = d3.geomap.choropleth()
+    .geofile('/Users/rs/multi-maps/maps-json/countries.json')
+    .colors(colorbrewer.YlGnBu[9])
+    .column('YR2010')
+    .format(format)
+    .legend(true)
+    .unitId('iso3');
+
+d3.csv('/data/sp.pop.totl.csv', function(error, data) {
+    var selection = d3.select('#map').datum(data);
+    map.draw(selection);
+});
+
+
+</script>
+</body>
+</html>

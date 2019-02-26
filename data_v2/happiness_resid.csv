@@ -1,0 +1,179 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,country_code,country_x,country_code.1,happiness,Unnamed: 5,country_y,happiness_resid,country
+0,0,2,3,ABW,Aruba,,,sw,Aruba,,Aruba
+1,1,3,4,AFG,Afghanistan,Afghanistan,3.9828546,,Afghanistan,-0.2433245288713999,Afghanistan
+2,2,4,5,AGO,Angola,,,,Angola,,Angola
+3,3,5,6,ALB,Albania,Albania,4.6066508000000015,,Albania,-0.5598735154677446,Albania
+4,4,7,8,ARG,Argentina,Argentina,6.6971307,,Argentina,1.073288400273135,Argentina
+5,5,8,9,ARM,Armenia,Armenia,4.3483195,,Armenia,-0.549484488075322,Armenia
+6,6,9,10,ATG,Antigua and Barbuda,,,,Antigua and Barbuda,,Antigua and Barbuda
+7,7,10,11,AUS,Australia,Australia,7.3090606,,Australia,0.5221959945314101,Australia
+8,8,11,12,AUT,Austria,Austria,7.076447,,Austria,0.19511226471106455,Austria
+9,9,12,13,AZE,Azerbaijan,Azerbaijan,5.1467748,,Azerbaijan,-0.3737426984827632,Azerbaijan
+10,10,13,14,BDI,Burundi,,,,Burundi,,Burundi
+11,11,14,15,BEL,Belgium,Belgium,6.904219199999999,,Belgium,0.14048047434296862,Belgium
+12,12,15,16,BEN,Benin,Benin,3.6246642999999996,,Benin,-0.6218951956864052,Benin
+13,13,16,17,BFA,Burkina Faso,Burkina Faso,4.4189301,,Burkina Faso,0.21550226405815295,Burkina Faso
+14,14,17,18,BGD,Bangladesh,Bangladesh,4.6334739,,Bangladesh,0.2625672305821496,Bangladesh
+15,15,18,19,BGR,Bulgaria,Bulgaria,4.8654013,,Bulgaria,-0.6709655847709417,Bulgaria
+16,16,19,20,BHR,Bahrain,Bahrain,6.0073752,,Bahrain,-0.7955835571519208,Bahrain
+17,17,20,21,BHS,Bahamas,,,,"Bahamas, The",,Bahamas
+18,18,21,22,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,5.117178,,Bosnia and Herzegovina,-0.048701894464014295,Bosnia and Herzegovina
+19,19,22,23,BLR,Belarus,Belarus,5.7189078,,Belarus,0.17678176590539252,Belarus
+20,20,23,24,BLZ,Belize,,,,Belize,,Belize
+21,21,24,25,BOL,Bolivia (Plurinational State of),Bolivia (Plurinational State of),5.8343291,,Bolivia,1.1072438692644535,Bolivia (Plurinational State of)
+22,22,25,26,BRA,Brazil,Brazil,6.5468969,,Brazil,1.1250861719381555,Brazil
+23,23,26,27,BRN,Brunei Darussalam,,,,Brunei Darussalam,,Brunei Darussalam
+24,24,27,28,BTN,Bhutan,Bhutan,5.0821285000000005,,Bhutan,0.2302109548888005,Bhutan
+25,25,28,29,BWA,Botswana,Botswana,3.7619648,,Botswana,-1.678032812560779,Botswana
+26,26,29,30,CAF,Central African Rep.,,,,Central African Republic,,Central African Rep.
+27,27,30,31,CAN,Canada,Canada,7.4127727,,Canada,0.671381515953521,Canada
+28,28,31,32,CHE,Switzerland,Switzerland,7.5721369,,Switzerland,0.5468440918323809,Switzerland
+29,29,32,33,CHL,Chile,Chile,6.5327497,,Chile,0.7989314442241469,Chile
+30,30,33,34,CHN,China,China,5.3038777999999995,,China,-0.04691097926423815,China
+31,31,34,35,CIV,Cote d'Ivoire,Cote d'Ivoire,4.4450388,,Cote d'Ivoire,0.06244061480498875,Cote d'Ivoire
+32,32,35,36,CMR,Cameroon,Cameroon,5.0379648,,Cameroon,0.6502861223348564,Cameroon
+33,33,36,37,COD,Dem. Rep. of the Congo,Dem. Rep. of the Congo,3.9027417,,"Congo, Dem. Rep.",-0.21301941680302328,Dem. Rep. of the Congo
+34,34,37,38,COG,Congo,Congo,4.6908302000000015,,"Congo, Rep.",0.0660010938366753,Congo
+35,35,38,39,COL,Colombia,Colombia,6.3875718,,Colombia,1.0828858744486585,Colombia
+36,36,39,40,CPV,Cabo Verde,,,,Cabo Verde,,Cabo Verde
+37,37,40,41,CRI,Costa Rica,Costa Rica,6.854004400000001,,Costa Rica,1.4301041526993448,Costa Rica
+38,38,41,42,CUB,Cuba,,,,Cuba,,Cuba
+39,39,42,43,CUW,Cura<e7>ao,,,,Curacao,,Cura<e7>ao
+40,40,43,44,CYM,Cayman Islands,,,,Cayman Islands,,Cayman Islands
+41,41,44,45,CYP,Cyprus,Cyprus,5.439161299999999,,Cyprus,-0.7536506585284677,Cyprus
+42,42,45,46,CZE,Czech Rep.,Czech Rep.,6.6080174,,Czech Republic,0.317271896057453,Czech Rep.
+43,43,46,47,DEU,Germany,Germany,7.0371375,,Germany,0.2055419530641656,Germany
+44,44,47,48,DJI,Djibouti,,,,Djibouti,,Djibouti
+45,45,48,49,DNK,Denmark,Denmark,7.5144248,,Denmark,0.6607336794690912,Denmark
+46,46,49,50,DOM,Dominican Rep.,Dominican Rep.,5.0618625,,Dominican Republic,-0.27653889281126176,Dominican Rep.
+47,47,50,51,DZA,Algeria,,,,Algeria,,Algeria
+48,48,51,52,ECU,Ecuador,Ecuador,5.9640751,,Ecuador,0.8111688089728428,Ecuador
+49,49,52,53,EGY,Egypt,Egypt,4.7625384,,"Egypt, Arab Rep.",-0.3278745355519401,Egypt
+50,50,53,54,ERI,Eritrea,,,,Eritrea,,Eritrea
+51,51,54,55,ESP,Spain,Spain,6.3806634,,Spain,0.02543648317685765,Spain
+52,52,55,56,EST,Estonia,Estonia,5.6289086,,Estonia,-0.4063672150945594,Estonia
+53,53,56,57,ETH,Ethiopia,Ethiopia,4.5731549000000005,,Ethiopia,0.3767410296405869,Ethiopia
+54,54,57,58,FIN,Finland,Finland,7.4479256,,Finland,0.7869746329082865,Finland
+55,55,58,59,FJI,Fiji,,,,Fiji,,Fiji
+56,56,59,60,FRA,France,France,6.357625,,France,-0.24880852523460015,France
+57,57,60,61,FSM,Micronesia (Federated States of),,,,"Micronesia, Fed. Sts.",,Micronesia (Federated States of)
+58,58,61,62,GAB,Gabon,Gabon,4.661012599999999,,Gabon,-0.8653187698145857,Gabon
+59,59,62,63,GBR,United Kingdom,United Kingdom,6.5154452,,United Kingdom,-0.1285173207478385,United Kingdom
+60,60,63,64,GEO,Georgia,Georgia,4.1219406,,Georgia,-0.8601429522808894,Georgia
+61,61,64,65,GHA,Ghana,Ghana,3.9859161,,Ghana,-0.4586952029964575,Ghana
+62,62,65,66,GIN,Guinea,Guinea,3.5046934999999997,,Guinea,-0.7166576999142178,Guinea
+63,63,66,67,GMB,Gambia,,,,"Gambia, The",,Gambia
+64,64,67,68,GNB,Guinea-Bissau,,,,Guinea-Bissau,,Guinea-Bissau
+65,65,68,69,GRC,Greece,Greece,5.6225190000000005,,Greece,-0.3046659940013958,Greece
+66,66,69,70,GRD,Grenada,,,,Grenada,,Grenada
+67,67,70,71,GTM,Guatemala,Guatemala,6.4649867999999975,,Guatemala,1.6596058186611895,Guatemala
+68,68,71,72,GUY,Guyana,,,,Guyana,,Guyana
+69,69,72,73,HND,Honduras,Honduras,4.845436599999998,,Honduras,0.3484358664847198,Honduras
+70,70,73,74,HRV,Croatia,Croatia,5.205438099999999,,Croatia,-0.5390777977720065,Croatia
+71,71,74,75,HTI,Haiti,Haiti,3.5697625,,Haiti,-0.6397467673947426,Haiti
+72,72,75,76,HUN,Hungary,Hungary,5.3443832,,Hungary,-0.5549666356652949,Hungary
+73,73,76,77,IDN,Indonesia,Indonesia,5.0427999,,Indonesia,-0.07453185750595814,Indonesia
+74,74,77,78,IND,India,India,4.3420792,,India,-0.3049253895048043,India
+75,75,78,79,IRL,Ireland,Ireland,6.8301253,,Ireland,-0.2053615337618826,Ireland
+76,76,79,80,IRN,Iran (Islamic Rep. of),Iran (Islamic Rep. of),4.7499557,,"Iran, Islamic Rep.",-0.761729386105455,Iran (Islamic Rep. of)
+77,77,80,81,IRQ,Iraq,Iraq,4.4933772,,Iraq,-0.9305383910101329,Iraq
+78,78,81,82,ISL,Iceland,Iceland,7.498070699999999,,Iceland,0.674880419460754,Iceland
+79,79,82,83,ISR,Israel,Israel,7.079411,,Israel,0.6749516473588661,Israel
+80,80,83,84,ITA,Italy,Italy,5.8476839000000025,,Italy,-0.5907348610073813,Italy
+81,81,84,85,JAM,Jamaica,,,,Jamaica,,Jamaica
+82,82,85,86,JOR,Jordan,Jordan,5.4045935,,Jordan,0.4767322547975148,Jordan
+83,83,86,87,JPN,Japan,Japan,5.8796844,,Japan,-0.7326185673483672,Japan
+84,84,87,88,KAZ,Kazakhstan,Kazakhstan,5.9499949999999995,,Kazakhstan,0.1059917548203142,Kazakhstan
+85,85,88,89,KEN,Kenya,Kenya,4.3576179,,Kenya,0.01864170730067194,Kenya
+86,86,89,90,KGZ,Kyrgyzstan,Kyrgyzstan,4.905376,,Kyrgyz Republic,0.5232072504757177,Kyrgyzstan
+87,87,90,91,KHM,Cambodia,Cambodia,4.162164700000001,,Cambodia,-0.2257160162250305,Cambodia
+88,88,91,92,KOR,Rep. of Korea,Rep. of Korea,5.7802114,,"Korea, Rep.",-0.5928797818087652,Rep. of Korea
+89,89,92,93,KWT,Kuwait,Kuwait,6.1460319000000005,,Kuwait,-0.8778612167877995,Kuwait
+90,90,93,94,LAO,Lao People's Dem. Rep.,,,,Lao PDR,,Lao People's Dem. Rep.
+91,91,94,95,LBN,Lebanon,Lebanon,5.1719713,,Lebanon,-0.1580716400518707,Lebanon
+92,92,95,96,LBR,Liberia,Liberia,2.7015912999999996,,Liberia,-1.4597695331788905,Liberia
+93,93,96,97,LBY,Libya,Libya,5.6154046,,Libya,0.1854454382773936,Libya
+94,94,97,98,LCA,Saint Lucia,,,,St. Lucia,,Saint Lucia
+95,95,98,99,LIE,Liechtenstein,,,,Liechtenstein,,Liechtenstein
+96,96,99,100,LKA,Sri Lanka,Sri Lanka,4.6116066,,Sri Lanka,-0.5626465413433888,Sri Lanka
+97,97,100,101,LSO,Lesotho,,,,Lesotho,,Lesotho
+98,98,101,102,LTU,Lithuania,Lithuania,5.711378099999999,,Lithuania,-0.3361651603377842,Lithuania
+99,99,102,103,LUX,Luxembourg,Luxembourg,6.7015715,,Luxembourg,-0.1489193223694807,Luxembourg
+100,100,103,104,LVA,Latvia,Latvia,5.8805976,,Latvia,0.05280153569441026,Latvia
+101,101,104,105,MAR,Morocco,Morocco,5.163157,,Morocco,0.35734252590279336,Morocco
+102,102,105,106,MCO,Monaco,,,,Monaco,,Monaco
+103,103,106,107,MDA,Rep. of Moldova,Rep. of Moldova,6.0174723,,Moldova,1.475621987618541,Rep. of Moldova
+104,104,107,108,MDG,Madagascar,Madagascar,3.592514,,Madagascar,-0.5865582673327423,Madagascar
+105,105,108,109,MEX,Mexico,Mexico,6.2362871,,Mexico,0.7379527571754156,Mexico
+106,106,109,110,MKD,The former Yugoslav Republic of Macedonia,The former Yugoslav Republic of Macedonia,4.9755898,,"Macedonia, FYR",-0.3338642565965841,The former Yugoslav Republic of Macedonia
+107,107,110,111,MLI,Mali,Mali,4.5820985,,Mali,0.34300707636182004,Mali
+108,108,111,112,MLT,Malta,Malta,6.6133942999999995,,Malta,0.21900956948671,Malta
+109,109,112,113,MMR,Myanmar,Myanmar,4.223846400000001,,Myanmar,-0.3504044397726398,Myanmar
+110,110,113,114,MNE,Montenegro,Montenegro,5.1249213,,Montenegro,-0.3311207897631414,Montenegro
+111,111,114,115,MNG,Mongolia,Mongolia,4.9827199,,Mongolia,-0.2141338871411227,Mongolia
+112,112,115,116,MOZ,Mozambique,Mozambique,4.5497675000000015,,Mozambique,0.3996257805386314,Mozambique
+113,113,116,117,MRT,Mauritania,Mauritania,3.9226642,,Mauritania,-0.49837098433422705,Mauritania
+114,114,117,118,MWI,Malawi,Malawi,3.8676383000000003,,Malawi,-0.2791946382809738,Malawi
+115,115,118,119,MYS,Malaysia,Malaysia,6.3221210999999995,,Malaysia,0.3979612153216774,Malaysia
+116,116,119,120,NAM,Namibia,,,,Namibia,,Namibia
+117,117,120,121,NER,Niger,Niger,3.6714537000000003,,Niger,-0.4550986523021168,Niger
+118,118,121,122,NGA,Nigeria,Nigeria,4.9329147,,Nigeria,0.2933880030209419,Nigeria
+119,119,122,123,NIC,Nicaragua,Nicaragua,5.9241128,,Nicaragua,1.3602925917906736,Nicaragua
+120,120,123,124,NLD,Netherlands,Netherlands,7.3244371,,Netherlands,0.4508515301450311,Netherlands
+121,121,124,125,NOR,Norway,Norway,7.6034336,,Norway,0.5820395071624924,Norway
+122,122,125,126,NPL,Nepal,Nepal,4.8124366,,Nepal,0.530060430405328,Nepal
+123,123,126,127,NRU,Nauru,,,,Nauru,,Nauru
+124,124,127,128,NZL,New Zealand,New Zealand,7.4181209,,New Zealand,0.924748352571556,New Zealand
+125,125,128,129,OMN,Oman,,,,Oman,,Oman
+126,126,130,131,PAK,Pakistan,Pakistan,4.823195,,Pakistan,0.2866937304632016,Pakistan
+127,127,131,132,PAN,Panama,Panama,6.6055503,,Panama,0.9014354066376856,Panama
+128,128,132,133,PER,Peru,Peru,5.5772634000000005,,Peru,0.3565735311977765,Peru
+129,129,133,134,PHL,Philippines,Philippines,5.5474892,,Philippines,0.7850756845861477,Philippines
+130,130,134,135,PNG,Papua New Guinea,,,,Papua New Guinea,,Papua New Guinea
+131,131,135,136,POL,Poland,Poland,6.0070219000000025,,Poland,0.08590952256314655,Poland
+132,132,136,137,PRK,Dem. People's Rep. of Korea,,,,"Korea, Dem. People’s Rep.",,Dem. People's Rep. of Korea
+133,133,137,138,PRY,Paraguay,Paraguay,5.559724299999999,,Paraguay,0.3812383092230389,Paraguay
+134,134,138,139,QAT,Qatar,Qatar,6.3745294,,Qatar,-0.3913738425130049,Qatar
+135,135,139,140,ROU,Romania,Romania,5.777491099999999,,Romania,0.09874006994639828,Romania
+136,136,140,141,RUS,Russian Federation,Russian Federation,5.9955387,,Russian Federation,0.16703825918884707,Russian Federation
+137,137,141,142,RWA,Rwanda,Rwanda,3.483109,,Rwanda,-0.7356366313652076,Rwanda
+138,138,142,143,SAU,Saudi Arabia,Saudi Arabia,6.3454919,,Saudi Arabia,-0.610411052513979,Saudi Arabia
+139,139,143,144,SDN,Sudan,,,,Sudan,,Sudan
+140,140,144,145,SEN,Senegal,Senegal,4.617000599999999,,Senegal,0.2687439531123648,Senegal
+141,141,145,146,SGP,Singapore,Singapore,6.619525,,Singapore,-0.29167258393681106,Singapore
+142,142,146,147,SLB,Solomon Islands,,,,Solomon Islands,,Solomon Islands
+143,143,147,148,SLE,Sierra Leone,Sierra Leone,4.908618,,Sierra Leone,0.7365572561345566,Sierra Leone
+144,144,148,149,SLV,El Salvador,El Salvador,6.018496,,El Salvador,1.241169921622805,El Salvador
+145,145,149,150,SOM,Somalia,Somalia,5.3536448,,Somalia,,Somalia
+146,146,150,151,SRB,Serbia and Kosovo (S/RES/1244 (1999)),Serbia and Kosovo (S/RES/1244 (1999)),5.317685099999999,,Serbia,-0.002909508174793629,Serbia and Kosovo (S/RES/1244 (1999))
+147,147,151,152,SSD,South Sudan,South Sudan,4.0707712,,South Sudan,-0.16349242763540414,South Sudan
+148,148,152,153,SUR,Suriname,,,,Suriname,,Suriname
+149,149,153,154,SVK,Slovakia,Slovakia,6.1620045,,Slovak Republic,0.07926050671654572,Slovakia
+150,150,154,155,SVN,Slovenia,Slovenia,5.7406421,,Slovenia,-0.4492198205162552,Slovenia
+151,151,155,156,SWE,Sweden,Sweden,7.2889222999999985,,Sweden,0.4551900488902403,Sweden
+152,152,156,157,SWZ,Swaziland,,,,Eswatini,,Swaziland
+153,153,157,158,SXM,Sint Maarten (Dutch part),,,,Sint Maarten (Dutch part),,Sint Maarten (Dutch part)
+154,154,158,159,SYR,Syrian Arab Rep.,Syrian Arab Rep.,3.4619129,,Syrian Arab Republic,,Syrian Arab Rep.
+155,155,159,160,TCA,Turks and Caicos Islands,,,,Turks and Caicos Islands,,Turks and Caicos Islands
+156,156,160,161,TCD,Chad,Chad,4.3226752,,Chad,0.06733747232728238,Chad
+157,157,161,162,TGO,Togo,Togo,3.768302,,Togo,-0.4187348817207224,Togo
+158,158,162,163,THA,Thailand,Thailand,6.2017627,,Thailand,0.7503000672608469,Thailand
+159,159,163,164,TJK,Tajikistan,Tajikistan,5.1242108,,Tajikistan,0.8063523377653388,Tajikistan
+160,160,164,165,TKM,Turkmenistan,Turkmenistan,5.79146,,Turkmenistan,0.3536179176141214,Turkmenistan
+161,161,166,167,TTO,Trinidad and Tobago,,,,Trinidad and Tobago,,Trinidad and Tobago
+162,162,167,168,TUN,Tunisia,Tunisia,5.131611799999999,,Tunisia,-0.02274484175139868,Tunisia
+163,163,168,169,TUR,Turkey,Turkey,5.5144652999999995,,Turkey,-0.31933794314173536,Turkey
+164,164,169,170,TZA,United Rep. of Tanzania,United Rep. of Tanzania,3.6605972999999996,,Tanzania,-0.6410184287445233,United Rep. of Tanzania
+165,165,171,172,UGA,Uganda,Uganda,4.237686599999999,,Uganda,0.026547696462104756,Uganda
+166,166,172,173,UKR,Ukraine,Ukraine,3.9645428999999996,,Ukraine,-0.8585065681060686,Ukraine
+167,167,173,174,URY,Uruguay,Uruguay,6.6280804,,Uruguay,0.9724896024823871,Uruguay
+168,168,174,175,USA,United States of America,United States of America,6.8639468999999975,,United States,-0.1280109404758676,United States of America
+169,169,175,176,UZB,Uzbekistan,Uzbekistan,5.9723644,,Uzbekistan,1.3312096209456632,Uzbekistan
+170,170,176,177,VEN,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),5.5688004,,"Venezuela, RB",,Venezuela (Bolivarian Republic of)
+171,171,177,178,VNM,Viet Nam,Viet Nam,5.0763154,,Vietnam,0.4502440531483991,Viet Nam
+172,172,178,179,VUT,Vanuatu,,,,Vanuatu,,Vanuatu
+173,173,179,180,WSM,Samoa,,,,Samoa,,Samoa
+174,174,180,181,YEM,Yemen,Yemen,2.9826739,,"Yemen, Rep.",-1.3804874116227408,Yemen
+175,175,181,182,ZAF,South Africa,South Africa,4.8873258,,South Africa,-0.3767243545622732,South Africa
+176,176,182,183,ZMB,Zambia,Zambia,4.8431644,,Zambia,0.4194063893050357,Zambia
+177,177,183,184,ZWE,Zimbabwe,Zimbabwe,3.7031913,,Zimbabwe,-0.5663600685104391,Zimbabwe

@@ -155,7 +155,7 @@ asylum_df_2015.recognized = asylum_df_2015.recognized[asylum_df_2015.recognized 
 recognized_2015 = asylum_df_2015.groupby('country').recognized.sum()
 total_decisions_2015 = asylum_df_2015.groupby('country').total_decisions.sum()
 
-# merge recognized with total decisions
+# merge recognzed with total decisions
 recognized_2015 = pd.DataFrame(recognized_2015)
 total_decisions_2015 = pd.DataFrame(total_decisions_2015)
 recognized_total_decisions_2015 = recognized_2015.merge(total_decisions_2015, on='country')

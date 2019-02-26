@@ -1,0 +1,2381 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Aruba",
+        "country_code": "ABW",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "AFG",
+        "maternal_mortality_rate": "396.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Angola",
+        "country_code": "AGO",
+        "maternal_mortality_rate": "477.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Albania",
+        "country_code": "ALB",
+        "maternal_mortality_rate": "29.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Andorra",
+        "country_code": "AND",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Arab World",
+        "country_code": "ARB",
+        "maternal_mortality_rate": "156.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "United Arab Emirates",
+        "country_code": "ARE",
+        "maternal_mortality_rate": "6.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Argentina",
+        "country_code": "ARG",
+        "maternal_mortality_rate": "52.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Armenia",
+        "country_code": "ARM",
+        "maternal_mortality_rate": "25.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "American Samoa",
+        "country_code": "ASM",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Antigua and Barbuda",
+        "country_code": "ATG",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Australia",
+        "country_code": "AUS",
+        "maternal_mortality_rate": "6.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Austria",
+        "country_code": "AUT",
+        "maternal_mortality_rate": "4.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Azerbaijan",
+        "country_code": "AZE",
+        "maternal_mortality_rate": "25.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "BDI",
+        "maternal_mortality_rate": "712.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Belgium",
+        "country_code": "BEL",
+        "maternal_mortality_rate": "7.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Benin",
+        "country_code": "BEN",
+        "maternal_mortality_rate": "405.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burkina Faso",
+        "country_code": "BFA",
+        "maternal_mortality_rate": "371.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bangladesh",
+        "country_code": "BGD",
+        "maternal_mortality_rate": "176.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bulgaria",
+        "country_code": "BGR",
+        "maternal_mortality_rate": "11.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahrain",
+        "country_code": "BHR",
+        "maternal_mortality_rate": "15.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas, The",
+        "country_code": "BHS",
+        "maternal_mortality_rate": "80.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bosnia and Herzegovina",
+        "country_code": "BIH",
+        "maternal_mortality_rate": "11.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Belarus",
+        "country_code": "BLR",
+        "maternal_mortality_rate": "4.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Belize",
+        "country_code": "BLZ",
+        "maternal_mortality_rate": "28.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bermuda",
+        "country_code": "BMU",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bolivia",
+        "country_code": "BOL",
+        "maternal_mortality_rate": "206.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Brazil",
+        "country_code": "BRA",
+        "maternal_mortality_rate": "44.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Barbados",
+        "country_code": "BRB",
+        "maternal_mortality_rate": "27.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Brunei Darussalam",
+        "country_code": "BRN",
+        "maternal_mortality_rate": "23.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "BTN",
+        "maternal_mortality_rate": "148.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Botswana",
+        "country_code": "BWA",
+        "maternal_mortality_rate": "129.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Central African Republic",
+        "country_code": "CAF",
+        "maternal_mortality_rate": "882.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Canada",
+        "country_code": "CAN",
+        "maternal_mortality_rate": "7.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Central Europe and the Baltics",
+        "country_code": "CEB",
+        "maternal_mortality_rate": "11.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Switzerland",
+        "country_code": "CHE",
+        "maternal_mortality_rate": "5.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Channel Islands",
+        "country_code": "CHI",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chile",
+        "country_code": "CHL",
+        "maternal_mortality_rate": "22.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "China",
+        "country_code": "CHN",
+        "maternal_mortality_rate": "27.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cote d'Ivoire",
+        "country_code": "CIV",
+        "maternal_mortality_rate": "645.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cameroon",
+        "country_code": "CMR",
+        "maternal_mortality_rate": "596.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Congo, Dem. Rep.",
+        "country_code": "COD",
+        "maternal_mortality_rate": "693.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Congo, Rep.",
+        "country_code": "COG",
+        "maternal_mortality_rate": "442.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Colombia",
+        "country_code": "COL",
+        "maternal_mortality_rate": "64.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Comoros",
+        "country_code": "COM",
+        "maternal_mortality_rate": "335.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cabo Verde",
+        "country_code": "CPV",
+        "maternal_mortality_rate": "42.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Costa Rica",
+        "country_code": "CRI",
+        "maternal_mortality_rate": "25.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Caribbean small states",
+        "country_code": "CSS",
+        "maternal_mortality_rate": "99.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cuba",
+        "country_code": "CUB",
+        "maternal_mortality_rate": "39.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Curacao",
+        "country_code": "CUW",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cayman Islands",
+        "country_code": "CYM",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cyprus",
+        "country_code": "CYP",
+        "maternal_mortality_rate": "7.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Czech Republic",
+        "country_code": "CZE",
+        "maternal_mortality_rate": "4.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Germany",
+        "country_code": "DEU",
+        "maternal_mortality_rate": "6.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Djibouti",
+        "country_code": "DJI",
+        "maternal_mortality_rate": "229.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Dominica",
+        "country_code": "DMA",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Denmark",
+        "country_code": "DNK",
+        "maternal_mortality_rate": "6.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Dominican Republic",
+        "country_code": "DOM",
+        "maternal_mortality_rate": "92.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Algeria",
+        "country_code": "DZA",
+        "maternal_mortality_rate": "140.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "East Asia & Pacific (excluding high income)",
+        "country_code": "EAP",
+        "maternal_mortality_rate": "63.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Early-demographic dividend",
+        "country_code": "EAR",
+        "maternal_mortality_rate": "159.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "East Asia & Pacific",
+        "country_code": "EAS",
+        "maternal_mortality_rate": "59.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Europe & Central Asia (excluding high income)",
+        "country_code": "ECA",
+        "maternal_mortality_rate": "25.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Europe & Central Asia",
+        "country_code": "ECS",
+        "maternal_mortality_rate": "16.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Ecuador",
+        "country_code": "ECU",
+        "maternal_mortality_rate": "64.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Egypt, Arab Rep.",
+        "country_code": "EGY",
+        "maternal_mortality_rate": "33.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Euro area",
+        "country_code": "EMU",
+        "maternal_mortality_rate": "6.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Eritrea",
+        "country_code": "ERI",
+        "maternal_mortality_rate": "501.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Spain",
+        "country_code": "ESP",
+        "maternal_mortality_rate": "5.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Estonia",
+        "country_code": "EST",
+        "maternal_mortality_rate": "9.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Ethiopia",
+        "country_code": "ETH",
+        "maternal_mortality_rate": "353.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "European Union",
+        "country_code": "EUU",
+        "maternal_mortality_rate": "8.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fragile and conflict affected situations",
+        "country_code": "FCS",
+        "maternal_mortality_rate": "475.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Finland",
+        "country_code": "FIN",
+        "maternal_mortality_rate": "3.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "FJI",
+        "maternal_mortality_rate": "30.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "France",
+        "country_code": "FRA",
+        "maternal_mortality_rate": "8.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Faroe Islands",
+        "country_code": "FRO",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Micronesia, Fed. Sts.",
+        "country_code": "FSM",
+        "maternal_mortality_rate": "100.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Gabon",
+        "country_code": "GAB",
+        "maternal_mortality_rate": "291.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "United Kingdom",
+        "country_code": "GBR",
+        "maternal_mortality_rate": "9.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Georgia",
+        "country_code": "GEO",
+        "maternal_mortality_rate": "36.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Ghana",
+        "country_code": "GHA",
+        "maternal_mortality_rate": "319.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Gibraltar",
+        "country_code": "GIB",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Guinea",
+        "country_code": "GIN",
+        "maternal_mortality_rate": "679.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Gambia, The",
+        "country_code": "GMB",
+        "maternal_mortality_rate": "706.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Guinea-Bissau",
+        "country_code": "GNB",
+        "maternal_mortality_rate": "549.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Equatorial Guinea",
+        "country_code": "GNQ",
+        "maternal_mortality_rate": "342.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Greece",
+        "country_code": "GRC",
+        "maternal_mortality_rate": "3.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Grenada",
+        "country_code": "GRD",
+        "maternal_mortality_rate": "27.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Greenland",
+        "country_code": "GRL",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Guatemala",
+        "country_code": "GTM",
+        "maternal_mortality_rate": "88.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Guam",
+        "country_code": "GUM",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Guyana",
+        "country_code": "GUY",
+        "maternal_mortality_rate": "229.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "High income",
+        "country_code": "HIC",
+        "maternal_mortality_rate": "13.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Hong Kong SAR, China",
+        "country_code": "HKG",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "HND",
+        "maternal_mortality_rate": "129.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Heavily indebted poor countries (HIPC)",
+        "country_code": "HPC",
+        "maternal_mortality_rate": "482.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Croatia",
+        "country_code": "HRV",
+        "maternal_mortality_rate": "8.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Haiti",
+        "country_code": "HTI",
+        "maternal_mortality_rate": "359.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Hungary",
+        "country_code": "HUN",
+        "maternal_mortality_rate": "17.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "IBRD only",
+        "country_code": "IBD",
+        "maternal_mortality_rate": "100.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "IDA & IBRD total",
+        "country_code": "IBT",
+        "maternal_mortality_rate": "236.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "IDA total",
+        "country_code": "IDA",
+        "maternal_mortality_rate": "452.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "IDA blend",
+        "country_code": "IDB",
+        "maternal_mortality_rate": "506.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Indonesia",
+        "country_code": "IDN",
+        "maternal_mortality_rate": "126.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "IDA only",
+        "country_code": "IDX",
+        "maternal_mortality_rate": "424.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Isle of Man",
+        "country_code": "IMN",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "India",
+        "country_code": "IND",
+        "maternal_mortality_rate": "174.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Not classified",
+        "country_code": "INX",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Ireland",
+        "country_code": "IRL",
+        "maternal_mortality_rate": "8.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Iran, Islamic Rep.",
+        "country_code": "IRN",
+        "maternal_mortality_rate": "25.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Iraq",
+        "country_code": "IRQ",
+        "maternal_mortality_rate": "50.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Iceland",
+        "country_code": "ISL",
+        "maternal_mortality_rate": "3.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Israel",
+        "country_code": "ISR",
+        "maternal_mortality_rate": "5.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Italy",
+        "country_code": "ITA",
+        "maternal_mortality_rate": "4.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Jamaica",
+        "country_code": "JAM",
+        "maternal_mortality_rate": "89.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Jordan",
+        "country_code": "JOR",
+        "maternal_mortality_rate": "58.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Japan",
+        "country_code": "JPN",
+        "maternal_mortality_rate": "5.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kazakhstan",
+        "country_code": "KAZ",
+        "maternal_mortality_rate": "12.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kenya",
+        "country_code": "KEN",
+        "maternal_mortality_rate": "510.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kyrgyz Republic",
+        "country_code": "KGZ",
+        "maternal_mortality_rate": "76.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cambodia",
+        "country_code": "KHM",
+        "maternal_mortality_rate": "161.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kiribati",
+        "country_code": "KIR",
+        "maternal_mortality_rate": "90.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "St. Kitts and Nevis",
+        "country_code": "KNA",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Korea, Rep.",
+        "country_code": "KOR",
+        "maternal_mortality_rate": "11.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kuwait",
+        "country_code": "KWT",
+        "maternal_mortality_rate": "4.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latin America & Caribbean (excluding high income)",
+        "country_code": "LAC",
+        "maternal_mortality_rate": "70.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Lao PDR",
+        "country_code": "LAO",
+        "maternal_mortality_rate": "197.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Lebanon",
+        "country_code": "LBN",
+        "maternal_mortality_rate": "15.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Liberia",
+        "country_code": "LBR",
+        "maternal_mortality_rate": "725.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Libya",
+        "country_code": "LBY",
+        "maternal_mortality_rate": "9.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "St. Lucia",
+        "country_code": "LCA",
+        "maternal_mortality_rate": "48.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latin America & Caribbean",
+        "country_code": "LCN",
+        "maternal_mortality_rate": "67.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Least developed countries: UN classification",
+        "country_code": "LDC",
+        "maternal_mortality_rate": "436.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Low income",
+        "country_code": "LIC",
+        "maternal_mortality_rate": "479.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Liechtenstein",
+        "country_code": "LIE",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sri Lanka",
+        "country_code": "LKA",
+        "maternal_mortality_rate": "30.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Lower middle income",
+        "country_code": "LMC",
+        "maternal_mortality_rate": "257.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Low & middle income",
+        "country_code": "LMY",
+        "maternal_mortality_rate": "238.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Lesotho",
+        "country_code": "LSO",
+        "maternal_mortality_rate": "487.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Late-demographic dividend",
+        "country_code": "LTE",
+        "maternal_mortality_rate": "34.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Lithuania",
+        "country_code": "LTU",
+        "maternal_mortality_rate": "10.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Luxembourg",
+        "country_code": "LUX",
+        "maternal_mortality_rate": "10.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "LVA",
+        "maternal_mortality_rate": "18.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Macao SAR, China",
+        "country_code": "MAC",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "St. Martin (French part)",
+        "country_code": "MAF",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Morocco",
+        "country_code": "MAR",
+        "maternal_mortality_rate": "121.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Monaco",
+        "country_code": "MCO",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Moldova",
+        "country_code": "MDA",
+        "maternal_mortality_rate": "23.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "MDG",
+        "maternal_mortality_rate": "353.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Maldives",
+        "country_code": "MDV",
+        "maternal_mortality_rate": "68.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Middle East & North Africa",
+        "country_code": "MEA",
+        "maternal_mortality_rate": "81.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Mexico",
+        "country_code": "MEX",
+        "maternal_mortality_rate": "38.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Marshall Islands",
+        "country_code": "MHL",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Middle income",
+        "country_code": "MIC",
+        "maternal_mortality_rate": "180.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Macedonia, FYR",
+        "country_code": "MKD",
+        "maternal_mortality_rate": "8.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Mali",
+        "country_code": "MLI",
+        "maternal_mortality_rate": "587.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malta",
+        "country_code": "MLT",
+        "maternal_mortality_rate": "9.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Myanmar",
+        "country_code": "MMR",
+        "maternal_mortality_rate": "178.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Middle East & North Africa (excluding high income)",
+        "country_code": "MNA",
+        "maternal_mortality_rate": "90.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Montenegro",
+        "country_code": "MNE",
+        "maternal_mortality_rate": "7.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Mongolia",
+        "country_code": "MNG",
+        "maternal_mortality_rate": "44.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Northern Mariana Islands",
+        "country_code": "MNP",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Mozambique",
+        "country_code": "MOZ",
+        "maternal_mortality_rate": "489.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Mauritania",
+        "country_code": "MRT",
+        "maternal_mortality_rate": "602.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Mauritius",
+        "country_code": "MUS",
+        "maternal_mortality_rate": "53.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malawi",
+        "country_code": "MWI",
+        "maternal_mortality_rate": "634.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malaysia",
+        "country_code": "MYS",
+        "maternal_mortality_rate": "40.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "North America",
+        "country_code": "NAC",
+        "maternal_mortality_rate": "13.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Namibia",
+        "country_code": "NAM",
+        "maternal_mortality_rate": "265.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "New Caledonia",
+        "country_code": "NCL",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "NER",
+        "maternal_mortality_rate": "553.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nigeria",
+        "country_code": "NGA",
+        "maternal_mortality_rate": "814.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nicaragua",
+        "country_code": "NIC",
+        "maternal_mortality_rate": "150.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Netherlands",
+        "country_code": "NLD",
+        "maternal_mortality_rate": "7.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Norway",
+        "country_code": "NOR",
+        "maternal_mortality_rate": "5.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nepal",
+        "country_code": "NPL",
+        "maternal_mortality_rate": "258.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nauru",
+        "country_code": "NRU",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "New Zealand",
+        "country_code": "NZL",
+        "maternal_mortality_rate": "11.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "OECD members",
+        "country_code": "OED",
+        "maternal_mortality_rate": "14.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Oman",
+        "country_code": "OMN",
+        "maternal_mortality_rate": "17.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Other small states",
+        "country_code": "OSS",
+        "maternal_mortality_rate": "316.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Pakistan",
+        "country_code": "PAK",
+        "maternal_mortality_rate": "178.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Panama",
+        "country_code": "PAN",
+        "maternal_mortality_rate": "94.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Peru",
+        "country_code": "PER",
+        "maternal_mortality_rate": "68.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Philippines",
+        "country_code": "PHL",
+        "maternal_mortality_rate": "114.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Palau",
+        "country_code": "PLW",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Papua New Guinea",
+        "country_code": "PNG",
+        "maternal_mortality_rate": "215.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Poland",
+        "country_code": "POL",
+        "maternal_mortality_rate": "3.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Pre-demographic dividend",
+        "country_code": "PRE",
+        "maternal_mortality_rate": "568.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Puerto Rico",
+        "country_code": "PRI",
+        "maternal_mortality_rate": "14.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Korea, Dem. People’s Rep.",
+        "country_code": "PRK",
+        "maternal_mortality_rate": "82.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Portugal",
+        "country_code": "PRT",
+        "maternal_mortality_rate": "10.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Paraguay",
+        "country_code": "PRY",
+        "maternal_mortality_rate": "132.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "West Bank and Gaza",
+        "country_code": "PSE",
+        "maternal_mortality_rate": "45.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Pacific island small states",
+        "country_code": "PSS",
+        "maternal_mortality_rate": "75.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Post-demographic dividend",
+        "country_code": "PST",
+        "maternal_mortality_rate": "10.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "French Polynesia",
+        "country_code": "PYF",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Qatar",
+        "country_code": "QAT",
+        "maternal_mortality_rate": "13.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Romania",
+        "country_code": "ROU",
+        "maternal_mortality_rate": "31.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Russian Federation",
+        "country_code": "RUS",
+        "maternal_mortality_rate": "25.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "RWA",
+        "maternal_mortality_rate": "290.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "South Asia",
+        "country_code": "SAS",
+        "maternal_mortality_rate": "182.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "SAU",
+        "maternal_mortality_rate": "12.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sudan",
+        "country_code": "SDN",
+        "maternal_mortality_rate": "311.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Senegal",
+        "country_code": "SEN",
+        "maternal_mortality_rate": "315.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Singapore",
+        "country_code": "SGP",
+        "maternal_mortality_rate": "10.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Solomon Islands",
+        "country_code": "SLB",
+        "maternal_mortality_rate": "114.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sierra Leone",
+        "country_code": "SLE",
+        "maternal_mortality_rate": "1360.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "El Salvador",
+        "country_code": "SLV",
+        "maternal_mortality_rate": "54.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "San Marino",
+        "country_code": "SMR",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Somalia",
+        "country_code": "SOM",
+        "maternal_mortality_rate": "732.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Serbia",
+        "country_code": "SRB",
+        "maternal_mortality_rate": "17.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sub-Saharan Africa (excluding high income)",
+        "country_code": "SSA",
+        "maternal_mortality_rate": "547.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "South Sudan",
+        "country_code": "SSD",
+        "maternal_mortality_rate": "789.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sub-Saharan Africa",
+        "country_code": "SSF",
+        "maternal_mortality_rate": "547.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Small states",
+        "country_code": "SST",
+        "maternal_mortality_rate": "272.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sao Tome and Principe",
+        "country_code": "STP",
+        "maternal_mortality_rate": "156.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Suriname",
+        "country_code": "SUR",
+        "maternal_mortality_rate": "155.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Slovak Republic",
+        "country_code": "SVK",
+        "maternal_mortality_rate": "6.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Slovenia",
+        "country_code": "SVN",
+        "maternal_mortality_rate": "9.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sweden",
+        "country_code": "SWE",
+        "maternal_mortality_rate": "4.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Eswatini",
+        "country_code": "SWZ",
+        "maternal_mortality_rate": "389.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sint Maarten (Dutch part)",
+        "country_code": "SXM",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Seychelles",
+        "country_code": "SYC",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Syrian Arab Republic",
+        "country_code": "SYR",
+        "maternal_mortality_rate": "68.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Turks and Caicos Islands",
+        "country_code": "TCA",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chad",
+        "country_code": "TCD",
+        "maternal_mortality_rate": "856.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "East Asia & Pacific (IDA & IBRD countries)",
+        "country_code": "TEA",
+        "maternal_mortality_rate": "63.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Europe & Central Asia (IDA & IBRD countries)",
+        "country_code": "TEC",
+        "maternal_mortality_rate": "23.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Togo",
+        "country_code": "TGO",
+        "maternal_mortality_rate": "368.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Thailand",
+        "country_code": "THA",
+        "maternal_mortality_rate": "20.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tajikistan",
+        "country_code": "TJK",
+        "maternal_mortality_rate": "32.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Turkmenistan",
+        "country_code": "TKM",
+        "maternal_mortality_rate": "42.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latin America & the Caribbean (IDA & IBRD countries)",
+        "country_code": "TLA",
+        "maternal_mortality_rate": "68.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Timor-Leste",
+        "country_code": "TLS",
+        "maternal_mortality_rate": "215.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Middle East & North Africa (IDA & IBRD countries)",
+        "country_code": "TMN",
+        "maternal_mortality_rate": "91.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tonga",
+        "country_code": "TON",
+        "maternal_mortality_rate": "124.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "South Asia (IDA & IBRD)",
+        "country_code": "TSA",
+        "maternal_mortality_rate": "182.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sub-Saharan Africa (IDA & IBRD countries)",
+        "country_code": "TSS",
+        "maternal_mortality_rate": "547.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Trinidad and Tobago",
+        "country_code": "TTO",
+        "maternal_mortality_rate": "63.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "TUN",
+        "maternal_mortality_rate": "62.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Turkey",
+        "country_code": "TUR",
+        "maternal_mortality_rate": "16.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tuvalu",
+        "country_code": "TUV",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tanzania",
+        "country_code": "TZA",
+        "maternal_mortality_rate": "398.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uganda",
+        "country_code": "UGA",
+        "maternal_mortality_rate": "343.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Ukraine",
+        "country_code": "UKR",
+        "maternal_mortality_rate": "24.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Upper middle income",
+        "country_code": "UMC",
+        "maternal_mortality_rate": "41.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uruguay",
+        "country_code": "URY",
+        "maternal_mortality_rate": "15.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "United States",
+        "country_code": "USA",
+        "maternal_mortality_rate": "14.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uzbekistan",
+        "country_code": "UZB",
+        "maternal_mortality_rate": "36.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "St. Vincent and the Grenadines",
+        "country_code": "VCT",
+        "maternal_mortality_rate": "45.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Venezuela, RB",
+        "country_code": "VEN",
+        "maternal_mortality_rate": "95.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "British Virgin Islands",
+        "country_code": "VGB",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Virgin Islands (U.S.)",
+        "country_code": "VIR",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "VNM",
+        "maternal_mortality_rate": "54.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vanuatu",
+        "country_code": "VUT",
+        "maternal_mortality_rate": "78.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "World",
+        "country_code": "WLD",
+        "maternal_mortality_rate": "216.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "WSM",
+        "maternal_mortality_rate": "51.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kosovo",
+        "country_code": "XKX",
+        "maternal_mortality_rate": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Yemen, Rep.",
+        "country_code": "YEM",
+        "maternal_mortality_rate": "385.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "South Africa",
+        "country_code": "ZAF",
+        "maternal_mortality_rate": "138.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Zambia",
+        "country_code": "ZMB",
+        "maternal_mortality_rate": "224.0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Zimbabwe",
+        "country_code": "ZWE",
+        "maternal_mortality_rate": "443.0"
+      },
+      "geometry": null
+    }
+  ]
+}

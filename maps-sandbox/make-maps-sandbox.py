@@ -116,11 +116,11 @@ vars = [
 #{'varname': 'asylum_seekers_per_pop', 'long_name': 'Asylum Seekers per Population', 'short_name': 'Asylum Seekers per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 #{'varname': 'asylum_seekers_per_pop', 'long_name': 'Asylum Seekers per Population', 'short_name': 'Asylum Seekers per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 #{'varname': 'refugees_per_pop_resid', 'long_name': 'Refugees per Population, Residuals from Regression on GDP per Capita', 'short_name': 'Refugees per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
-#{'varname': 'refugees_per_pop', 'long_name': 'Refugees per Population', 'short_name': 'Refugees per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
+#{'varname': 'refugees_per_pop', 'long_namde': 'Refugees per Population', 'short_name': 'Refugees per Population', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 
 ]
 
-for i in range(0, 1):
+for i in range(len(vars)):
     filename = vars[i]['varname'] + '.csv'
     df = pd.read_csv(filename)
     
@@ -151,7 +151,7 @@ for i in range(0, 1):
        ) ]
     
     layout = dict(
-       title = vars[i]['long_name'] + '<br>' + vars[i]['source'],
+        title = vars[i]['long_name'] + '<br>' + vars[i]['source'],
        geo = dict(
            showframe = False,
            showcoastlines = False,
@@ -162,4 +162,8 @@ for i in range(0, 1):
     )
     
     fig = dict( data=data, layout=layout )
-    plotly.offline.plot(fig, filename = '../maps/'+ vars[i]['varname'] +'.html', auto_open=False)
+    divname = vars[i]['varname'] + '.div'
+    divname = plotly.offline.plot(fig, auto_open=False, include_plotlyjs=False)
+    f = open(divname, 'w+')
+    f.write(divname)
+    f.close
