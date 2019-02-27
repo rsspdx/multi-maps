@@ -35,7 +35,7 @@ os.chdir(wd)
 
 
 
-regions = ['ARB', 'CEB', 'CSS', 'EAP', 'EAR', 'ECA', 'ECS', 'EMU', 'EUU', 'FCS', 'HIC', 'HPC', 'IBD', 'IBT', 'IDA', 'IDB', 'IDX', 'INX', 'LAC', 'LCN', 'LDC', 'LIC', 'LMC', 'LMY', 'LTE', 'MEA', 'MIC', 'MNA', 'NAC', 'OED', 'OSS', 'PRE', 'PST','SSA', 'SST','TEA', 'TEC', 'TLA', 'TMN', 'TSA', 'TSS', 'UMC', 'WLD']
+regions = ['ARB', 'CEB', 'CSS', 'EAP', 'EAR', 'EAS' 'ECA', 'ECS', 'EMU', 'EUU', 'FCS', 'HIC', 'HPC', 'IBD', 'IBT', 'IDA', 'IDB', 'IDX', 'INX', 'LAC', 'LCN', 'LDC', 'LIC', 'LMC', 'LMY', 'LTE', 'MEA', 'MIC', 'MNA', 'NAC', 'OED', 'OSS', 'PRE', 'PSS' 'PST', 'SAS', 'SSA', 'SSF', 'SST','TEA', 'TEC', 'TLA', 'TMN', 'TSA', 'TSS', 'UMC', 'WLD']
 
 data_dictionary = [
       
@@ -532,7 +532,7 @@ for i in range(len(data_dictionary)-1):
         csv = csv.rename(index =  str, columns={'Country Name' : 'country', 'Country Code': 'country_code', '2015': data_dictionary[i]['name']})
     
     for reg in regions:
-        csv[csv.country_code == reg] = np.nan
+        csv = csv[csv.country_code != reg] 
     csv.to_csv(data_dictionary[i]['name']+'.csv', index=False)
 
 varnames = []

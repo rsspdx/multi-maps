@@ -36,11 +36,14 @@ for i in range(len(varnames_resid)):
 vars += varnames_resid
 
 # open files
-files = []
-for i in range(len(vars)):
-    files.append(pd.read_csv(vars[i]['name'] + '.csv', index_col=False))
+#files = []
+#for i in range(len(vars)):
+#    files.append(pd.read_csv(vars[i]['name'] + '.csv', index_col=False))
+#
+#for i in range(len(files)):
+#    gdpcap = gdpcap.merge(files[i], on = ['country', 'country_code'])
 
-for i in range(len(files)):
-    gdpcap = gdpcap.merge(files[i], on = ['country', 'country_code'])
+for i in range(len(vars)):
+    gdpcap = gdpcap.merge(pd.read_csv(vars[i]['file']), on=['country', 'country_code'])
     
 gdpcap.to_csv('wdi_vars.csv')
