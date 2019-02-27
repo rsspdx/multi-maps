@@ -4,7 +4,7 @@ Afghanistan,AFG,
 Angola,AGO,1.9
 Albania,ALB,0.1
 Andorra,AND,
-Arab World,ARB,
+,,
 United Arab Emirates,ARE,
 Argentina,ARG,0.4
 Armenia,ARM,0.2
@@ -33,7 +33,7 @@ Bhutan,BTN,
 Botswana,BWA,23.1
 Central African Republic,CAF,4.2
 Canada,CAN,
-Central Europe and the Baltics,CEB,
+,,
 Switzerland,CHE,
 Channel Islands,CHI,
 Chile,CHL,0.5
@@ -46,7 +46,7 @@ Colombia,COL,0.5
 Comoros,COM,0.1
 Cabo Verde,CPV,0.6
 Costa Rica,CRI,0.4
-Caribbean small states,CSS,1.6254454806165701
+,,
 Cuba,CUB,0.4
 Curacao,CUW,
 Cayman Islands,CYM,
@@ -58,20 +58,20 @@ Dominica,DMA,
 Denmark,DNK,0.1
 Dominican Republic,DOM,1.0
 Algeria,DZA,0.1
-East Asia & Pacific (excluding high income),EAP,
-Early-demographic dividend,EAR,0.7724754848671579
+,,
+,,
 East Asia & Pacific,EAS,
-Europe & Central Asia (excluding high income),ECA,0.640039805613236
-Europe & Central Asia,ECS,0.46133069768268503
+,,
+,,
 Ecuador,ECU,0.3
 "Egypt, Arab Rep.",EGY,0.1
-Euro area,EMU,0.299473292484977
+,,
 Eritrea,ERI,0.6
 Spain,ESP,0.4
 Estonia,EST,0.6
 Ethiopia,ETH,1.0
-European Union,EUU,0.26962077435589804
-Fragile and conflict affected situations,FCS,2.61389896915048
+,,
+,,
 Finland,FIN,
 Fiji,FJI,
 France,FRA,0.5
@@ -92,22 +92,22 @@ Greenland,GRL,
 Guatemala,GTM,0.5
 Guam,GUM,
 Guyana,GUY,1.7
-High income,HIC,
+,,
 "Hong Kong SAR, China",HKG,
 Honduras,HND,0.4
-Heavily indebted poor countries (HIPC),HPC,2.6907222388958503
+,,
 Croatia,HRV,
 Haiti,HTI,1.9
 Hungary,HUN,0.1
-IBRD only,IBD,
-IDA & IBRD total,IBT,1.1209640751518501
-IDA total,IDA,2.0143034316924
-IDA blend,IDB,2.15668134785535
+,,
+,,
+,,
+,,
 Indonesia,IDN,0.4
-IDA only,IDX,1.93714499288183
+,,
 Isle of Man,IMN,
 India,IND,0.2
-Not classified,INX,
+,,
 Ireland,IRL,0.2
 "Iran, Islamic Rep.",IRN,0.1
 Iraq,IRQ,
@@ -125,21 +125,21 @@ Kiribati,KIR,
 St. Kitts and Nevis,KNA,
 "Korea, Rep.",KOR,
 Kuwait,KWT,0.1
-Latin America & Caribbean (excluding high income),LAC,0.510568057165075
+,,
 Lao PDR,LAO,0.3
 Lebanon,LBN,0.1
 Liberia,LBR,1.5
 Libya,LBY,
 St. Lucia,LCA,
-Latin America & Caribbean,LCN,0.508651451703758
-Least developed countries: UN classification,LDC,1.9803723969696498
-Low income,LIC,2.87380925170135
+,,
+,,
+,,
 Liechtenstein,LIE,
 Sri Lanka,LKA,0.1
-Lower middle income,LMC,0.6245105098213221
-Low & middle income,LMY,1.12894253951478
+,,
+,,
 Lesotho,LSO,23.8
-Late-demographic dividend,LTE,
+,,
 Lithuania,LTU,0.1
 Luxembourg,LUX,0.2
 Latvia,LVA,
@@ -150,15 +150,15 @@ Monaco,MCO,
 Moldova,MDA,0.5
 Madagascar,MDG,0.2
 Maldives,MDV,
-Middle East & North Africa,MEA,
+,,
 Mexico,MEX,0.3
 Marshall Islands,MHL,
-Middle income,MIC,0.8932739467260259
+,,
 "Macedonia, FYR",MKD,0.1
 Mali,MLI,1.3
 Malta,MLT,
 Myanmar,MMR,0.7
-Middle East & North Africa (excluding high income),MNA,0.104566717493833
+,,
 Montenegro,MNE,0.1
 Mongolia,MNG,0.1
 Northern Mariana Islands,MNP,
@@ -167,7 +167,7 @@ Mauritania,MRT,0.4
 Mauritius,MUS,
 Malawi,MWI,10.1
 Malaysia,MYS,0.4
-North America,NAC,
+,,
 Namibia,NAM,12.5
 New Caledonia,NCL,
 Niger,NER,0.4
@@ -178,9 +178,9 @@ Norway,NOR,0.1
 Nepal,NPL,0.2
 Nauru,NRU,
 New Zealand,NZL,0.1
-OECD members,OED,
+,,
 Oman,OMN,
-Other small states,OSS,7.991322998815191
+,,
 Pakistan,PAK,0.1
 Panama,PAN,0.9
 Peru,PER,0.3
@@ -188,14 +188,14 @@ Philippines,PHL,0.1
 Palau,PLW,
 Papua New Guinea,PNG,0.9
 Poland,POL,
-Pre-demographic dividend,PRE,3.23793213506433
+,,
 Puerto Rico,PRI,
 "Korea, Dem. People’s Rep.",PRK,
 Portugal,PRT,0.6
 Paraguay,PRY,0.5
 West Bank and Gaza,PSE,
 Pacific island small states,PSS,
-Post-demographic dividend,PST,
+,,
 French Polynesia,PYF,
 Qatar,QAT,0.1
 Romania,ROU,0.1
@@ -212,10 +212,10 @@ El Salvador,SLV,0.6
 San Marino,SMR,
 Somalia,SOM,0.1
 Serbia,SRB,0.1
-Sub-Saharan Africa (excluding high income),SSA,4.29473534198471
+,,
 South Sudan,SSD,2.5
 Sub-Saharan Africa,SSF,4.29473534198471
-Small states,SST,6.667148361379441
+,,
 Sao Tome and Principe,STP,
 Suriname,SUR,1.3
 Slovak Republic,SVK,0.1
@@ -227,18 +227,18 @@ Seychelles,SYC,
 Syrian Arab Republic,SYR,
 Turks and Caicos Islands,TCA,
 Chad,TCD,1.4
-East Asia & Pacific (IDA & IBRD countries),TEA,
-Europe & Central Asia (IDA & IBRD countries),TEC,0.640039805613236
+,,
+,,
 Togo,TGO,2.3
 Thailand,THA,1.2
 Tajikistan,TJK,0.2
 Turkmenistan,TKM,
-Latin America & the Caribbean (IDA & IBRD countries),TLA,0.509202833591156
+,,
 Timor-Leste,TLS,
-Middle East & North Africa (IDA & IBRD countries),TMN,0.104566717493833
+,,
 Tonga,TON,
-South Asia (IDA & IBRD),TSA,0.17832512108735302
-Sub-Saharan Africa (IDA & IBRD countries),TSS,4.29473534198472
+,,
+,,
 Trinidad and Tobago,TTO,1.2
 Tunisia,TUN,0.1
 Turkey,TUR,
@@ -246,7 +246,7 @@ Tuvalu,TUV,
 Tanzania,TZA,4.7
 Uganda,UGA,6.3
 Ukraine,UKR,0.9
-Upper middle income,UMC,
+,,
 Uruguay,URY,0.6
 United States,USA,
 Uzbekistan,UZB,0.2
@@ -256,7 +256,7 @@ British Virgin Islands,VGB,
 Virgin Islands (U.S.),VIR,
 Vietnam,VNM,0.4
 Vanuatu,VUT,
-World,WLD,0.8
+,,
 Samoa,WSM,
 Kosovo,XKX,
 "Yemen, Rep.",YEM,

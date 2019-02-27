@@ -1,4 +1,4 @@
-country,country_code,female_literacy_pct
+country,country_code,literacy_rate
 Aruba,ABW,
 Afghanistan,AFG,
 Angola,AGO,
@@ -6,18 +6,18 @@ Albania,ALB,
 Andorra,AND,
 ,,
 United Arab Emirates,ARE,
-Argentina,ARG,99.20877
+Argentina,ARG,99.17995999999991
 Armenia,ARM,
 American Samoa,ASM,
-Antigua and Barbuda,ATG,99.42
+Antigua and Barbuda,ATG,98.95
 Australia,AUS,
 Austria,AUT,
-Azerbaijan,AZE,99.71714
+Azerbaijan,AZE,99.78806
 Burundi,BDI,
 Belgium,BEL,
 Benin,BEN,
 Burkina Faso,BFA,
-Bangladesh,BGD,62.252990000000004
+Bangladesh,BGD,65.13733
 Bulgaria,BGR,
 Bahrain,BHR,
 "Bahamas, The",BHS,
@@ -25,8 +25,8 @@ Bosnia and Herzegovina,BIH,
 Belarus,BLR,
 Belize,BLZ,
 Bermuda,BMU,
-Bolivia,BOL,88.58286
-Brazil,BRA,92.34379
+Bolivia,BOL,92.45508000000001
+Brazil,BRA,92.0479
 Barbados,BRB,
 Brunei Darussalam,BRN,
 Bhutan,BTN,
@@ -36,15 +36,15 @@ Canada,CAN,
 ,,
 Switzerland,CHE,
 Channel Islands,CHI,
-Chile,CHL,96.74396
+Chile,CHL,96.87412999999991
 China,CHN,
 Cote d'Ivoire,CIV,
 Cameroon,CMR,
 "Congo, Dem. Rep.",COD,
 "Congo, Rep.",COG,
-Colombia,COL,94.41582
+Colombia,COL,94.24505
 Comoros,COM,
-Cabo Verde,CPV,82.04222
+Cabo Verde,CPV,86.79029
 Costa Rica,CRI,
 ,,
 Cuba,CUB,
@@ -56,18 +56,18 @@ Germany,DEU,
 Djibouti,DJI,
 Dominica,DMA,
 Denmark,DNK,
-Dominican Republic,DOM,92.32106
+Dominican Republic,DOM,91.99121
 Algeria,DZA,
 ,,
 ,,
-East Asia & Pacific,EAS,93.93781
+East Asia & Pacific,EAS,95.63301
 ,,
 ,,
-Ecuador,ECU,93.25662
+Ecuador,ECU,94.45566
 "Egypt, Arab Rep.",EGY,
 ,,
 Eritrea,ERI,
-Spain,ESP,97.54713000000001
+Spain,ESP,98.14326
 Estonia,EST,
 Ethiopia,ETH,
 ,,
@@ -94,7 +94,7 @@ Guam,GUM,
 Guyana,GUY,
 ,,
 "Hong Kong SAR, China",HKG,
-Honduras,HND,87.8937
+Honduras,HND,87.90683
 ,,
 Croatia,HRV,
 Haiti,HTI,
@@ -103,7 +103,7 @@ Hungary,HUN,
 ,,
 ,,
 ,,
-Indonesia,IDN,93.33570999999999
+Indonesia,IDN,95.21793000000001
 ,,
 Isle of Man,IMN,
 India,IND,
@@ -120,13 +120,13 @@ Japan,JPN,
 Kazakhstan,KAZ,
 Kenya,KEN,
 Kyrgyz Republic,KGZ,
-Cambodia,KHM,75.03386999999991
+Cambodia,KHM,80.52649
 Kiribati,KIR,
 St. Kitts and Nevis,KNA,
 "Korea, Rep.",KOR,
-Kuwait,KWT,94.47005
+Kuwait,KWT,95.68545
 ,,
-Lao PDR,LAO,79.39104
+Lao PDR,LAO,84.66104
 Lebanon,LBN,
 Liberia,LBR,
 Libya,LBY,
@@ -151,21 +151,21 @@ Moldova,MDA,
 Madagascar,MDG,
 Maldives,MDV,
 ,,
-Mexico,MEX,93.4855
+Mexico,MEX,94.47228
 Marshall Islands,MHL,
 ,,
 "Macedonia, FYR",MKD,
-Mali,MLI,22.19581
+Mali,MLI,33.06889
 Malta,MLT,
 Myanmar,MMR,
 ,,
 Montenegro,MNE,
 Mongolia,MNG,
 Northern Mariana Islands,MNP,
-Mozambique,MOZ,43.062459999999994
+Mozambique,MOZ,56.038999999999994
 Mauritania,MRT,
-Mauritius,MUS,90.65401999999999
-Malawi,MWI,55.20411
+Mauritius,MUS,92.7076
+Malawi,MWI,62.14354
 Malaysia,MYS,
 ,,
 Namibia,NAM,
@@ -179,21 +179,21 @@ Nepal,NPL,
 Nauru,NRU,
 New Zealand,NZL,
 ,,
-Oman,OMN,86.03721
+Oman,OMN,93.03860999999999
 ,,
 Pakistan,PAK,
 Panama,PAN,
-Peru,PER,91.24653
+Peru,PER,94.16234
 Philippines,PHL,
-Palau,PLW,96.34014999999991
+Palau,PLW,96.59374
 Papua New Guinea,PNG,
 Poland,POL,
 ,,
 Puerto Rico,PRI,
 "Korea, Dem. People’s Rep.",PRK,
 Portugal,PRT,
-Paraguay,PRY,94.87442
-West Bank and Gaza,PSE,94.85377
+Paraguay,PRY,95.55484
+West Bank and Gaza,PSE,96.69073
 Pacific island small states,PSS,
 ,,
 French Polynesia,PYF,
@@ -201,20 +201,20 @@ Qatar,QAT,
 Romania,ROU,
 Russian Federation,RUS,
 Rwanda,RWA,
-South Asia,SAS,61.19333
+South Asia,SAS,70.27439
 Saudi Arabia,SAU,
 Sudan,SDN,
 Senegal,SEN,
-Singapore,SGP,95.19065
+Singapore,SGP,96.82549
 Solomon Islands,SLB,
 Sierra Leone,SLE,
-El Salvador,SLV,86.2171
+El Salvador,SLV,87.96984999999991
 San Marino,SMR,
 Somalia,SOM,
 Serbia,SRB,
 ,,
 South Sudan,SSD,
-Sub-Saharan Africa,SSF,56.103080000000006
+Sub-Saharan Africa,SSF,63.620219999999996
 ,,
 Sao Tome and Principe,STP,
 Suriname,SUR,
@@ -226,11 +226,11 @@ Sint Maarten (Dutch part),SXM,
 Seychelles,SYC,
 Syrian Arab Republic,SYR,
 Turks and Caicos Islands,TCA,
-Chad,TCD,13.93341
+Chad,TCD,26.00299
 ,,
 ,,
-Togo,TGO,51.24178
-Thailand,THA,91.19193
+Togo,TGO,63.745619999999995
+Thailand,THA,92.86830999999991
 Tajikistan,TJK,
 Turkmenistan,TKM,
 ,,
@@ -241,17 +241,17 @@ Tonga,TON,
 ,,
 Trinidad and Tobago,TTO,
 Tunisia,TUN,
-Turkey,TUR,92.64581
+Turkey,TUR,95.60141999999999
 Tuvalu,TUV,
-Tanzania,TZA,73.09383000000001
+Tanzania,TZA,77.88723
 Uganda,UGA,
 Ukraine,UKR,
 ,,
-Uruguay,URY,98.86745999999991
+Uruguay,URY,98.52387
 United States,USA,
-Uzbekistan,UZB,99.97577
+Uzbekistan,UZB,99.98383000000001
 St. Vincent and the Grenadines,VCT,
-"Venezuela, RB",VEN,96.56007
+"Venezuela, RB",VEN,96.60521999999999
 British Virgin Islands,VGB,
 Virgin Islands (U.S.),VIR,
 Vietnam,VNM,
@@ -260,6 +260,6 @@ Vanuatu,VUT,
 Samoa,WSM,
 Kosovo,XKX,
 "Yemen, Rep.",YEM,
-South Africa,ZAF,93.40803000000001
+South Africa,ZAF,94.36792
 Zambia,ZMB,
 Zimbabwe,ZWE,

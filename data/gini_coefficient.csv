@@ -1,4 +1,4 @@
-country,country_code,female_literacy_pct
+country,country_code,gini_coefficient
 Aruba,ABW,
 Afghanistan,AFG,
 Angola,AGO,
@@ -6,27 +6,27 @@ Albania,ALB,
 Andorra,AND,
 ,,
 United Arab Emirates,ARE,
-Argentina,ARG,99.20877
-Armenia,ARM,
+Argentina,ARG,
+Armenia,ARM,32.4
 American Samoa,ASM,
-Antigua and Barbuda,ATG,99.42
+Antigua and Barbuda,ATG,
 Australia,AUS,
-Austria,AUT,
-Azerbaijan,AZE,99.71714
+Austria,AUT,30.5
+Azerbaijan,AZE,
 Burundi,BDI,
-Belgium,BEL,
-Benin,BEN,
+Belgium,BEL,27.7
+Benin,BEN,47.8
 Burkina Faso,BFA,
-Bangladesh,BGD,62.252990000000004
+Bangladesh,BGD,
 Bulgaria,BGR,
 Bahrain,BHR,
 "Bahamas, The",BHS,
-Bosnia and Herzegovina,BIH,
-Belarus,BLR,
+Bosnia and Herzegovina,BIH,32.7
+Belarus,BLR,26.7
 Belize,BLZ,
 Bermuda,BMU,
-Bolivia,BOL,88.58286
-Brazil,BRA,92.34379
+Bolivia,BOL,46.7
+Brazil,BRA,51.3
 Barbados,BRB,
 Brunei Darussalam,BRN,
 Bhutan,BTN,
@@ -34,59 +34,59 @@ Botswana,BWA,
 Central African Republic,CAF,
 Canada,CAN,
 ,,
-Switzerland,CHE,
+Switzerland,CHE,32.3
 Channel Islands,CHI,
-Chile,CHL,96.74396
+Chile,CHL,47.7
 China,CHN,
-Cote d'Ivoire,CIV,
+Cote d'Ivoire,CIV,41.5
 Cameroon,CMR,
 "Congo, Dem. Rep.",COD,
 "Congo, Rep.",COG,
-Colombia,COL,94.41582
+Colombia,COL,51.1
 Comoros,COM,
-Cabo Verde,CPV,82.04222
-Costa Rica,CRI,
+Cabo Verde,CPV,
+Costa Rica,CRI,48.4
 ,,
 Cuba,CUB,
 Curacao,CUW,
 Cayman Islands,CYM,
-Cyprus,CYP,
-Czech Republic,CZE,
-Germany,DEU,
+Cyprus,CYP,34.0
+Czech Republic,CZE,25.9
+Germany,DEU,31.7
 Djibouti,DJI,
 Dominica,DMA,
-Denmark,DNK,
-Dominican Republic,DOM,92.32106
+Denmark,DNK,28.2
+Dominican Republic,DOM,44.7
 Algeria,DZA,
 ,,
 ,,
-East Asia & Pacific,EAS,93.93781
+East Asia & Pacific,EAS,
 ,,
 ,,
-Ecuador,ECU,93.25662
-"Egypt, Arab Rep.",EGY,
+Ecuador,ECU,46.0
+"Egypt, Arab Rep.",EGY,31.8
 ,,
 Eritrea,ERI,
-Spain,ESP,97.54713000000001
-Estonia,EST,
-Ethiopia,ETH,
+Spain,ESP,36.2
+Estonia,EST,32.7
+Ethiopia,ETH,39.1
 ,,
 ,,
-Finland,FIN,
+Finland,FIN,27.1
 Fiji,FJI,
-France,FRA,
+France,FRA,32.7
 Faroe Islands,FRO,
 "Micronesia, Fed. Sts.",FSM,
 Gabon,GAB,
-United Kingdom,GBR,
-Georgia,GEO,
+United Kingdom,GBR,33.2
+Georgia,GEO,36.4
 Ghana,GHA,
 Gibraltar,GIB,
 Guinea,GIN,
-"Gambia, The",GMB,
+"Gambia, The",GMB,35.9
 Guinea-Bissau,GNB,
 Equatorial Guinea,GNQ,
-Greece,GRC,
+Greece,GRC,36.0
 Grenada,GRD,
 Greenland,GRL,
 Guatemala,GTM,
@@ -94,39 +94,39 @@ Guam,GUM,
 Guyana,GUY,
 ,,
 "Hong Kong SAR, China",HKG,
-Honduras,HND,87.8937
+Honduras,HND,49.6
 ,,
-Croatia,HRV,
+Croatia,HRV,31.1
 Haiti,HTI,
-Hungary,HUN,
+Hungary,HUN,30.4
 ,,
 ,,
 ,,
 ,,
-Indonesia,IDN,93.33570999999999
+Indonesia,IDN,
 ,,
 Isle of Man,IMN,
 India,IND,
 ,,
-Ireland,IRL,
+Ireland,IRL,31.8
 "Iran, Islamic Rep.",IRN,
 Iraq,IRQ,
 Iceland,ISL,
 Israel,ISR,
-Italy,ITA,
+Italy,ITA,35.4
 Jamaica,JAM,
 Jordan,JOR,
 Japan,JPN,
-Kazakhstan,KAZ,
-Kenya,KEN,
-Kyrgyz Republic,KGZ,
-Cambodia,KHM,75.03386999999991
+Kazakhstan,KAZ,26.9
+Kenya,KEN,40.8
+Kyrgyz Republic,KGZ,29.0
+Cambodia,KHM,
 Kiribati,KIR,
 St. Kitts and Nevis,KNA,
 "Korea, Rep.",KOR,
-Kuwait,KWT,94.47005
+Kuwait,KWT,
 ,,
-Lao PDR,LAO,79.39104
+Lao PDR,LAO,
 Lebanon,LBN,
 Liberia,LBR,
 Libya,LBY,
@@ -140,98 +140,98 @@ Sri Lanka,LKA,
 ,,
 Lesotho,LSO,
 ,,
-Lithuania,LTU,
-Luxembourg,LUX,
-Latvia,LVA,
+Lithuania,LTU,37.4
+Luxembourg,LUX,33.8
+Latvia,LVA,34.2
 "Macao SAR, China",MAC,
 St. Martin (French part),MAF,
 Morocco,MAR,
 Monaco,MCO,
-Moldova,MDA,
+Moldova,MDA,27.0
 Madagascar,MDG,
 Maldives,MDV,
 ,,
-Mexico,MEX,93.4855
+Mexico,MEX,
 Marshall Islands,MHL,
 ,,
 "Macedonia, FYR",MKD,
-Mali,MLI,22.19581
-Malta,MLT,
-Myanmar,MMR,
+Mali,MLI,
+Malta,MLT,29.4
+Myanmar,MMR,38.1
 ,,
 Montenegro,MNE,
 Mongolia,MNG,
 Northern Mariana Islands,MNP,
-Mozambique,MOZ,43.062459999999994
+Mozambique,MOZ,
 Mauritania,MRT,
-Mauritius,MUS,90.65401999999999
-Malawi,MWI,55.20411
-Malaysia,MYS,
+Mauritius,MUS,
+Malawi,MWI,
+Malaysia,MYS,41.0
 ,,
-Namibia,NAM,
+Namibia,NAM,59.1
 New Caledonia,NCL,
 Niger,NER,
 Nigeria,NGA,
 Nicaragua,NIC,
-Netherlands,NLD,
-Norway,NOR,
+Netherlands,NLD,28.2
+Norway,NOR,27.5
 Nepal,NPL,
 Nauru,NRU,
 New Zealand,NZL,
 ,,
-Oman,OMN,86.03721
+Oman,OMN,
 ,,
-Pakistan,PAK,
-Panama,PAN,
-Peru,PER,91.24653
+Pakistan,PAK,33.5
+Panama,PAN,50.8
+Peru,PER,43.5
 Philippines,PHL,
-Palau,PLW,96.34014999999991
+Palau,PLW,
 Papua New Guinea,PNG,
 Poland,POL,
 ,,
 Puerto Rico,PRI,
 "Korea, Dem. People’s Rep.",PRK,
-Portugal,PRT,
-Paraguay,PRY,94.87442
-West Bank and Gaza,PSE,94.85377
+Portugal,PRT,35.5
+Paraguay,PRY,47.6
+West Bank and Gaza,PSE,
 Pacific island small states,PSS,
 ,,
 French Polynesia,PYF,
 Qatar,QAT,
-Romania,ROU,
-Russian Federation,RUS,
+Romania,ROU,35.9
+Russian Federation,RUS,37.7
 Rwanda,RWA,
-South Asia,SAS,61.19333
+South Asia,SAS,
 Saudi Arabia,SAU,
 Sudan,SDN,
 Senegal,SEN,
-Singapore,SGP,95.19065
+Singapore,SGP,
 Solomon Islands,SLB,
 Sierra Leone,SLE,
-El Salvador,SLV,86.2171
+El Salvador,SLV,40.6
 San Marino,SMR,
 Somalia,SOM,
 Serbia,SRB,
 ,,
 South Sudan,SSD,
-Sub-Saharan Africa,SSF,56.103080000000006
+Sub-Saharan Africa,SSF,
 ,,
 Sao Tome and Principe,STP,
 Suriname,SUR,
-Slovak Republic,SVK,
-Slovenia,SVN,
-Sweden,SWE,
+Slovak Republic,SVK,26.5
+Slovenia,SVN,25.4
+Sweden,SWE,29.2
 Eswatini,SWZ,
 Sint Maarten (Dutch part),SXM,
 Seychelles,SYC,
 Syrian Arab Republic,SYR,
 Turks and Caicos Islands,TCA,
-Chad,TCD,13.93341
+Chad,TCD,
 ,,
 ,,
-Togo,TGO,51.24178
-Thailand,THA,91.19193
-Tajikistan,TJK,
+Togo,TGO,43.1
+Thailand,THA,36.0
+Tajikistan,TJK,34.0
 Turkmenistan,TKM,
 ,,
 Timor-Leste,TLS,
@@ -241,25 +241,25 @@ Tonga,TON,
 ,,
 Trinidad and Tobago,TTO,
 Tunisia,TUN,
-Turkey,TUR,92.64581
+Turkey,TUR,42.9
 Tuvalu,TUV,
-Tanzania,TZA,73.09383000000001
+Tanzania,TZA,
 Uganda,UGA,
-Ukraine,UKR,
+Ukraine,UKR,25.5
 ,,
-Uruguay,URY,98.86745999999991
+Uruguay,URY,40.2
 United States,USA,
-Uzbekistan,UZB,99.97577
+Uzbekistan,UZB,
 St. Vincent and the Grenadines,VCT,
-"Venezuela, RB",VEN,96.56007
+"Venezuela, RB",VEN,
 British Virgin Islands,VGB,
 Virgin Islands (U.S.),VIR,
 Vietnam,VNM,
 Vanuatu,VUT,
 ,,
 Samoa,WSM,
-Kosovo,XKX,
+Kosovo,XKX,26.4
 "Yemen, Rep.",YEM,
-South Africa,ZAF,93.40803000000001
-Zambia,ZMB,
+South Africa,ZAF,
+Zambia,ZMB,57.1
 Zimbabwe,ZWE,

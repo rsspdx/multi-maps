@@ -1,82 +1,265 @@
-country,country_code,poverty_headcount_ratio_190_2011_ppp_resid
-Armenia,ARM,-8.712728420143849
-Austria,AUT,0.4520882968140733
-Belgium,BEL,-0.3213207241064675
-Benin,BEN,30.592311103019284
-Bosnia and Herzegovina,BIH,-6.944246573387431
-Belarus,BLR,-2.6648332725929724
-Bolivia,BOL,-6.394638755262227
-Brazil,BRA,-0.39749996278707345
-Switzerland,CHE,-0.09614044534724313
-Chile,CHL,-0.29319920417529044
-China,CHN,-3.7388254658065136
-Cote d'Ivoire,CIV,10.944746273742783
-Colombia,COL,-0.3905972423537616
-Costa Rica,CRI,-2.2809615389627793
-Cyprus,CYP,-0.6826216386330858
-Czech Republic,CZE,-0.621382725842277
-Germany,DEU,-0.28245915069964334
-Denmark,DNK,-0.06813531963299535
-Dominican Republic,DOM,-2.6400344221478655
-East Asia & Pacific,EAS,-1.223080818715939
-Europe & Central Asia,ECS,0.790033989289795
-Ecuador,ECU,-3.9788586273425763
-"Egypt, Arab Rep.",EGY,-6.888453853429097
-Spain,ESP,0.4245835294705931
-Estonia,EST,-0.3285168419631611
-Ethiopia,ETH,7.0509655524856285
-Fragile and conflict affected situations,FCS,18.888863573389955
-Finland,FIN,-0.3750432411516553
-France,FRA,-0.4030618190857309
-United Kingdom,GBR,-0.18363524163292122
-Georgia,GEO,-5.545157814895713
-"Gambia, The",GMB,-9.507281060823312
-Greece,GRC,0.47216740227520604
-High income,HIC,0.3676587203295183
-Honduras,HND,0.4277572092460904
-Croatia,HRV,-0.8581249461386657
-Hungary,HUN,-0.5809520336801608
-IDA total,IDA,13.69055133954333
-Indonesia,IDN,-0.6503301242062296
-Ireland,IRL,0.09595334615350928
-Italy,ITA,1.4887106808836825
-Kazakhstan,KAZ,-1.2588363328752408
-Kenya,KEN,18.981098195768837
-Kyrgyz Republic,KGZ,-14.760808917515881
-Latin America & Caribbean,LCN,0.13759667929004538
-Low income,LIC,24.78449951129979
-Lower middle income,LMC,0.47527030806041104
-Low & middle income,LMY,2.697998777789879
-Lithuania,LTU,-0.1154339135429705
-Luxembourg,LUX,0.21981965567702116
-Latvia,LVA,-0.5981878519455959
-Moldova,MDA,-15.19012929431614
-Middle East & North Africa,MEA,2.454159646506618
-Malta,MLT,-0.5458407758887863
-Myanmar,MMR,-8.369802161664472
-Malaysia,MYS,-1.0328929738088024
-Namibia,NAM,5.056796530689301
-Netherlands,NLD,-0.2538786865507819
-Norway,NOR,0.10640133028641063
-Pakistan,PAK,-11.259545862485307
-Panama,PAN,0.28032904646986667
-Peru,PER,-2.553188890132567
-Portugal,PRT,-0.261816384033985
-Paraguay,PRY,-5.003644171666819
-Romania,ROU,3.884822406961261
-Russian Federation,RUS,-1.2964330713102823
-El Salvador,SLV,-10.249594212088834
-Sub-Saharan Africa,SSF,24.23944443155742
-Slovak Republic,SVK,-0.06282420896879837
-Slovenia,SVN,-0.6843090191872628
-Sweden,SWE,0.21886845042004016
-Togo,TGO,29.431344180727965
-Thailand,THA,-3.4398275682041657
-Tajikistan,TJK,-13.291242740939577
-Turkey,TUR,-0.9833482925113173
-Ukraine,UKR,-11.4647771781149
-Upper middle income,UMC,-1.9128362388767106
-Uruguay,URY,-1.8132356476483207
-World,WLD,6.229184243207582
-Kosovo,XKX,-8.97032849149544
-Zambia,ZMB,40.77768179680976
+,country,country_code,poverty_headcount_ratio_190_2011_ppp_resid
+0,Armenia,ARM,-5.6783576484330265
+1,Austria,AUT,0.46783479838104175
+2,Belgium,BEL,-0.2819412637629978
+3,Benin,BEN,35.723120239266535
+4,Bosnia and Herzegovina,BIH,-4.896477568870495
+5,Belarus,BLR,-1.9470046675123327
+6,Bolivia,BOL,-2.757830294958394
+7,Brazil,BRA,0.7422136066208171
+8,Switzerland,CHE,-0.12428689273752405
+9,Chile,CHL,0.11469127835930637
+10,China,CHN,-2.38480303096643
+11,Cote d'Ivoire,CIV,15.688361293277119
+12,Colombia,COL,1.0429615015708444
+13,Costa Rica,CRI,-1.14707318179941
+14,Cyprus,CYP,-0.5058752080862634
+15,Czech Republic,CZE,-0.4664208641391887
+16,Germany,DEU,-0.25560781329003074
+17,Denmark,DNK,-0.045890434535475866
+18,Dominican Republic,DOM,-1.2551584757391874
+19,East Asia & Pacific,EAS,-0.18870668543318825
+20,Ecuador,ECU,-1.8648588316182448
+21,"Egypt, Arab Rep.",EGY,-4.544401483110244
+22,Spain,ESP,0.5606482466468699
+23,Estonia,EST,-0.12629455061489314
+24,Ethiopia,ETH,12.319592913447478
+25,Finland,FIN,-0.3181725084668841
+26,France,FRA,-0.33679478673598845
+27,United Kingdom,GBR,-0.12393024170944972
+28,Georgia,GEO,-2.813795467599948
+29,"Gambia, The",GMB,-4.247579206412452
+30,Greece,GRC,0.7392578063218266
+31,Honduras,HND,4.825596438534365
+32,Croatia,HRV,-0.45774716598676646
+33,Hungary,HUN,-0.3115317068471908
+34,Indonesia,IDN,1.5974354509439372
+35,Ireland,IRL,0.06929405710086947
+36,Italy,ITA,1.5978627473496418
+37,Kazakhstan,KAZ,-0.891814435031182
+38,Kenya,KEN,23.85131082391846
+39,Kyrgyz Republic,KGZ,-10.015934885523963
+40,Lithuania,LTU,0.09048021068754475
+41,Luxembourg,LUX,0.14805088086983187
+42,Latvia,LVA,-0.21892278896544515
+43,Moldova,MDA,-10.934142532489107
+44,Malta,MLT,-0.4222032098123804
+45,Myanmar,MMR,-4.218486553059249
+46,Malaysia,MYS,-0.7642705775048472
+47,Namibia,NAM,7.444982871257941
+48,Netherlands,NLD,-0.23621539071986564
+49,Norway,NOR,0.07740775430814077
+50,Pakistan,PAK,-6.986451191044964
+51,Panama,PAN,0.7384634112631308
+52,Peru,PER,-0.7809002711040312
+53,Portugal,PRT,-0.07696606736526823
+54,Paraguay,PRY,-3.0234777847202152
+55,Romania,ROU,4.367017876076422
+56,Russian Federation,RUS,-0.9177039521332502
+57,El Salvador,SLV,-6.78777120268421
+58,Sub-Saharan Africa,SSF,28.8929780051587
+59,Slovak Republic,SVK,0.12264940317149564
+60,Slovenia,SVN,-0.5071128969951669
+61,Sweden,SWE,0.24529268266828624
+62,Togo,TGO,34.72551000828027
+63,Thailand,THA,-2.4398265630694915
+64,Tajikistan,TJK,-8.36062748354976
+65,Turkey,TUR,-0.6086406580041248
+66,Ukraine,UKR,-8.164037502530347
+67,Uruguay,URY,-1.3071959531455384
+68,Kosovo,XKX,-6.288842516770178
+69,Zambia,ZMB,45.39935838352922
+70,Aruba,ABW,
+71,Afghanistan,AFG,
+72,Angola,AGO,
+73,Albania,ALB,
+74,Andorra,AND,
+75,,,
+76,,,
+77,,,
+78,,,
+79,,,
+80,,,
+81,,,
+82,,,
+83,,,
+84,,,
+85,,,
+86,,,
+87,,,
+88,,,
+89,,,
+90,,,
+91,,,
+92,,,
+93,,,
+94,,,
+95,,,
+96,,,
+97,,,
+98,,,
+99,,,
+100,,,
+101,,,
+102,,,
+103,,,
+104,,,
+105,,,
+106,,,
+107,,,
+108,,,
+109,,,
+110,,,
+111,,,
+112,,,
+113,,,
+114,,,
+115,,,
+116,,,
+117,,,
+118,United Arab Emirates,ARE,
+119,Argentina,ARG,
+120,American Samoa,ASM,
+121,Antigua and Barbuda,ATG,
+122,Australia,AUS,
+123,Azerbaijan,AZE,
+124,Burundi,BDI,
+125,Burkina Faso,BFA,
+126,Bangladesh,BGD,
+127,Bulgaria,BGR,
+128,Bahrain,BHR,
+129,"Bahamas, The",BHS,
+130,Belize,BLZ,
+131,Bermuda,BMU,
+132,Barbados,BRB,
+133,Brunei Darussalam,BRN,
+134,Bhutan,BTN,
+135,Botswana,BWA,
+136,Central African Republic,CAF,
+137,Canada,CAN,
+138,Channel Islands,CHI,
+139,Cameroon,CMR,
+140,"Congo, Dem. Rep.",COD,
+141,"Congo, Rep.",COG,
+142,Comoros,COM,
+143,Cabo Verde,CPV,
+144,Cuba,CUB,
+145,Curacao,CUW,
+146,Cayman Islands,CYM,
+147,Djibouti,DJI,
+148,Dominica,DMA,
+149,Algeria,DZA,
+150,Eritrea,ERI,
+151,Fiji,FJI,
+152,Faroe Islands,FRO,
+153,"Micronesia, Fed. Sts.",FSM,
+154,Gabon,GAB,
+155,Ghana,GHA,
+156,Gibraltar,GIB,
+157,Guinea,GIN,
+158,Guinea-Bissau,GNB,
+159,Equatorial Guinea,GNQ,
+160,Grenada,GRD,
+161,Greenland,GRL,
+162,Guatemala,GTM,
+163,Guam,GUM,
+164,Guyana,GUY,
+165,"Hong Kong SAR, China",HKG,
+166,Haiti,HTI,
+167,Isle of Man,IMN,
+168,India,IND,
+169,"Iran, Islamic Rep.",IRN,
+170,Iraq,IRQ,
+171,Iceland,ISL,
+172,Israel,ISR,
+173,Jamaica,JAM,
+174,Jordan,JOR,
+175,Japan,JPN,
+176,Cambodia,KHM,
+177,Kiribati,KIR,
+178,St. Kitts and Nevis,KNA,
+179,"Korea, Rep.",KOR,
+180,Kuwait,KWT,
+181,Lao PDR,LAO,
+182,Lebanon,LBN,
+183,Liberia,LBR,
+184,Libya,LBY,
+185,St. Lucia,LCA,
+186,Liechtenstein,LIE,
+187,Sri Lanka,LKA,
+188,Lesotho,LSO,
+189,"Macao SAR, China",MAC,
+190,St. Martin (French part),MAF,
+191,Morocco,MAR,
+192,Monaco,MCO,
+193,Madagascar,MDG,
+194,Maldives,MDV,
+195,Mexico,MEX,
+196,Marshall Islands,MHL,
+197,"Macedonia, FYR",MKD,
+198,Mali,MLI,
+199,Montenegro,MNE,
+200,Mongolia,MNG,
+201,Northern Mariana Islands,MNP,
+202,Mozambique,MOZ,
+203,Mauritania,MRT,
+204,Mauritius,MUS,
+205,Malawi,MWI,
+206,New Caledonia,NCL,
+207,Niger,NER,
+208,Nigeria,NGA,
+209,Nicaragua,NIC,
+210,Nepal,NPL,
+211,Nauru,NRU,
+212,New Zealand,NZL,
+213,Oman,OMN,
+214,Philippines,PHL,
+215,Palau,PLW,
+216,Papua New Guinea,PNG,
+217,Poland,POL,
+218,Puerto Rico,PRI,
+219,"Korea, Dem. People’s Rep.",PRK,
+220,West Bank and Gaza,PSE,
+221,Pacific island small states,PSS,
+222,French Polynesia,PYF,
+223,Qatar,QAT,
+224,Rwanda,RWA,
+225,South Asia,SAS,
+226,Saudi Arabia,SAU,
+227,Sudan,SDN,
+228,Senegal,SEN,
+229,Singapore,SGP,
+230,Solomon Islands,SLB,
+231,Sierra Leone,SLE,
+232,San Marino,SMR,
+233,Somalia,SOM,
+234,Serbia,SRB,
+235,South Sudan,SSD,
+236,Sao Tome and Principe,STP,
+237,Suriname,SUR,
+238,Eswatini,SWZ,
+239,Sint Maarten (Dutch part),SXM,
+240,Seychelles,SYC,
+241,Syrian Arab Republic,SYR,
+242,Turks and Caicos Islands,TCA,
+243,Chad,TCD,
+244,Turkmenistan,TKM,
+245,Timor-Leste,TLS,
+246,Tonga,TON,
+247,Trinidad and Tobago,TTO,
+248,Tunisia,TUN,
+249,Tuvalu,TUV,
+250,Tanzania,TZA,
+251,Uganda,UGA,
+252,United States,USA,
+253,Uzbekistan,UZB,
+254,St. Vincent and the Grenadines,VCT,
+255,"Venezuela, RB",VEN,
+256,British Virgin Islands,VGB,
+257,Virgin Islands (U.S.),VIR,
+258,Vietnam,VNM,
+259,Vanuatu,VUT,
+260,Samoa,WSM,
+261,"Yemen, Rep.",YEM,
+262,South Africa,ZAF,
+263,Zimbabwe,ZWE,

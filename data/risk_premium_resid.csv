@@ -1,1 +1,265 @@
-file:///Users/rs/multi-maps/data/temp-plot.html
+,country,country_code,risk_premium_resid
+0,Angola,AGO,3.1078738315989645
+1,Albania,ALB,1.085276181478343
+2,Armenia,ARM,-1.1896315931948207
+3,Antigua and Barbuda,ATG,0.9380944342393995
+4,Bangladesh,BGD,-2.444488197221447
+5,Bulgaria,BGR,3.007653411064484
+6,"Bahamas, The",BHS,0.27265450490016363
+7,Belize,BLZ,4.2397372798047215
+8,Bolivia,BOL,0.8674298804033596
+9,Brazil,BRA,25.360726136127074
+10,Barbados,BRB,1.0696055841427583
+11,Canada,CAN,-0.7951395661331904
+12,Switzerland,CHE,1.0600407260730487
+13,Cabo Verde,CPV,2.3043621766746325
+14,Czech Republic,CZE,1.1451728291817167
+15,Dominica,DMA,0.24398394041308524
+16,Algeria,DZA,2.956344754800943
+17,"Egypt, Arab Rep.",EGY,-4.741043119220601
+18,Fiji,FJI,-1.1681518912082796
+19,Georgia,GEO,-1.8203094875741415
+20,Grenada,GRD,-1.5403546698190982
+21,Guyana,GUY,4.640618277961906
+22,Hungary,HUN,-2.191755612140224
+23,Iceland,ISL,-1.327331151252824
+24,Israel,ISR,0.12369113518183283
+25,Italy,ITA,0.8923936124118677
+26,Jamaica,JAM,4.4582599761194075
+27,Japan,JPN,-1.9629452236850138
+28,Kenya,KEN,-3.3803538063029244
+29,Kyrgyz Republic,KGZ,2.52698417799545
+30,Lebanon,LBN,-1.5826327284584973
+31,St. Lucia,LCA,0.6004981136642362
+32,Sri Lanka,LKA,-4.55250023183157
+33,Lesotho,LSO,-4.3154477848951815
+34,Moldova,MDA,-14.004954921659781
+35,Madagascar,MDG,38.50342431115793
+36,Maldives,MDV,-0.27224339832050237
+37,Mexico,MEX,-3.7665964983929165
+38,Montenegro,MNE,3.8232074890868333
+39,Mongolia,MNG,0.27643474838586
+40,Mozambique,MOZ,-0.3792131209123131
+41,Mauritania,MRT,5.185081145282119
+42,Mauritius,MUS,2.4594005564786716
+43,Malaysia,MYS,-2.4266433208882954
+44,Namibia,NAM,-2.3061391239040603
+45,Nigeria,NGA,0.3780135966322318
+46,New Zealand,NZL,-0.38538563443404383
+47,Pakistan,PAK,-4.56066938267114
+48,Philippines,PHL,-2.6229817852674793
+49,Papua New Guinea,PNG,-4.578110227970839
+50,Romania,ROU,0.4027023365724727
+51,Rwanda,RWA,4.938101258054541
+52,Solomon Islands,SLB,1.1366751827563117
+53,Sierra Leone,SLE,7.389594623341047
+54,Serbia,SRB,-5.437465140071837
+55,South Sudan,SSD,1.770181467170742
+56,Eswatini,SWZ,-3.467692376434621
+57,Seychelles,SYC,-0.6403992792468891
+58,Thailand,THA,-1.2398887603112576
+59,Tajikistan,TJK,16.44005102122253
+60,Trinidad and Tobago,TTO,4.368378960946368
+61,Tanzania,TZA,-5.475487660424699
+62,Uganda,UGA,-2.3383155269988993
+63,Uruguay,URY,-1.5150910994035742
+64,United States,USA,0.39951971715758816
+65,St. Vincent and the Grenadines,VCT,1.3442197937549567
+66,Kosovo,XKX,0.8734216333673004
+67,South Africa,ZAF,-1.2979787127400049
+68,Zambia,ZMB,-13.910728194214965
+69,Aruba,ABW,
+70,Afghanistan,AFG,
+71,Andorra,AND,
+72,,,
+73,,,
+74,,,
+75,,,
+76,,,
+77,,,
+78,,,
+79,,,
+80,,,
+81,,,
+82,,,
+83,,,
+84,,,
+85,,,
+86,,,
+87,,,
+88,,,
+89,,,
+90,,,
+91,,,
+92,,,
+93,,,
+94,,,
+95,,,
+96,,,
+97,,,
+98,,,
+99,,,
+100,,,
+101,,,
+102,,,
+103,,,
+104,,,
+105,,,
+106,,,
+107,,,
+108,,,
+109,,,
+110,,,
+111,,,
+112,,,
+113,,,
+114,,,
+115,United Arab Emirates,ARE,
+116,Argentina,ARG,
+117,American Samoa,ASM,
+118,Australia,AUS,
+119,Austria,AUT,
+120,Azerbaijan,AZE,
+121,Burundi,BDI,
+122,Belgium,BEL,
+123,Benin,BEN,
+124,Burkina Faso,BFA,
+125,Bahrain,BHR,
+126,Bosnia and Herzegovina,BIH,
+127,Belarus,BLR,
+128,Bermuda,BMU,
+129,Brunei Darussalam,BRN,
+130,Bhutan,BTN,
+131,Botswana,BWA,
+132,Central African Republic,CAF,
+133,Channel Islands,CHI,
+134,Chile,CHL,
+135,China,CHN,
+136,Cote d'Ivoire,CIV,
+137,Cameroon,CMR,
+138,"Congo, Dem. Rep.",COD,
+139,"Congo, Rep.",COG,
+140,Colombia,COL,
+141,Comoros,COM,
+142,Costa Rica,CRI,
+143,Cuba,CUB,
+144,Curacao,CUW,
+145,Cayman Islands,CYM,
+146,Cyprus,CYP,
+147,Germany,DEU,
+148,Djibouti,DJI,
+149,Denmark,DNK,
+150,Dominican Republic,DOM,
+151,East Asia & Pacific,EAS,
+152,Ecuador,ECU,
+153,Eritrea,ERI,
+154,Spain,ESP,
+155,Estonia,EST,
+156,Ethiopia,ETH,
+157,Finland,FIN,
+158,France,FRA,
+159,Faroe Islands,FRO,
+160,"Micronesia, Fed. Sts.",FSM,
+161,Gabon,GAB,
+162,United Kingdom,GBR,
+163,Ghana,GHA,
+164,Gibraltar,GIB,
+165,Guinea,GIN,
+166,"Gambia, The",GMB,
+167,Guinea-Bissau,GNB,
+168,Equatorial Guinea,GNQ,
+169,Greece,GRC,
+170,Greenland,GRL,
+171,Guatemala,GTM,
+172,Guam,GUM,
+173,"Hong Kong SAR, China",HKG,
+174,Honduras,HND,
+175,Croatia,HRV,
+176,Haiti,HTI,
+177,Indonesia,IDN,
+178,Isle of Man,IMN,
+179,India,IND,
+180,Ireland,IRL,
+181,"Iran, Islamic Rep.",IRN,
+182,Iraq,IRQ,
+183,Jordan,JOR,
+184,Kazakhstan,KAZ,
+185,Cambodia,KHM,
+186,Kiribati,KIR,
+187,St. Kitts and Nevis,KNA,
+188,"Korea, Rep.",KOR,
+189,Kuwait,KWT,
+190,Lao PDR,LAO,
+191,Liberia,LBR,
+192,Libya,LBY,
+193,Liechtenstein,LIE,
+194,Lithuania,LTU,
+195,Luxembourg,LUX,
+196,Latvia,LVA,
+197,"Macao SAR, China",MAC,
+198,St. Martin (French part),MAF,
+199,Morocco,MAR,
+200,Monaco,MCO,
+201,Marshall Islands,MHL,
+202,"Macedonia, FYR",MKD,
+203,Mali,MLI,
+204,Malta,MLT,
+205,Myanmar,MMR,
+206,Northern Mariana Islands,MNP,
+207,Malawi,MWI,
+208,New Caledonia,NCL,
+209,Niger,NER,
+210,Nicaragua,NIC,
+211,Netherlands,NLD,
+212,Norway,NOR,
+213,Nepal,NPL,
+214,Nauru,NRU,
+215,Oman,OMN,
+216,Panama,PAN,
+217,Peru,PER,
+218,Palau,PLW,
+219,Poland,POL,
+220,Puerto Rico,PRI,
+221,"Korea, Dem. People’s Rep.",PRK,
+222,Portugal,PRT,
+223,Paraguay,PRY,
+224,West Bank and Gaza,PSE,
+225,Pacific island small states,PSS,
+226,French Polynesia,PYF,
+227,Qatar,QAT,
+228,Russian Federation,RUS,
+229,South Asia,SAS,
+230,Saudi Arabia,SAU,
+231,Sudan,SDN,
+232,Senegal,SEN,
+233,Singapore,SGP,
+234,El Salvador,SLV,
+235,San Marino,SMR,
+236,Somalia,SOM,
+237,Sub-Saharan Africa,SSF,
+238,Sao Tome and Principe,STP,
+239,Suriname,SUR,
+240,Slovak Republic,SVK,
+241,Slovenia,SVN,
+242,Sweden,SWE,
+243,Sint Maarten (Dutch part),SXM,
+244,Syrian Arab Republic,SYR,
+245,Turks and Caicos Islands,TCA,
+246,Chad,TCD,
+247,Togo,TGO,
+248,Turkmenistan,TKM,
+249,Timor-Leste,TLS,
+250,Tonga,TON,
+251,Tunisia,TUN,
+252,Turkey,TUR,
+253,Tuvalu,TUV,
+254,Ukraine,UKR,
+255,Uzbekistan,UZB,
+256,"Venezuela, RB",VEN,
+257,British Virgin Islands,VGB,
+258,Virgin Islands (U.S.),VIR,
+259,Vietnam,VNM,
+260,Vanuatu,VUT,
+261,Samoa,WSM,
+262,"Yemen, Rep.",YEM,
+263,Zimbabwe,ZWE,
