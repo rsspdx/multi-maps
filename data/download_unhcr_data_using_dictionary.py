@@ -21,34 +21,8 @@ import pandas as pd
 wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
 
-
-
-# unhcr data
-#unhcr_data_dictionary = [
-## persons of concern
-#    {'name' : 'persons_of_concern',
-#     'url' : 'http://popstats.unhcr.org/en/persons_of_concern.csv',
-#     'long_name' : 'Persons of concern',
-#     'source' : 'UNHCR, Population Statistics',
-#     'short_name' : 'Persons of concern'
-#     },
-#
-## asylum seekers
-#     {'name' : 'asylum_seekers',
-#      'url' : 'http://popstats.unhcr.org/en/asylum_seekers.csv',
-#      'long_name' : 'Asylum seekers',
-#      'source' : 'UNHCR, Population Statistics',
-#      'short_name' : 'Asylum seekers'
-#      },
-#     
-## refugees
-#     {'name' : 'refugees',
-#      'url' : 'http://popstats.unhcr.org/en/time_series.csv',
-#      'long_name' : 'Refugees',
-#      'source' : 'UNHCR, Population Statistics',
-#      'short_name' : 'Refugees'
-#      }
-#]
+# read country_code concordance
+country_iso_2_iso_3 = pd.read_csv('country_iso_2_iso_3.csv', index_col = False)
 
 # download UNHCR data - Population Statistics - Persons of Concern
 poc = requests.get('http://popstats.unhcr.org/en/persons_of_concern.csv')
@@ -93,21 +67,38 @@ poc_df_2015.asylum_seekers = poc_df_2015.asylum_seekers[poc_df_2015.asylum_seeke
 poc_df_2015.idps = poc_df_2015.idps[poc_df_2015.idps != ''].astype('int32')
 poc_df_2015.refugees = poc_df_2015.refugees[poc_df_2015.refugees != ''].astype('int32')
 
-asylum_seekers = poc_df_2015.groupby('country').asylum_seekers.sum()
-idps = poc_df_2015.groupby('country').idps.sum()
-refugees = poc_df_2015.groupby('country').refugees.sum()
+asylum_seekers = pd.DataFrame(poc_df_2015.groupby('country').asylum_seekers.sum())
+idps = pd.DataFrame(poc_df_2015.groupby('country').idps.sum())
+refugees = pd.DataFrame(poc_df_2015.groupby('country').refugees.sum())
 
-#merge asylum_seekers, idps, refugees to a single data set
-asylum_seekers = pd.DataFrame(asylum_seekers)
+# merge to get country_codes
+asylum_seekers = asylum_seekers.merge(country_iso_2_iso_3, on='country')
+idps = idps.merge(country_iso_2_iso_3, on='country')
+refugees =  refugees.merge(country_iso_2_iso_3, on='country')
+
+# drop country names and extraneous vars
+asylum_seekers = asylum_seekers.drop('country', 1)
+asylum_seekers = asylum_seekers.drop('iso_2', 1)
+asylum_seekers['country_code'] = asylum_seekers.iso_3
+asylum_seekers = asylum_seekers.drop('iso_3', 1)
+
+idps = idps.drop('country', 1)
+idps = idps.drop('iso_2', 1)
+idps['country_code'] = idps.iso_3
+idps = idps.drop('iso_3', 1)
+
+refugees = refugees.drop('country', 1)
+refugees = refugees.drop('iso_2', 1)
+refugees['country_code'] = refugees.iso_3
+refugees = refugees.drop('iso_3', 1)
+
+# save to csv
 asylum_seekers.to_csv('asylum_seekers.csv')
-idps = pd.DataFrame(idps)
 idps.to_csv('idps.csv')
-refugees = pd.DataFrame(refugees)
 refugees.to_csv('refugees.csv')
 
-asylum_idps_refugees = asylum_seekers.merge(idps, on='country')
-asylum_idps_refugees = asylum_idps_refugees.merge(refugees, on='country')
-asylum_idps_refugees.to_csv('asylum_idps_refugees.csv')
+# ------------------
+# ------------------
 
 # download UNHCR data - Population Statistics - Asylum Seekers
 asylum = requests.get('http://popstats.unhcr.org/en/asylum_seekers.csv')
@@ -131,6 +122,7 @@ for i in range(len(asylum_list)-1):
 asylum_df = pd.DataFrame(asylum_dict_list)
 # keep year 2015 only
 asylum_df_2015 = asylum_df[asylum_df['Year'] == '2015']
+
 asylum_df_2015.to_csv('asylum_csv_2015.csv')
 # give the variables usable names
 asylum_df_2015 = asylum_df_2015.rename(index=str, columns={
@@ -160,8 +152,15 @@ recognized_2015 = pd.DataFrame(recognized_2015)
 total_decisions_2015 = pd.DataFrame(total_decisions_2015)
 recognized_total_decisions_2015 = recognized_2015.merge(total_decisions_2015, on='country')
 recognized_total_decisions_2015['recognition_rate'] = 100 * recognized_total_decisions_2015.recognized / recognized_total_decisions_2015.total_decisions
-recognized_total_decisions_2015.to_csv('recognized_total_decisions.csv')
-recognition_rate = pd.read_csv('recognized_total_decisions.csv')
+
+# merge to get country_codes and drop extraneous vars to get recognition rate
+recognized_total_decisions_2015 = recognized_total_decisions_2015.merge(country_iso_2_iso_3, on='country')
+recognition_rate = recognized_total_decisions_2015.drop('country', 1)
 recognition_rate = recognition_rate.drop('recognized', 1)
 recognition_rate = recognition_rate.drop('total_decisions', 1)
+recognition_rate['country_code'] = recognition_rate.iso_3
+recognition_rate = recognition_rate.drop('iso_3', 1)
+recognition_rate = recognition_rate.drop('iso_2', 1)
+
+# save to csv
 recognition_rate.to_csv('recognition_rate.csv')

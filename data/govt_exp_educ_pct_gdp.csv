@@ -4,7 +4,6 @@ Afghanistan,AFG,3.24202
 Angola,AGO,
 Albania,ALB,3.4379699999999995
 Andorra,AND,3.25368
-,,
 United Arab Emirates,ARE,
 Argentina,ARG,5.77611
 Armenia,ARM,2.80591
@@ -33,7 +32,6 @@ Bhutan,BTN,7.389660000000001
 Botswana,BWA,
 Central African Republic,CAF,
 Canada,CAN,
-,,
 Switzerland,CHE,5.10465
 Channel Islands,CHI,
 Chile,CHL,4.8737
@@ -46,7 +44,6 @@ Colombia,COL,4.5004800000000005
 Comoros,COM,4.34445
 Cabo Verde,CPV,5.26691
 Costa Rica,CRI,7.08255
-,,
 Cuba,CUB,
 Curacao,CUW,
 Cayman Islands,CYM,
@@ -58,20 +55,12 @@ Dominica,DMA,3.3860699999999997
 Denmark,DNK,
 Dominican Republic,DOM,
 Algeria,DZA,
-,,
-,,
-East Asia & Pacific,EAS,
-,,
-,,
 Ecuador,ECU,4.9987
 "Egypt, Arab Rep.",EGY,
-,,
 Eritrea,ERI,
 Spain,ESP,4.27701
 Estonia,EST,5.2159
 Ethiopia,ETH,4.73792
-,,
-,,
 Finland,FIN,7.09183
 Fiji,FJI,
 France,FRA,5.46424
@@ -92,22 +81,14 @@ Greenland,GRL,
 Guatemala,GTM,2.95518
 Guam,GUM,
 Guyana,GUY,0.00527
-,,
 "Hong Kong SAR, China",HKG,3.26212
 Honduras,HND,6.41297
-,,
 Croatia,HRV,
 Haiti,HTI,3.1572299999999998
 Hungary,HUN,4.579359999999999
-,,
-,,
-,,
-,,
 Indonesia,IDN,3.5836
-,,
 Isle of Man,IMN,
 India,IND,
-,,
 Ireland,IRL,3.76971
 "Iran, Islamic Rep.",IRN,2.79739
 Iraq,IRQ,
@@ -125,21 +106,14 @@ Kiribati,KIR,
 St. Kitts and Nevis,KNA,2.77853
 "Korea, Rep.",KOR,5.2527099999999995
 Kuwait,KWT,
-,,
 Lao PDR,LAO,
 Lebanon,LBN,
 Liberia,LBR,4.11078
 Libya,LBY,
 St. Lucia,LCA,4.37418
-,,
-,,
-,,
 Liechtenstein,LIE,
 Sri Lanka,LKA,2.22875
-,,
-,,
 Lesotho,LSO,
-,,
 Lithuania,LTU,4.21805
 Luxembourg,LUX,3.91548
 Latvia,LVA,5.33721
@@ -150,15 +124,12 @@ Monaco,MCO,
 Moldova,MDA,
 Madagascar,MDG,2.5682099999999997
 Maldives,MDV,4.47869
-,,
 Mexico,MEX,5.23946
 Marshall Islands,MHL,
-,,
 "Macedonia, FYR",MKD,
 Mali,MLI,3.80136
 Malta,MLT,5.267469999999999
 Myanmar,MMR,
-,,
 Montenegro,MNE,
 Mongolia,MNG,4.17699
 Northern Mariana Islands,MNP,
@@ -167,7 +138,6 @@ Mauritania,MRT,
 Mauritius,MUS,4.88667
 Malawi,MWI,5.6086599999999995
 Malaysia,MYS,4.97613
-,,
 Namibia,NAM,
 New Caledonia,NCL,
 Niger,NER,5.98939
@@ -178,9 +148,7 @@ Norway,NOR,7.55247
 Nepal,NPL,3.70359
 Nauru,NRU,
 New Zealand,NZL,6.33634
-,,
 Oman,OMN,
-,,
 Pakistan,PAK,2.65002
 Panama,PAN,
 Peru,PER,3.9668
@@ -188,20 +156,16 @@ Philippines,PHL,
 Palau,PLW,
 Papua New Guinea,PNG,
 Poland,POL,4.81454
-,,
 Puerto Rico,PRI,
 "Korea, Dem. People’s Rep.",PRK,
 Portugal,PRT,4.8829400000000005
 Paraguay,PRY,
 West Bank and Gaza,PSE,5.14136
-Pacific island small states,PSS,
-,,
 French Polynesia,PYF,
 Qatar,QAT,
 Romania,ROU,3.10645
 Russian Federation,RUS,3.82025
 Rwanda,RWA,3.75146
-South Asia,SAS,2.94602
 Saudi Arabia,SAU,
 Sudan,SDN,
 Senegal,SEN,7.1071800000000005
@@ -212,10 +176,7 @@ El Salvador,SLV,3.9558199999999997
 San Marino,SMR,
 Somalia,SOM,
 Serbia,SRB,4.040690000000001
-,,
 South Sudan,SSD,1.3551600000000001
-Sub-Saharan Africa,SSF,4.56147
-,,
 Sao Tome and Principe,STP,3.8981199999999996
 Suriname,SUR,
 Slovak Republic,SVK,4.649780000000001
@@ -227,18 +188,12 @@ Seychelles,SYC,
 Syrian Arab Republic,SYR,
 Turks and Caicos Islands,TCA,3.2652799999999997
 Chad,TCD,
-,,
-,,
 Togo,TGO,5.22284
 Thailand,THA,
 Tajikistan,TJK,5.23215
 Turkmenistan,TKM,
-,,
 Timor-Leste,TLS,
-,,
 Tonga,TON,
-,,
-,,
 Trinidad and Tobago,TTO,
 Tunisia,TUN,6.59857
 Turkey,TUR,4.291869999999999
@@ -246,7 +201,6 @@ Tuvalu,TUV,
 Tanzania,TZA,
 Uganda,UGA,2.77376
 Ukraine,UKR,
-,,
 Uruguay,URY,
 United States,USA,
 Uzbekistan,UZB,7.0788199999999994
@@ -256,7 +210,6 @@ British Virgin Islands,VGB,6.31728
 Virgin Islands (U.S.),VIR,
 Vietnam,VNM,
 Vanuatu,VUT,5.549869999999999
-,,
 Samoa,WSM,
 Kosovo,XKX,
 "Yemen, Rep.",YEM,

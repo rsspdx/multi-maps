@@ -1,183 +1,183 @@
-country,refugees
-Afghanistan,257554.0
-Albania,104.0
-Algeria,94182.0
-Angola,15555.0
-Anguilla,1.0
-Antigua and Barbuda,15.0
-Argentina,3207.0
-Armenia,19319.0
-Aruba,2.0
-Australia,36917.0
-Austria,72216.0
-Azerbaijan,1278.0
-Bahamas,8.0
-Bahrain,247.0
-Bangladesh,231958.0
-Belarus,1809.0
-Belgium,35314.0
-Belize,35.0
-Benin,530.0
-Bolivia (Plurinational State of),775.0
-Bosnia and Herzegovina,6798.0
-Botswana,2130.0
-Brazil,8707.0
-Brunei Darussalam,0.0
-Bulgaria,16557.0
-Burkina Faso,34017.0
-Burundi,53363.0
-Cabo Verde,0.0
-Cambodia,76.0
-Cameroon,342973.0
-Canada,135888.0
-Cayman Islands,12.0
-Central African Rep.,7330.0
-Chad,369540.0
-Chile,1849.0
-China,301052.0
-China HK,133.0
-China Macao,0.0
-Colombia,226.0
-Congo,44955.0
-Costa Rica,3616.0
-Croatia,522.0
-Cte d'Ivoire,1980.0
-Cuba,303.0
-Curaao,48.0
-Cyprus,7067.0
-Czech Rep.,3644.0
-Dem. People's Rep. of Korea,0.0
-Dem. Rep. of the Congo,383095.0
-Denmark,27326.0
-Djibouti,19365.0
-Dominican Rep.,615.0
-Ecuador,121535.0
-Egypt,212500.0
-El Salvador,48.0
-Eritrea,2549.0
-Estonia,168.0
-Ethiopia,736086.0
-Fiji,12.0
-Finland,12703.0
-France,273126.0
-Gabon,943.0
-Gambia,7854.0
-Georgia,1979.0
-Germany,316115.0
-Ghana,17406.0
-Greece,24838.0
-Grenada,1.0
-Guatemala,226.0
-Guinea,8839.0
-Guinea-Bissau,8684.0
-Guyana,11.0
-Haiti,3.0
-Honduras,30.0
-Hungary,4393.0
-Iceland,179.0
-India,201381.0
-Indonesia,5957.0
-Iran (Islamic Rep. of),979437.0
-Iraq,277701.0
-Ireland,6125.0
-Israel,32946.0
-Italy,118047.0
-Jamaica,12.0
-Japan,2474.0
-Jordan,664118.0
-Kazakhstan,708.0
-Kenya,553912.0
-Kuwait,741.0
-Kyrgyzstan,354.0
-Latvia,208.0
-Lebanon,1070854.0
-Lesotho,31.0
-Liberia,36505.0
-Libya,9305.0
-Liechtenstein,150.0
-Lithuania,1093.0
-Luxembourg,1332.0
-Madagascar,10.0
-Malawi,9019.0
-Malaysia,94166.0
-Mali,15917.0
-Malta,7075.0
-Mauritania,77394.0
-Mexico,2923.0
-Micronesia (Federated States of),3.0
-Monaco,32.0
-Mongolia,9.0
-Montenegro,1771.0
-Morocco,3908.0
-Mozambique,5622.0
-Myanmar,0.0
-Namibia,1737.0
-Nauru,506.0
-Nepal,32667.0
-Netherlands,88536.0
-New Zealand,1337.0
-Nicaragua,330.0
-Niger,124721.0
-Nigeria,1395.0
-Norway,50389.0
-Oman,245.0
-Pakistan,1561162.0
-Panama,17322.0
-Papua New Guinea,9510.0
-Paraguay,172.0
-Peru,1488.0
-Philippines,269.0
-Poland,14065.0
-Portugal,853.0
-Qatar,120.0
-Rep. of Korea,1463.0
-Rep. of Moldova,446.0
-Romania,2598.0
-Russian Federation,314507.0
-Rwanda,144737.0
-Saint Lucia,1.0
-Samoa,0.0
-Saudi Arabia,125.0
-Senegal,14392.0
-Serbia and Kosovo (S/RES/1244 (1999)),35332.0
-Sierra Leone,760.0
-Singapore,0.0
-Sint Maarten (Dutch part),3.0
-Slovakia,820.0
-Slovenia,292.0
-Solomon Islands,3.0
-Somalia,8081.0
-South Africa,121645.0
-South Sudan,263016.0
-Spain,6457.0
-Sri Lanka,784.0
-Sudan,309639.0
-Suriname,1.0
-Swaziland,696.0
-Sweden,169520.0
-Switzerland,73336.0
-Syrian Arab Rep.,21113.0
-Tajikistan,1969.0
-Thailand,108261.0
-The former Yugoslav Republic of Macedonia,701.0
-Timor-Leste,0.0
-Togo,21953.0
-Trinidad and Tobago,113.0
-Tunisia,665.0
-Turkey,2541352.0
-Turkmenistan,26.0
-Turks and Caicos Islands,4.0
-Uganda,477187.0
-Ukraine,3273.0
-United Arab Emirates,663.0
-United Kingdom,123067.0
-United Rep. of Tanzania,211845.0
-United States of America,273202.0
-Uruguay,301.0
-Uzbekistan,107.0
-Vanuatu,0.0
-Venezuela (Bolivarian Republic of),173754.0
-Viet Nam,0.0
-Yemen,267173.0
-Zambia,26447.0
-Zimbabwe,6950.0
+,refugees,country_code
+0,257554.0,AFG
+1,104.0,ALB
+2,94182.0,DZA
+3,15555.0,AGO
+4,1.0,AIA
+5,15.0,ATG
+6,3207.0,ARG
+7,19319.0,ARM
+8,2.0,ABW
+9,36917.0,AUS
+10,72216.0,AUT
+11,1278.0,AZE
+12,8.0,BHS
+13,247.0,BHR
+14,231958.0,BGD
+15,1809.0,BLR
+16,35314.0,BEL
+17,35.0,BLZ
+18,530.0,BEN
+19,775.0,BOL
+20,6798.0,BIH
+21,2130.0,TWA
+22,8707.0,BRA
+23,0.0,BRN
+24,16557.0,BGR
+25,34017.0,BFA
+26,53363.0,BDI
+27,0.0,CPV
+28,76.0,KHM
+29,342973.0,CMR
+30,135888.0,CAN
+31,12.0,CYM
+32,7330.0,CAF
+33,369540.0,TCD
+34,1849.0,CHL
+35,301052.0,CHN
+36,133.0,HKG
+37,0.0,MAC
+38,226.0,COL
+39,44955.0,COG
+40,3616.0,CRI
+41,522.0,HRV
+42,1980.0,CIV
+43,303.0,CUB
+44,48.0,
+45,7067.0,CYP
+46,3644.0,CZE
+47,0.0,PRK
+48,383095.0,COD
+49,27326.0,DNK
+50,19365.0,DJI
+51,615.0,DOM
+52,121535.0,ECU
+53,212500.0,EGY
+54,48.0,SLV
+55,2549.0,ERI
+56,168.0,EST
+57,736086.0,ETH
+58,12.0,FJI
+59,12703.0,FIN
+60,273126.0,FRA
+61,943.0,GAB
+62,7854.0,GMB
+63,1979.0,GEO
+64,316115.0,DEU
+65,17406.0,GHA
+66,24838.0,GRC
+67,1.0,GRD
+68,226.0,GTM
+69,8839.0,GIN
+70,8684.0,GNB
+71,11.0,GUY
+72,3.0,HTI
+73,30.0,HND
+74,4393.0,HUN
+75,179.0,ISL
+76,201381.0,IND
+77,5957.0,IDN
+78,979437.0,IRN
+79,277701.0,IRQ
+80,6125.0,IRL
+81,32946.0,ISR
+82,118047.0,ITA
+83,12.0,JAM
+84,2474.0,JPN
+85,664118.0,JOR
+86,708.0,KAZ
+87,553912.0,KEN
+88,741.0,KWT
+89,354.0,KGZ
+90,208.0,LVA
+91,1070854.0,LBN
+92,31.0,LSO
+93,36505.0,LBR
+94,9305.0,LBY
+95,150.0,LIE
+96,1093.0,LTU
+97,1332.0,LUX
+98,10.0,MDG
+99,9019.0,MWI
+100,94166.0,MYS
+101,15917.0,MLI
+102,7075.0,MLT
+103,77394.0,MRT
+104,2923.0,MEX
+105,3.0,FSM
+106,32.0,MCO
+107,9.0,MNG
+108,1771.0,MNE
+109,3908.0,MAR
+110,5622.0,MOZ
+111,0.0,MMR
+112,1737.0,NAM
+113,506.0,NRU
+114,32667.0,NPL
+115,88536.0,NLD
+116,1337.0,NZL
+117,330.0,NIC
+118,124721.0,NER
+119,1395.0,NGA
+120,50389.0,NOR
+121,245.0,OMN
+122,1561162.0,PAK
+123,17322.0,PAN
+124,9510.0,PNG
+125,172.0,PRY
+126,1488.0,PER
+127,269.0,PHL
+128,14065.0,POL
+129,853.0,PRT
+130,120.0,QAT
+131,1463.0,KOR
+132,446.0,MDA
+133,2598.0,ROU
+134,314507.0,RUS
+135,144737.0,RWA
+136,1.0,LCA
+137,0.0,WSM
+138,125.0,SAU
+139,14392.0,SEN
+140,35332.0,SRB
+141,760.0,SLE
+142,0.0,SGP
+143,3.0,
+144,820.0,SVK
+145,292.0,SVN
+146,3.0,SLB
+147,8081.0,SOM
+148,121645.0,ZAF
+149,263016.0,SSD
+150,6457.0,ESP
+151,784.0,LKA
+152,309639.0,SDN
+153,1.0,SUR
+154,696.0,SWZ
+155,169520.0,SWE
+156,73336.0,CHE
+157,21113.0,SYR
+158,1969.0,TJK
+159,108261.0,THA
+160,701.0,MKD
+161,0.0,TLS
+162,21953.0,TGO
+163,113.0,TTO
+164,665.0,TUN
+165,2541352.0,TUR
+166,26.0,TKM
+167,4.0,TCA
+168,477187.0,UGA
+169,3273.0,UKR
+170,663.0,ARE
+171,123067.0,GBR
+172,211845.0,TZA
+173,273202.0,USA
+174,301.0,URY
+175,107.0,UZB
+176,0.0,VUT
+177,173754.0,VEN
+178,0.0,VNM
+179,267173.0,YEM
+180,26447.0,ZMB
+181,6950.0,ZWE

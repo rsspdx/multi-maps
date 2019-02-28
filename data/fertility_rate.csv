@@ -4,7 +4,6 @@ Afghanistan,AFG,4.802
 Angola,AGO,5.766
 Albania,ALB,1.714
 Andorra,AND,
-,,
 United Arab Emirates,ARE,1.765
 Argentina,ARG,2.3080000000000003
 Armenia,ARM,1.6219999999999999
@@ -33,7 +32,6 @@ Bhutan,BTN,2.086
 Botswana,BWA,2.7739999999999996
 Central African Republic,CAF,4.94
 Canada,CAN,1.6
-,,
 Switzerland,CHE,1.54
 Channel Islands,CHI,1.472
 Chile,CHL,1.785
@@ -46,7 +44,6 @@ Colombia,COL,1.874
 Comoros,COM,4.42
 Cabo Verde,CPV,2.374
 Costa Rica,CRI,1.8
-,,
 Cuba,CUB,1.72
 Curacao,CUW,1.9
 Cayman Islands,CYM,
@@ -58,20 +55,12 @@ Dominica,DMA,
 Denmark,DNK,1.71
 Dominican Republic,DOM,2.451
 Algeria,DZA,2.839
-,,
-,,
-East Asia & Pacific,EAS,1.80577847313536
-,,
-,,
 Ecuador,ECU,2.5140000000000002
 "Egypt, Arab Rep.",EGY,3.3110000000000004
-,,
 Eritrea,ERI,4.208
 Spain,ESP,1.33
 Estonia,EST,1.58
 Ethiopia,ETH,4.317
-,,
-,,
 Finland,FIN,1.65
 Fiji,FJI,2.541
 France,FRA,1.96
@@ -92,22 +81,14 @@ Greenland,GRL,2.01
 Guatemala,GTM,3.029
 Guam,GUM,2.367
 Guyana,GUY,2.5340000000000003
-,,
 "Hong Kong SAR, China",HKG,1.196
 Honduras,HND,2.5069999999999997
-,,
 Croatia,HRV,1.4
 Haiti,HTI,2.9730000000000003
 Hungary,HUN,1.45
-,,
-,,
-,,
-,,
 Indonesia,IDN,2.3890000000000002
-,,
 Isle of Man,IMN,
 India,IND,2.352
-,,
 Ireland,IRL,1.92
 "Iran, Islamic Rep.",IRN,1.686
 Iraq,IRQ,4.427
@@ -125,21 +106,14 @@ Kiribati,KIR,3.693
 St. Kitts and Nevis,KNA,
 "Korea, Rep.",KOR,1.239
 Kuwait,KWT,1.986
-,,
 Lao PDR,LAO,2.758
 Lebanon,LBN,1.72
 Liberia,LBR,4.65
 Libya,LBY,2.312
 St. Lucia,LCA,1.4709999999999999
-,,
-,,
-,,
 Liechtenstein,LIE,1.4
 Sri Lanka,LKA,2.063
-,,
-,,
 Lesotho,LSO,3.1430000000000002
-,,
 Lithuania,LTU,1.7
 Luxembourg,LUX,1.47
 Latvia,LVA,1.7
@@ -150,15 +124,12 @@ Monaco,MCO,
 Moldova,MDA,1.248
 Madagascar,MDG,4.2410000000000005
 Maldives,MDV,2.1319999999999997
-,,
 Mexico,MEX,2.215
 Marshall Islands,MHL,
-,,
 "Macedonia, FYR",MKD,1.524
 Mali,MLI,6.145
 Malta,MLT,1.45
 Myanmar,MMR,2.23
-,,
 Montenegro,MNE,1.6769999999999998
 Mongolia,MNG,2.793
 Northern Mariana Islands,MNP,
@@ -167,7 +138,6 @@ Mauritania,MRT,4.736000000000001
 Mauritius,MUS,1.36
 Malawi,MWI,4.646
 Malaysia,MYS,2.056
-,,
 Namibia,NAM,3.4730000000000003
 New Caledonia,NCL,2.06
 Niger,NER,7.29
@@ -178,9 +148,7 @@ Norway,NOR,1.72
 Nepal,NPL,2.162
 Nauru,NRU,
 New Zealand,NZL,1.99
-,,
 Oman,OMN,2.737
-,,
 Pakistan,PAK,3.55
 Panama,PAN,2.541
 Peru,PER,2.4290000000000003
@@ -188,20 +156,16 @@ Philippines,PHL,2.958
 Palau,PLW,2.21
 Papua New Guinea,PNG,3.707
 Poland,POL,1.32
-,,
 Puerto Rico,PRI,1.3365
 "Korea, Dem. People’s Rep.",PRK,1.921
 Portugal,PRT,1.31
 Paraguay,PRY,2.509
 West Bank and Gaza,PSE,4.075
-Pacific island small states,PSS,3.2432754751972204
-,,
 French Polynesia,PYF,2.028
 Qatar,QAT,1.929
 Romania,ROU,1.58
 Russian Federation,RUS,1.75
 Rwanda,RWA,3.967
-South Asia,SAS,2.4914913856623997
 Saudi Arabia,SAU,2.5789999999999997
 Sudan,SDN,4.595
 Senegal,SEN,4.84
@@ -212,10 +176,7 @@ El Salvador,SLV,2.101
 San Marino,SMR,
 Somalia,SOM,6.365
 Serbia,SRB,1.46
-,,
 South Sudan,SSD,4.938
-Sub-Saharan Africa,SSF,4.91887990820157
-,,
 Sao Tome and Principe,STP,4.518
 Suriname,SUR,2.396
 Slovak Republic,SVK,1.4
@@ -227,18 +188,12 @@ Seychelles,SYC,2.41
 Syrian Arab Republic,SYR,2.966
 Turks and Caicos Islands,TCA,
 Chad,TCD,6.05
-,,
-,,
 Togo,TGO,4.5169999999999995
 Thailand,THA,1.4980000000000002
 Tajikistan,TJK,3.404
 Turkmenistan,TKM,2.931
-,,
 Timor-Leste,TLS,5.617999999999999
-,,
 Tonga,TON,3.678
-,,
-,,
 Trinidad and Tobago,TTO,1.766
 Tunisia,TUN,2.2230000000000003
 Turkey,TUR,2.072
@@ -246,7 +201,6 @@ Tuvalu,TUV,
 Tanzania,TZA,5.079
 Uganda,UGA,5.682
 Ukraine,UKR,1.506
-,,
 Uruguay,URY,2.0069999999999997
 United States,USA,1.8435
 Uzbekistan,UZB,2.491
@@ -256,7 +210,6 @@ British Virgin Islands,VGB,
 Virgin Islands (U.S.),VIR,2.11
 Vietnam,VNM,1.9580000000000002
 Vanuatu,VUT,3.312
-,,
 Samoa,WSM,4.029
 Kosovo,XKX,2.09
 "Yemen, Rep.",YEM,4.104

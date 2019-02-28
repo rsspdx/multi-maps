@@ -17,27 +17,20 @@ os.chdir(wd)
 # along with gdp per capita, population, and a country_code concordance
 gdpcap = pd.read_csv('gdp_per_capita.csv')
 population = pd.read_csv('population.csv')
-asylum_idps_refugees = pd.read_csv('asylum_idps_refugees.csv')
-recognized_total_decisions = pd.read_csv('recognized_total_decisions.csv')
 wdi_vars = pd.read_csv('wdi_vars.csv')
 country_iso_2_iso_3 = pd.read_csv('country_iso_2_iso_3.csv')
-happiness = pd.read_csv('happiness.2015.csv', index_col=False)
+happiness = pd.read_csv('happiness.2015.csv', index_col=0)
 happiness.to_csv('happiness.csv')
-ti_cpi = pd.read_csv('ti_cpi_2015.csv', index_col=False)
+ti_cpi = pd.read_csv('ti_cpi_2015.csv', index_col=0)
 ti_cpi = ti_cpi.drop('country', 1)
 ti_cpi.to_csv('ti_cpi.csv')
-asylum_seekers = pd.read_csv('asylum_seekers.csv', index_col=False)
+asylum_seekers = pd.read_csv('asylum_seekers.csv', index_col=0)
 idps = pd.read_csv('idps.csv')
-refugees = pd.read_csv('refugees.csv', index_col=False)
-recognition_rate = pd.read_csv('recognition_rate.csv', index_col=False)
+refugees = pd.read_csv('refugees.csv', index_col=0)
+recognition_rate = pd.read_csv('recognition_rate.csv', index_col=0)
 civil_liberties = pd.read_csv('civil_liberties.csv', index_col=False)
 
-
 # merge in country codes
-
-unhcr_vars = asylum_idps_refugees.merge(recognized_total_decisions, on='country')
-unhcr_vars = unhcr_vars.merge(country_iso_2_iso_3, on='country')
-unhcr_vars['country_code'] = unhcr_vars['iso_3']
 
 refugees = refugees.merge(country_iso_2_iso_3, on='country')
 refugees = refugees.drop('country', 1)
@@ -71,11 +64,13 @@ refugees_pct_pop['refugees_pct_pop'] = 100 * refugees_pct_pop['refugees'] / refu
 refugees_pct_pop = refugees_pct_pop.drop('population', 1)
 refugees_pct_pop.to_csv('refugees_pct_pop.csv')
 
-wdi_vars = wdi_vars.merge(unhcr_vars, on='country_code')
+# merge non-WDI vars into wdi_vars
+
 wdi_vars = wdi_vars.merge(asylum_seekers_pct_pop, on='country_code')
 wdi_vars = wdi_vars.merge(refugees_pct_pop, on='country_code')
-
-
+wdi_vars = wdi_vars.merge(idps, on='country_code')
+wdi_vars = wdi_vars.merge(recognition_rate, on='country_code')
+#wdi_vars - wdi_vars.merge(civil_liberties, on='country_code')
 wdi_vars = wdi_vars.merge(happiness, on='country_code')
 wdi_vars = wdi_vars.merge(ti_cpi, on='country_code')
 
@@ -98,29 +93,10 @@ for var in newvars:
     df = df.drop('gdp_per_capita', 1)
     df.to_csv(var + '.csv')
     df[var + '_resid'] = df[var] - model
-#    wdi_vars.merge(df_resid, on='country_code')
+    wdi_vars.merge(df, on='country_code')
     df.to_csv(var + '_resid.csv')
     
-# a kludge to fix the 'country' variable in asylum_seekers, ti_cpi, and happiness
-#asylum_seekers = pd.read_csv('asylum_seekers.csv')
-#asylum_seekers['country'] = asylum_seekers['country_x']
-#asylum_seekers.to_csv('asylum_seekers.csv')
-#
-#happiness = pd.read_csv('happiness.csv')
-#happiness['country'] = happiness['country_x']
-#happiness.to_csv('happiness.csv')
-#
-#asylum_seekers_resid = pd.read_csv('asylum_seekers_resid.csv')
-#asylum_seekers_resid['country'] = asylum_seekers_resid['country_x']
-#asylum_seekers_resid.to_csv('asylum_seekers_resid.csv')
-#
-#happiness_resid = pd.read_csv('happiness_resid.csv')
-#happiness_resid['country'] = happiness_resid['country_x']
-#happiness_resid.to_csv('happiness_resid.csv')
-#
-#ti_cpi = ti_cpi.merge(gdpcap, on='country_code')
-#ti_cpi = ti_cpi.drop('gdp_per_capita')
-#ti_cpi.to_csv('ti_cpi.csv')
+happiness
 
 wdi_vars.to_csv('map_data.csv')
 

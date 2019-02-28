@@ -4,7 +4,6 @@ Afghanistan,AFG,
 Angola,AGO,
 Albania,ALB,
 Andorra,AND,
-,,
 United Arab Emirates,ARE,
 Argentina,ARG,
 Armenia,ARM,3.4
@@ -33,7 +32,6 @@ Bhutan,BTN,
 Botswana,BWA,
 Central African Republic,CAF,
 Canada,CAN,
-,,
 Switzerland,CHE,3.2
 Channel Islands,CHI,
 Chile,CHL,1.7
@@ -46,7 +44,6 @@ Colombia,COL,1.3
 Comoros,COM,
 Cabo Verde,CPV,
 Costa Rica,CRI,1.5
-,,
 Cuba,CUB,
 Curacao,CUW,
 Cayman Islands,CYM,
@@ -58,20 +55,12 @@ Dominica,DMA,
 Denmark,DNK,3.7
 Dominican Republic,DOM,1.9
 Algeria,DZA,
-,,
-,,
-East Asia & Pacific,EAS,
-,,
-,,
 Ecuador,ECU,1.6
 "Egypt, Arab Rep.",EGY,3.9
-,,
 Eritrea,ERI,
 Spain,ESP,1.9
 Estonia,EST,2.7
 Ethiopia,ETH,2.6
-,,
-,,
 Finland,FIN,3.9
 Fiji,FJI,
 France,FRA,3.1
@@ -92,22 +81,14 @@ Greenland,GRL,
 Guatemala,GTM,
 Guam,GUM,
 Guyana,GUY,
-,,
 "Hong Kong SAR, China",HKG,
 Honduras,HND,1.3
-,,
 Croatia,HRV,2.7
 Haiti,HTI,
 Hungary,HUN,3.0
-,,
-,,
-,,
-,,
 Indonesia,IDN,0.0
-,,
 Isle of Man,IMN,
 India,IND,
-,,
 Ireland,IRL,3.1
 "Iran, Islamic Rep.",IRN,
 Iraq,IRQ,
@@ -125,21 +106,14 @@ Kiribati,KIR,
 St. Kitts and Nevis,KNA,
 "Korea, Rep.",KOR,
 Kuwait,KWT,
-,,
 Lao PDR,LAO,
 Lebanon,LBN,
 Liberia,LBR,
 Libya,LBY,
 St. Lucia,LCA,
-,,
-,,
-,,
 Liechtenstein,LIE,
 Sri Lanka,LKA,
-,,
-,,
 Lesotho,LSO,
-,,
 Lithuania,LTU,2.1
 Luxembourg,LUX,2.8
 Latvia,LVA,2.5
@@ -150,15 +124,12 @@ Monaco,MCO,
 Moldova,MDA,4.1
 Madagascar,MDG,
 Maldives,MDV,
-,,
 Mexico,MEX,
 Marshall Islands,MHL,
-,,
 "Macedonia, FYR",MKD,
 Mali,MLI,
 Malta,MLT,3.5
 Myanmar,MMR,3.0
-,,
 Montenegro,MNE,
 Mongolia,MNG,
 Northern Mariana Islands,MNP,
@@ -167,7 +138,6 @@ Mauritania,MRT,
 Mauritius,MUS,
 Malawi,MWI,
 Malaysia,MYS,2.3
-,,
 Namibia,NAM,1.0
 New Caledonia,NCL,
 Niger,NER,
@@ -178,9 +148,7 @@ Norway,NOR,3.5
 Nepal,NPL,
 Nauru,NRU,
 New Zealand,NZL,
-,,
 Oman,OMN,
-,,
 Pakistan,PAK,3.9
 Panama,PAN,1.1
 Peru,PER,1.6
@@ -188,20 +156,16 @@ Philippines,PHL,
 Palau,PLW,
 Papua New Guinea,PNG,
 Poland,POL,
-,,
 Puerto Rico,PRI,
 "Korea, Dem. People’s Rep.",PRK,
 Portugal,PRT,2.4
 Paraguay,PRY,1.6
 West Bank and Gaza,PSE,
-Pacific island small states,PSS,
-,,
 French Polynesia,PYF,
 Qatar,QAT,
 Romania,ROU,1.7
 Russian Federation,RUS,2.8
 Rwanda,RWA,
-South Asia,SAS,
 Saudi Arabia,SAU,
 Sudan,SDN,
 Senegal,SEN,
@@ -212,10 +176,7 @@ El Salvador,SLV,2.4
 San Marino,SMR,
 Somalia,SOM,
 Serbia,SRB,
-,,
 South Sudan,SSD,
-Sub-Saharan Africa,SSF,
-,,
 Sao Tome and Principe,STP,
 Suriname,SUR,
 Slovak Republic,SVK,3.1
@@ -227,18 +188,12 @@ Seychelles,SYC,
 Syrian Arab Republic,SYR,
 Turks and Caicos Islands,TCA,
 Chad,TCD,
-,,
-,,
 Togo,TGO,1.9
 Thailand,THA,3.2
 Tajikistan,TJK,3.0
 Turkmenistan,TKM,
-,,
 Timor-Leste,TLS,
-,,
 Tonga,TON,
-,,
-,,
 Trinidad and Tobago,TTO,
 Tunisia,TUN,
 Turkey,TUR,2.1
@@ -246,7 +201,6 @@ Tuvalu,TUV,
 Tanzania,TZA,
 Uganda,UGA,
 Ukraine,UKR,4.2
-,,
 Uruguay,URY,2.1
 United States,USA,
 Uzbekistan,UZB,
@@ -256,7 +210,6 @@ British Virgin Islands,VGB,
 Virgin Islands (U.S.),VIR,
 Vietnam,VNM,
 Vanuatu,VUT,
-,,
 Samoa,WSM,
 Kosovo,XKX,4.0
 "Yemen, Rep.",YEM,

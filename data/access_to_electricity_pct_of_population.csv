@@ -4,7 +4,6 @@ Afghanistan,AFG,71.5
 Angola,AGO,42.0
 Albania,ALB,100.0
 Andorra,AND,100.0
-,,
 United Arab Emirates,ARE,100.0
 Argentina,ARG,99.99520874023442
 Armenia,ARM,100.0
@@ -33,7 +32,6 @@ Bhutan,BTN,98.42352294921879
 Botswana,BWA,58.528751373290994
 Central African Republic,CAF,13.384423255920401
 Canada,CAN,100.0
-,,
 Switzerland,CHE,100.0
 Channel Islands,CHI,100.0
 Chile,CHL,99.714844
@@ -46,7 +44,6 @@ Colombia,COL,98.186898
 Comoros,COM,75.3807144165039
 Cabo Verde,CPV,90.24390411376949
 Costa Rica,CRI,99.40980400000001
-,,
 Cuba,CUB,100.0
 Curacao,CUW,100.0
 Cayman Islands,CYM,100.0
@@ -58,20 +55,12 @@ Dominica,DMA,99.9029693603516
 Denmark,DNK,100.0
 Dominican Republic,DOM,98.560364
 Algeria,DZA,99.3367080688477
-,,
-,,
-East Asia & Pacific,EAS,96.8726586624057
-,,
-,,
 Ecuador,ECU,98.82588299999999
 "Egypt, Arab Rep.",EGY,100.0
-,,
 Eritrea,ERI,45.5133209228516
 Spain,ESP,100.0
 Estonia,EST,100.0
 Ethiopia,ETH,33.418590545654304
-,,
-,,
 Finland,FIN,100.0
 Fiji,FJI,97.1194915771484
 France,FRA,100.0
@@ -92,22 +81,14 @@ Greenland,GRL,100.0
 Guatemala,GTM,90.5062942504883
 Guam,GUM,100.0
 Guyana,GUY,83.5683517456055
-,,
 "Hong Kong SAR, China",HKG,100.0
 Honduras,HND,89.98170999999999
-,,
 Croatia,HRV,100.0
 Haiti,HTI,38.2211265563965
 Hungary,HUN,100.0
-,,
-,,
-,,
-,,
 Indonesia,IDN,97.53736743698221
-,,
 Isle of Man,IMN,100.0
 India,IND,88.0
-,,
 Ireland,IRL,100.0
 "Iran, Islamic Rep.",IRN,99.9750518798828
 Iraq,IRQ,99.8621826171875
@@ -125,21 +106,14 @@ Kiribati,KIR,90.5581814089579
 St. Kitts and Nevis,KNA,99.9300155639648
 "Korea, Rep.",KOR,100.0
 Kuwait,KWT,100.0
-,,
 Lao PDR,LAO,89.7
 Lebanon,LBN,100.0
 Liberia,LBR,13.840091705322301
 Libya,LBY,98.5287628173828
 St. Lucia,LCA,97.16307830810551
-,,
-,,
-,,
 Liechtenstein,LIE,100.0
 Sri Lanka,LKA,93.88990020751949
-,,
-,,
 Lesotho,LSO,27.9232387542725
-,,
 Lithuania,LTU,100.0
 Luxembourg,LUX,100.0
 Latvia,LVA,100.0
@@ -150,15 +124,12 @@ Monaco,MCO,100.0
 Moldova,MDA,100.0
 Madagascar,MDG,19.0350608825684
 Maldives,MDV,99.99401092529301
-,,
 Mexico,MEX,99.0
 Marshall Islands,MHL,91.5148773193359
-,,
 "Macedonia, FYR",MKD,100.0
 Mali,MLI,37.6
 Malta,MLT,100.0
 Myanmar,MMR,60.5
-,,
 Montenegro,MNE,99.9991607666016
 Mongolia,MNG,81.1916275024414
 Northern Mariana Islands,MNP,100.0
@@ -167,7 +138,6 @@ Mauritania,MRT,39.5
 Mauritius,MUS,98.7412567138672
 Malawi,MWI,10.8
 Malaysia,MYS,99.9985885620117
-,,
 Namibia,NAM,50.7034301757813
 New Caledonia,NCL,100.0
 Niger,NER,16.6
@@ -178,9 +148,7 @@ Norway,NOR,100.0
 Nepal,NPL,87.213623046875
 Nauru,NRU,99.0
 New Zealand,NZL,100.0
-,,
 Oman,OMN,100.0
-,,
 Pakistan,PAK,93.5
 Panama,PAN,92.55484008789058
 Peru,PER,93.852179
@@ -188,20 +156,16 @@ Philippines,PHL,89.08
 Palau,PLW,99.1614608764648
 Papua New Guinea,PNG,22.1889343261719
 Poland,POL,100.0
-,,
 Puerto Rico,PRI,100.0
 "Korea, Dem. People’s Rep.",PRK,37.446319580078104
 Portugal,PRT,100.0
 Paraguay,PRY,99.331532
 West Bank and Gaza,PSE,100.0
-Pacific island small states,PSS,79.5159764612161
-,,
 French Polynesia,PYF,100.0
 Qatar,QAT,100.0
 Romania,ROU,100.0
 Russian Federation,RUS,100.0
 Rwanda,RWA,22.8
-South Asia,SAS,86.5139871367745
 Saudi Arabia,SAU,100.0
 Sudan,SDN,38.0091552734375
 Senegal,SEN,60.5
@@ -212,10 +176,7 @@ El Salvador,SLV,95.4
 San Marino,SMR,100.0
 Somalia,SOM,28.292404174804698
 Serbia,SRB,99.9827423095703
-,,
 South Sudan,SSD,7.93542766571045
-Sub-Saharan Africa,SSF,38.4256607372983
-,,
 Sao Tome and Principe,STP,64.5101470947266
 Suriname,SUR,87.7446746826172
 Slovak Republic,SVK,100.0
@@ -227,18 +188,12 @@ Seychelles,SYC,99.6783218383789
 Syrian Arab Republic,SYR,99.6365203857422
 Turks and Caicos Islands,TCA,95.4321975708008
 Chad,TCD,7.7
-,,
-,,
 Togo,TGO,45.0285453796387
 Thailand,THA,99.6
 Tajikistan,TJK,99.9973526000976
 Turkmenistan,TKM,100.0
-,,
 Timor-Leste,TLS,67.2815339423354
-,,
 Tonga,TON,96.1754531860352
-,,
-,,
 Trinidad and Tobago,TTO,100.0
 Tunisia,TUN,100.0
 Turkey,TUR,100.0
@@ -246,7 +201,6 @@ Tuvalu,TUV,99.0326766967773
 Tanzania,TZA,18.5
 Uganda,UGA,18.5
 Ukraine,UKR,100.0
-,,
 Uruguay,URY,99.70948
 United States,USA,100.0
 Uzbekistan,UZB,100.0
@@ -256,7 +210,6 @@ British Virgin Islands,VGB,
 Virgin Islands (U.S.),VIR,100.0
 Vietnam,VNM,100.0
 Vanuatu,VUT,44.669612884521506
-,,
 Samoa,WSM,99.9382781982422
 Kosovo,XKX,100.0
 "Yemen, Rep.",YEM,70.2139053344727
