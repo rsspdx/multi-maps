@@ -20,6 +20,7 @@ population = pd.read_csv('population.csv')
 wdi_vars = pd.read_csv('wdi_vars.csv')
 country_iso_2_iso_3 = pd.read_csv('country_iso_2_iso_3.csv')
 happiness = pd.read_csv('happiness.2015.csv', index_col=0)
+happiness = happiness.drop('country', 1)
 happiness.to_csv('happiness.csv')
 ti_cpi = pd.read_csv('ti_cpi_2015.csv', index_col=0)
 ti_cpi = ti_cpi.drop('country', 1)
@@ -29,28 +30,9 @@ idps = pd.read_csv('idps.csv')
 refugees = pd.read_csv('refugees.csv', index_col=0)
 recognition_rate = pd.read_csv('recognition_rate.csv', index_col=0)
 civil_liberties = pd.read_csv('civil_liberties.csv', index_col=False)
+civil_liberties = civil_liberties.drop('country_y', 1)
 
-# merge in country codes
 
-refugees = refugees.merge(country_iso_2_iso_3, on='country')
-refugees = refugees.drop('country', 1)
-refugees['country_code'] = refugees['iso_3']
-refugees.to_csv('refugees.csv')
-
-asylum_seekers = asylum_seekers.merge(country_iso_2_iso_3, on='country')
-asylum_seekers = asylum_seekers.drop('country', 1)
-asylum_seekers['country_code'] = asylum_seekers['iso_3']
-asylum_seekers.to_csv('asylum_seekers.csv')
-
-idps = idps.merge(country_iso_2_iso_3, on='country')
-idps = idps.drop('country', 1)
-idps['country_code'] = idps['iso_3']
-idps.to_csv('idps.csv')
-
-recognition_rate = recognition_rate.merge(country_iso_2_iso_3, on='country')
-recognition_rate['country_code'] = recognition_rate['iso_3']
-recognition_rate = recognition_rate.drop('country', 1)
-recognition_rate.to_csv('recognition_rate.csv')
 
 # create a couple of vars scaled by population
 
@@ -96,7 +78,6 @@ for var in newvars:
     wdi_vars.merge(df, on='country_code')
     df.to_csv(var + '_resid.csv')
     
-happiness
 
 wdi_vars.to_csv('map_data.csv')
 

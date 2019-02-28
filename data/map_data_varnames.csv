@@ -1,5 +1,5 @@
 ,0
-0,Unnamed: 0
+0,Unnamed: 0_x
 1,country_x
 2,country_code
 3,gdp_per_capita
@@ -128,40 +128,32 @@
 126,Unnamed: 0.1
 127,gini_coefficient_resid
 128,asylum_seekers
-129,iso_3_x
-130,iso_2_x
-131,country_y
-132,asylum_seekers_pct_pop
-133,refugees
-134,iso_3_y
-135,iso_2_y
-136,country_x
-137,refugees_pct_pop
-138,idps
-139,iso_3_x
-140,iso_2_x
-141,recognition_rate
-142,iso_3_y
-143,iso_2_y
-144,country_y
-145,happiness
-146,Region
-147,ti_cpi
-148,Number of Surveys Used
-149,Std Error
-150,Min
-151,Max
-152,90% Lower CI
-153,90%Upper CI
-154,World Bank CPIA
-155,World  Economic Forum EOS
-156,Bertelsmann  Foundation TI
-157,Arican Development Bank
-158,IMD World Competitiveness Year Book
-159,Bertelsmann Foundation SGI
-160,World Justice Project ROL
-161,PRS Internationl Country Risk Guide
-162,Economist Intelligence Unit
-163,IHS Global Insight
-164,PERC Asia Risk Guide
-165,Freedom House NIT
+129,country_y
+130,asylum_seekers_pct_pop
+131,refugees
+132,country
+133,refugees_pct_pop
+134,Unnamed: 0_y
+135,idps
+136,recognition_rate
+137,happiness
+138,Region
+139,ti_cpi
+140,Number of Surveys Used
+141,Std Error
+142,Min
+143,Max
+144,90% Lower CI
+145,90%Upper CI
+146,World Bank CPIA
+147,World  Economic Forum EOS
+148,Bertelsmann  Foundation TI
+149,Arican Development Bank
+150,IMD World Competitiveness Year Book
+151,Bertelsmann Foundation SGI
+152,World Justice Project ROL
+153,PRS Internationl Country Risk Guide
+154,Economist Intelligence Unit
+155,IHS Global Insight
+156,PERC Asia Risk Guide
+157,Freedom House NIT
