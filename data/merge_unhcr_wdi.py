@@ -20,7 +20,7 @@ population = pd.read_csv('population.csv')
 wdi_vars = pd.read_csv('wdi_vars.csv')
 country_iso_2_iso_3 = pd.read_csv('country_iso_2_iso_3.csv')
 happiness = pd.read_csv('happiness.2015.csv', index_col=0)
-happiness = happiness.drop('country', 1)
+happiness = happiness.merge(country_iso_2_iso_3, on = 'country')
 happiness.to_csv('happiness.csv')
 ti_cpi = pd.read_csv('ti_cpi_2015.csv', index_col=0)
 ti_cpi = ti_cpi.drop('country', 1)
@@ -75,10 +75,27 @@ for var in newvars:
     df = df.drop('gdp_per_capita', 1)
     df.to_csv(var + '.csv')
     df[var + '_resid'] = df[var] - model
-    wdi_vars.merge(df, on='country_code')
+    wdi_vars = wdi_vars.merge(df, on='country_code')
     df.to_csv(var + '_resid.csv')
-    
 
+# an afterthought : make net fdi as % of gdp
+
+netfdi = pd.read_csv('net_fdi.csv')
+gdpcap = pd.read_csv('gdp_per_capita.csv')
+pop = pd.read_csv('population.csv')
+df = netfdi.merge(gdpcap, on='country_code')
+df = df.merge(pop, on='country_code')
+df['gdp'] = df.gdp_per_capita * df.population
+df['net_fdi_pct_gdp'] = 100 * df.net_fdi / df.gdp
+df = df.drop('population', 1)
+df = df.drop('gdp', 1)
+df = df.drop('gdp_per_capita', 1)
+df = df.drop('country_x', 1)
+df = df.drop('country_y', 1)
+df = df.drop('net_fdi', 1)
+df.to_csv('net_fdi_pct_gdp.csv')
+
+wdi_vars = wdi_vars.merge(df, on='country_code')
 wdi_vars.to_csv('map_data.csv')
 
     
