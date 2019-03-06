@@ -1,0 +1,185 @@
+,Unnamed: 0,idps,country_code,country,iso_3,iso_2
+0,0,1174306.0,AFG,Afghanistan,AFG,AF
+1,1,0.0,ALB,Albania,ALB,AL
+2,2,0.0,DZA,Algeria,DZA,DZ
+3,3,0.0,AGO,Angola,AGO,AO
+4,4,0.0,AIA,Anguilla,AIA,AI
+5,5,0.0,ATG,Antigua and Barbuda,ATG,AG
+6,6,0.0,ARG,Argentina,ARG,AR
+7,7,0.0,ARM,Armenia,ARM,AM
+8,8,0.0,ABW,Aruba,ABW,AW
+9,9,0.0,AUS,Australia,AUS,AU
+10,10,0.0,AUT,Austria,AUT,AT
+11,11,618220.0,AZE,Azerbaijan,AZE,AZ
+12,12,0.0,BHS,Bahamas,BHS,BS
+13,13,0.0,BHR,Bahrain,BHR,BH
+14,14,0.0,BGD,Bangladesh,BGD,BD
+15,15,0.0,BLR,Belarus,BLR,BY
+16,16,0.0,BEL,Belgium,BEL,BE
+17,17,0.0,BLZ,Belize,BLZ,BZ
+18,18,0.0,BEN,Benin,BEN,BJ
+19,19,0.0,BOL,Bolivia (Plurinational State of),BOL,BO
+20,20,98324.0,BIH,Bosnia and Herzegovina,BIH,BA
+21,21,0.0,TWA,Botswana,TWA,BW
+22,22,0.0,BRA,Brazil,BRA,BR
+23,23,0.0,BRN,Brunei Darussalam,BRN,BN
+24,24,0.0,BGR,Bulgaria,BGR,BG
+25,25,0.0,BFA,Burkina Faso,BFA,BF
+26,26,25000.0,BDI,Burundi,BDI,BI
+27,27,0.0,CPV,Cabo Verde,CPV,CV
+28,28,0.0,KHM,Cambodia,KHM,KH
+29,29,92657.0,CMR,Cameroon,CMR,CM
+30,30,0.0,CAN,Canada,CAN,CA
+31,31,0.0,CYM,Cayman Islands,CYM,KY
+32,32,216392.0,CAF,Central African Rep.,CAF,CF
+33,33,51999.0,TCD,Chad,TCD,TD
+34,34,0.0,CHL,Chile,CHL,CL
+35,35,0.0,CHN,China,CHN,CN
+36,36,0.0,HKG,China HK,HKG,HK
+37,37,0.0,MAC,China Macao,MAC,MO
+38,38,6939067.0,COL,Colombia,COL,CO
+39,39,0.0,COG,Congo,COG,CG
+40,40,0.0,CRI,Costa Rica,CRI,CR
+41,41,0.0,HRV,Croatia,HRV,HR
+42,42,308272.0,CIV,Cte d'Ivoire,CIV,CI
+43,43,0.0,CUB,Cuba,CUB,CU
+44,44,0.0,,Curaao,,
+45,44,0.0,,Sint Maarten (Dutch part),,
+46,143,0.0,,Curaao,,
+47,143,0.0,,Sint Maarten (Dutch part),,
+48,45,0.0,CYP,Cyprus,CYP,CY
+49,46,0.0,CZE,Czech Rep.,CZE,CZ
+50,47,0.0,PRK,Dem. People's Rep. of Korea,PRK,KP
+51,48,1555112.0,COD,Dem. Rep. of the Congo,COD,CD
+52,49,0.0,DNK,Denmark,DNK,DK
+53,50,0.0,DJI,Djibouti,DJI,DJ
+54,51,0.0,DOM,Dominican Rep.,DOM,DO
+55,52,0.0,ECU,Ecuador,ECU,EC
+56,53,0.0,EGY,Egypt,EGY,EG
+57,54,0.0,SLV,El Salvador,SLV,SV
+58,55,0.0,ERI,Eritrea,ERI,ER
+59,56,0.0,EST,Estonia,EST,EE
+60,57,0.0,ETH,Ethiopia,ETH,ET
+61,58,0.0,FJI,Fiji,FJI,FJ
+62,59,0.0,FIN,Finland,FIN,FI
+63,60,0.0,FRA,France,FRA,FR
+64,61,0.0,GAB,Gabon,GAB,GA
+65,62,0.0,GMB,Gambia,GMB,GM
+66,63,268416.0,GEO,Georgia,GEO,GE
+67,64,0.0,DEU,Germany,DEU,DE
+68,65,0.0,GHA,Ghana,GHA,GH
+69,66,0.0,GRC,Greece,GRC,GR
+70,67,0.0,GRD,Grenada,GRD,GD
+71,68,0.0,GTM,Guatemala,GTM,GT
+72,69,0.0,GIN,Guinea,GIN,GN
+73,70,0.0,GNB,Guinea-Bissau,GNB,GW
+74,71,0.0,GUY,Guyana,GUY,GY
+75,72,0.0,HTI,Haiti,HTI,HT
+76,73,174000.0,HND,Honduras,HND,HN
+77,74,0.0,HUN,Hungary,HUN,HU
+78,75,0.0,ISL,Iceland,ISL,IS
+79,76,0.0,IND,India,IND,IN
+80,77,0.0,IDN,Indonesia,IDN,ID
+81,78,0.0,IRN,Iran (Islamic Rep. of),IRN,IR
+82,79,4403287.0,IRQ,Iraq,IRQ,IQ
+83,80,0.0,IRL,Ireland,IRL,IE
+84,81,0.0,ISR,Israel,ISR,IL
+85,82,0.0,ITA,Italy,ITA,IT
+86,83,0.0,JAM,Jamaica,JAM,JM
+87,84,0.0,JPN,Japan,JPN,JP
+88,85,0.0,JOR,Jordan,JOR,JO
+89,86,0.0,KAZ,Kazakhstan,KAZ,KZ
+90,87,0.0,KEN,Kenya,KEN,KE
+91,88,0.0,KWT,Kuwait,KWT,KW
+92,89,0.0,KGZ,Kyrgyzstan,KGZ,KG
+93,90,0.0,LVA,Latvia,LVA,LV
+94,91,0.0,LBN,Lebanon,LBN,LB
+95,92,0.0,LSO,Lesotho,LSO,LS
+96,93,0.0,LBR,Liberia,LBR,LR
+97,94,434869.0,LBY,Libya,LBY,LY
+98,95,0.0,LIE,Liechtenstein,LIE,LI
+99,96,0.0,LTU,Lithuania,LTU,LT
+100,97,0.0,LUX,Luxembourg,LUX,LU
+101,98,0.0,MDG,Madagascar,MDG,MG
+102,99,0.0,MWI,Malawi,MWI,MW
+103,100,0.0,MYS,Malaysia,MYS,MY
+104,101,61920.0,MLI,Mali,MLI,MV
+105,102,0.0,MLT,Malta,MLT,MT
+106,103,0.0,MRT,Mauritania,MRT,MR
+107,104,0.0,MEX,Mexico,MEX,MX
+108,105,0.0,FSM,Micronesia (Federated States of),FSM,FM
+109,106,0.0,MCO,Monaco,MCO,MC
+110,107,0.0,MNG,Mongolia,MNG,MN
+111,108,0.0,MNE,Montenegro,MNE,ME
+112,109,0.0,MAR,Morocco,MAR,MA
+113,110,0.0,MOZ,Mozambique,MOZ,MZ
+114,111,451089.0,MMR,Myanmar,MMR,MM
+115,112,0.0,NAM,Namibia,NAM,
+116,113,0.0,NRU,Nauru,NRU,NR
+117,114,0.0,NPL,Nepal,NPL,NP
+118,115,0.0,NLD,Netherlands,NLD,NL
+119,116,0.0,NZL,New Zealand,NZL,NZ
+120,117,0.0,NIC,Nicaragua,NIC,NI
+121,118,137337.0,NER,Niger,NER,NE
+122,119,2172532.0,NGA,Nigeria,NGA,NG
+123,120,0.0,NOR,Norway,NOR,NO
+124,121,0.0,OMN,Oman,OMN,OM
+125,122,1146108.0,PAK,Pakistan,PAK,PK
+126,123,0.0,PAN,Panama,PAN,PA
+127,124,0.0,PNG,Papua New Guinea,PNG,PG
+128,125,0.0,PRY,Paraguay,PRY,PY
+129,126,0.0,PER,Peru,PER,PE
+130,127,63174.0,PHL,Philippines,PHL,PH
+131,128,0.0,POL,Poland,POL,PL
+132,129,0.0,PRT,Portugal,PRT,PT
+133,130,0.0,QAT,Qatar,QAT,QA
+134,131,0.0,KOR,Rep. of Korea,KOR,KR
+135,132,0.0,MDA,Rep. of Moldova,MDA,MD
+136,133,0.0,ROU,Romania,ROU,RO
+137,134,0.0,RUS,Russian Federation,RUS,RU
+138,135,0.0,RWA,Rwanda,RWA,RW
+139,136,0.0,LCA,Saint Lucia,LCA,LC
+140,137,0.0,WSM,Samoa,WSM,WS
+141,138,0.0,SAU,Saudi Arabia,SAU,SA
+142,139,0.0,SEN,Senegal,SEN,SN
+143,140,220002.0,SRB,Serbia and Kosovo (S/RES/1244 (1999)),SRB,RS
+144,141,0.0,SLE,Sierra Leone,SLE,SL
+145,142,0.0,SGP,Singapore,SGP,SG
+146,144,0.0,SVK,Slovakia,SVK,SK
+147,145,0.0,SVN,Slovenia,SVN,SI
+148,146,0.0,SLB,Solomon Islands,SLB,SB
+149,147,1133000.0,SOM,Somalia,SOM,SO
+150,148,0.0,ZAF,South Africa,ZAF,ZA
+151,149,1790427.0,SSD,South Sudan,SSD,SS
+152,150,0.0,ESP,Spain,ESP,ES
+153,151,44934.0,LKA,Sri Lanka,LKA,LK
+154,152,3218234.0,SDN,Sudan,SDN,SD
+155,153,0.0,SUR,Suriname,SUR,SR
+156,154,0.0,SWZ,Swaziland,SWZ,SZ
+157,155,0.0,SWE,Sweden,SWE,SE
+158,156,0.0,CHE,Switzerland,CHE,CH
+159,157,6563462.0,SYR,Syrian Arab Rep.,SYR,SY
+160,158,0.0,TJK,Tajikistan,TJK,TJ
+161,159,0.0,THA,Thailand,THA,TH
+162,160,0.0,MKD,The former Yugoslav Republic of Macedonia,MKD,MK
+163,161,0.0,TLS,Timor-Leste,TLS,TL
+164,162,0.0,TGO,Togo,TGO,TG
+165,163,0.0,TTO,Trinidad and Tobago,TTO,TT
+166,164,0.0,TUN,Tunisia,TUN,TN
+167,165,0.0,TUR,Turkey,TUR,TR
+168,166,0.0,TKM,Turkmenistan,TKM,TM
+169,167,0.0,TCA,Turks and Caicos Islands,TCA,TC
+170,168,0.0,UGA,Uganda,UGA,UG
+171,169,1600000.0,UKR,Ukraine,UKR,UA
+172,170,0.0,ARE,United Arab Emirates,ARE,AE
+173,171,0.0,GBR,United Kingdom,GBR,GB
+174,172,0.0,TZA,United Rep. of Tanzania,TZA,TZ
+175,173,0.0,USA,United States of America,USA,US
+176,174,0.0,URY,Uruguay,URY,UY
+177,175,0.0,UZB,Uzbekistan,UZB,UZ
+178,176,0.0,VUT,Vanuatu,VUT,VU
+179,177,0.0,VEN,Venezuela (Bolivarian Republic of),VEN,VE
+180,178,0.0,VNM,Viet Nam,VNM,VN
+181,179,2532032.0,YEM,Yemen,YEM,YE
+182,180,0.0,ZMB,Zambia,ZMB,ZM
+183,181,0.0,ZWE,Zimbabwe,ZWE,ZW

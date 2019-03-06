@@ -1,0 +1,173 @@
+,country_code,civil_liberties,country
+0,AFG,6,Afghanistan
+1,ALB,3,Albania
+2,DZA,5,Algeria
+3,AGO,5,Angola
+4,ATG,2,Antigua and Barbuda
+5,ARG,2,Argentina
+6,ARM,4,Armenia
+7,AUT,1,Austria
+8,AZE,6,Azerbaijan
+9,BHS,1,"Bahamas, The"
+10,BHR,6,Bahrain
+11,BGD,4,Bangladesh
+12,BLR,6,Belarus
+13,BEL,1,Belgium
+14,BLZ,2,Belize
+15,BEN,2,Benin
+16,BOL,3,Bolivia
+17,BIH,3,Bosnia and Herzegovina
+18,BRA,2,Brazil
+19,BRN,5,Brunei Darussalam
+20,BGR,2,Bulgaria
+21,BFA,3,Burkina Faso
+22,BDI,5,Burundi
+23,KHM,5,Cambodia
+24,CMR,6,Cameroon
+25,CAN,1,Canada
+26,CPV,1,Cabo Verde
+27,CAF,7,Central African Republic
+28,TCD,6,Chad
+29,CHL,1,Chile
+30,CHN,6,China
+31,COL,4,Colombia
+32,COG,5,"Congo, Rep."
+33,COD,6,"Congo, Dem. Rep."
+34,CRI,1,Costa Rica
+35,CIV,4,Cote d'Ivoire
+36,HRV,2,Croatia
+37,CUB,6,Cuba
+38,CYP,1,Cyprus
+39,CZE,1,Czech Republic
+40,DNK,1,Denmark
+41,DJI,5,Djibouti
+42,DOM,3,Dominican Republic
+43,ECU,3,Ecuador
+44,EGY,5,"Egypt, Arab Rep."
+45,SLV,3,El Salvador
+46,ERI,7,Eritrea
+47,EST,1,Estonia
+48,SWZ,5,Eswatini
+49,ETH,6,Ethiopia
+50,FJI,4,Fiji
+51,FIN,1,Finland
+52,FRA,1,France
+53,GAB,5,Gabon
+54,GEO,3,Georgia
+55,DEU,1,Germany
+56,GHA,2,Ghana
+57,GRC,2,Greece
+58,GRD,2,Grenada
+59,GTM,4,Guatemala
+60,GIN,5,Guinea
+61,GNB,5,Guinea-Bissau
+62,GUY,3,Guyana
+63,HTI,5,Haiti
+64,HND,4,Honduras
+65,HUN,2,Hungary
+66,ISL,1,Iceland
+67,IND,3,India
+68,IDN,4,Indonesia
+69,IRN,6,"Iran, Islamic Rep."
+70,IRQ,6,Iraq
+71,IRL,1,Ireland
+72,ISR,2,Israel
+73,ITA,1,Italy
+74,JAM,3,Jamaica
+75,JPN,1,Japan
+76,JOR,5,Jordan
+77,KAZ,5,Kazakhstan
+78,KEN,4,Kenya
+79,KWT,5,Kuwait
+80,KGZ,5,Kyrgyz Republic
+81,LAO,6,Lao PDR
+82,LVA,2,Latvia
+83,LBN,4,Lebanon
+84,LSO,3,Lesotho
+85,LBR,4,Liberia
+86,LBY,6,Libya
+87,LIE,1,Liechtenstein
+88,LTU,1,Lithuania
+89,LUX,1,Luxembourg
+90,MKD,3,"Macedonia, FYR"
+91,MDG,4,Madagascar
+92,MWI,4,Malawi
+93,MYS,4,Malaysia
+94,MLI,4,Mali
+95,MLT,1,Malta
+96,MRT,5,Mauritania
+97,MEX,3,Mexico
+98,FSM,1,"Micronesia, Fed. Sts."
+99,MCO,1,Monaco
+100,MNG,2,Mongolia
+101,MNE,2,Montenegro
+102,MAR,4,Morocco
+103,MOZ,3,Mozambique
+104,MMR,6,Myanmar
+105,NAM,2,Namibia
+106,NRU,2,Nauru
+107,NPL,4,Nepal
+108,NLD,1,Netherlands
+109,NZL,1,New Zealand
+110,NIC,3,Nicaragua
+111,NER,4,Niger
+112,NGA,5,Nigeria
+113,PRK,7,"Korea, Dem. People’s Rep."
+114,NOR,1,Norway
+115,OMN,5,Oman
+116,PAK,5,Pakistan
+117,PAN,2,Panama
+118,PNG,3,Papua New Guinea
+119,PRY,3,Paraguay
+120,PER,3,Peru
+121,PHL,3,Philippines
+122,POL,1,Poland
+123,PRT,1,Portugal
+124,QAT,5,Qatar
+125,ROU,2,Romania
+126,RUS,6,Russian Federation
+127,RWA,6,Rwanda
+128,WSM,2,Samoa
+129,SAU,7,Saudi Arabia
+130,SEN,2,Senegal
+131,SRB,2,Serbia
+132,SLE,3,Sierra Leone
+133,SGP,4,Singapore
+134,SVK,1,Slovak Republic
+135,SVN,1,Slovenia
+136,SLB,3,Solomon Islands
+137,SOM,7,Somalia
+138,ZAF,2,South Africa
+139,KOR,2,"Korea, Rep."
+140,SSD,6,South Sudan
+141,ESP,1,Spain
+142,LKA,5,Sri Lanka
+143,LCA,1,St. Lucia
+144,SDN,7,Sudan
+145,SUR,2,Suriname
+146,SWE,1,Sweden
+147,CHE,1,Switzerland
+148,SYR,7,Syrian Arab Republic
+149,TJK,6,Tajikistan
+150,TZA,3,Tanzania
+151,THA,5,Thailand
+152,GMB,6,"Gambia, The"
+153,TLS,3,Timor-Leste
+154,TGO,4,Togo
+155,TTO,2,Trinidad and Tobago
+156,TUN,3,Tunisia
+157,TUR,4,Turkey
+158,TKM,7,Turkmenistan
+159,UGA,5,Uganda
+160,UKR,3,Ukraine
+161,ARE,6,United Arab Emirates
+162,GBR,1,United Kingdom
+163,USA,1,United States
+164,URY,1,Uruguay
+165,UZB,7,Uzbekistan
+166,VUT,2,Vanuatu
+167,VEN,5,"Venezuela, RB"
+168,VNM,5,Vietnam
+169,YEM,6,"Yemen, Rep."
+170,ZMB,4,Zambia
+171,ZWE,6,Zimbabwe

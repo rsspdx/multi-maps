@@ -1,0 +1,218 @@
+country,country_code,central_govt_debt_pct_gdp
+Aruba,ABW,
+Afghanistan,AFG,
+Angola,AGO,
+Albania,ALB,79.8644181475793
+Andorra,AND,
+United Arab Emirates,ARE,
+Argentina,ARG,
+Armenia,ARM,
+American Samoa,ASM,
+Antigua and Barbuda,ATG,
+Australia,AUS,47.0405895137794
+Austria,AUT,
+Azerbaijan,AZE,
+Burundi,BDI,
+Belgium,BEL,
+Benin,BEN,
+Burkina Faso,BFA,
+Bangladesh,BGD,
+Bulgaria,BGR,
+Bahrain,BHR,
+"Bahamas, The",BHS,47.9562935135639
+Bosnia and Herzegovina,BIH,
+Belarus,BLR,37.5981780556757
+Belize,BLZ,
+Bermuda,BMU,
+Bolivia,BOL,
+Brazil,BRA,67.53755402771161
+Barbados,BRB,145.774322840658
+Brunei Darussalam,BRN,
+Bhutan,BTN,91.4048311527287
+Botswana,BWA,17.9266970131874
+Central African Republic,CAF,
+Canada,CAN,
+Switzerland,CHE,20.904448214112197
+Channel Islands,CHI,
+Chile,CHL,
+China,CHN,
+Cote d'Ivoire,CIV,
+Cameroon,CMR,
+"Congo, Dem. Rep.",COD,
+"Congo, Rep.",COG,
+Colombia,COL,66.6678191158853
+Comoros,COM,
+Cabo Verde,CPV,
+Costa Rica,CRI,
+Cuba,CUB,
+Curacao,CUW,
+Cayman Islands,CYM,
+Cyprus,CYP,
+Czech Republic,CZE,
+Germany,DEU,
+Djibouti,DJI,
+Dominica,DMA,
+Denmark,DNK,
+Dominican Republic,DOM,
+Algeria,DZA,
+Ecuador,ECU,
+"Egypt, Arab Rep.",EGY,
+Eritrea,ERI,
+Spain,ESP,104.511026117434
+Estonia,EST,
+Ethiopia,ETH,
+Finland,FIN,
+Fiji,FJI,
+France,FRA,
+Faroe Islands,FRO,
+"Micronesia, Fed. Sts.",FSM,30.067618250794702
+Gabon,GAB,
+United Kingdom,GBR,106.727723341047
+Georgia,GEO,41.2822252295551
+Ghana,GHA,
+Gibraltar,GIB,
+Guinea,GIN,
+"Gambia, The",GMB,
+Guinea-Bissau,GNB,
+Equatorial Guinea,GNQ,
+Greece,GRC,
+Grenada,GRD,
+Greenland,GRL,
+Guatemala,GTM,22.9881410888278
+Guam,GUM,
+Guyana,GUY,
+"Hong Kong SAR, China",HKG,
+Honduras,HND,
+Croatia,HRV,
+Haiti,HTI,
+Hungary,HUN,97.0152350636331
+Indonesia,IDN,30.309126137803997
+Isle of Man,IMN,
+India,IND,
+Ireland,IRL,88.79075023747559
+"Iran, Islamic Rep.",IRN,
+Iraq,IRQ,25.7368722825666
+Iceland,ISL,
+Israel,ISR,
+Italy,ITA,
+Jamaica,JAM,124.66873246736
+Jordan,JOR,
+Japan,JPN,197.03743972113497
+Kazakhstan,KAZ,19.307916061599
+Kenya,KEN,
+Kyrgyz Republic,KGZ,72.4565575830671
+Cambodia,KHM,
+Kiribati,KIR,
+St. Kitts and Nevis,KNA,
+"Korea, Rep.",KOR,39.743710676776296
+Kuwait,KWT,
+Lao PDR,LAO,
+Lebanon,LBN,
+Liberia,LBR,
+Libya,LBY,
+St. Lucia,LCA,
+Liechtenstein,LIE,
+Sri Lanka,LKA,77.6503941207238
+Lesotho,LSO,
+Lithuania,LTU,
+Luxembourg,LUX,
+Latvia,LVA,
+"Macao SAR, China",MAC,
+St. Martin (French part),MAF,
+Morocco,MAR,
+Monaco,MCO,
+Moldova,MDA,25.294065304119897
+Madagascar,MDG,
+Maldives,MDV,
+Mexico,MEX,
+Marshall Islands,MHL,48.543533897725
+"Macedonia, FYR",MKD,
+Mali,MLI,
+Malta,MLT,
+Myanmar,MMR,
+Montenegro,MNE,
+Mongolia,MNG,
+Northern Mariana Islands,MNP,
+Mozambique,MOZ,
+Mauritania,MRT,
+Mauritius,MUS,
+Malawi,MWI,39.5422371324465
+Malaysia,MYS,54.4266659070723
+Namibia,NAM,
+New Caledonia,NCL,
+Niger,NER,
+Nigeria,NGA,
+Nicaragua,NIC,
+Netherlands,NLD,
+Norway,NOR,
+Nepal,NPL,
+Nauru,NRU,
+New Zealand,NZL,43.3955721150826
+Oman,OMN,
+Pakistan,PAK,
+Panama,PAN,
+Peru,PER,22.564163346616397
+Philippines,PHL,
+Palau,PLW,60.7223635730954
+Papua New Guinea,PNG,31.4458134976197
+Poland,POL,
+Puerto Rico,PRI,
+"Korea, Dem. People’s Rep.",PRK,
+Portugal,PRT,
+Paraguay,PRY,
+West Bank and Gaza,PSE,
+French Polynesia,PYF,
+Qatar,QAT,
+Romania,ROU,
+Russian Federation,RUS,13.492084334091599
+Rwanda,RWA,
+Saudi Arabia,SAU,
+Sudan,SDN,
+Senegal,SEN,
+Singapore,SGP,104.64808110342301
+Solomon Islands,SLB,7.631918254589849
+Sierra Leone,SLE,
+El Salvador,SLV,51.8809438585991
+San Marino,SMR,53.033474792834795
+Somalia,SOM,
+Serbia,SRB,
+South Sudan,SSD,
+Sao Tome and Principe,STP,
+Suriname,SUR,
+Slovak Republic,SVK,
+Slovenia,SVN,
+Sweden,SWE,
+Eswatini,SWZ,
+Sint Maarten (Dutch part),SXM,
+Seychelles,SYC,63.3403934679844
+Syrian Arab Republic,SYR,
+Turks and Caicos Islands,TCA,
+Chad,TCD,
+Togo,TGO,
+Thailand,THA,35.2648692911846
+Tajikistan,TJK,
+Turkmenistan,TKM,
+Timor-Leste,TLS,
+Tonga,TON,
+Trinidad and Tobago,TTO,
+Tunisia,TUN,
+Turkey,TUR,29.207003892599698
+Tuvalu,TUV,
+Tanzania,TZA,
+Uganda,UGA,
+Ukraine,UKR,70.25883762189821
+Uruguay,URY,51.1864800206369
+United States,USA,97.37481094839859
+Uzbekistan,UZB,
+St. Vincent and the Grenadines,VCT,
+"Venezuela, RB",VEN,
+British Virgin Islands,VGB,
+Virgin Islands (U.S.),VIR,
+Vietnam,VNM,
+Vanuatu,VUT,
+Samoa,WSM,57.7719396272359
+Kosovo,XKX,
+"Yemen, Rep.",YEM,
+South Africa,ZAF,
+Zambia,ZMB,49.40729987986771
+Zimbabwe,ZWE,

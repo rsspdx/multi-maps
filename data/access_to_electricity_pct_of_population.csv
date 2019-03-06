@@ -1,0 +1,218 @@
+country,country_code,access_to_electricity_pct_of_population
+Aruba,ABW,95.2381820678711
+Afghanistan,AFG,71.5
+Angola,AGO,42.0
+Albania,ALB,100.0
+Andorra,AND,100.0
+United Arab Emirates,ARE,100.0
+Argentina,ARG,99.99520874023442
+Armenia,ARM,100.0
+American Samoa,ASM,
+Antigua and Barbuda,ATG,96.8262939453125
+Australia,AUS,100.0
+Austria,AUT,100.0
+Azerbaijan,AZE,100.0
+Burundi,BDI,7.25208950042725
+Belgium,BEL,100.0
+Benin,BEN,40.033477783203104
+Burkina Faso,BFA,18.4700813293457
+Bangladesh,BGD,68.20468139648439
+Bulgaria,BGR,100.0
+Bahrain,BHR,100.0
+"Bahamas, The",BHS,100.0
+Bosnia and Herzegovina,BIH,100.0
+Belarus,BLR,100.0
+Belize,BLZ,91.8
+Bermuda,BMU,100.0
+Bolivia,BOL,91.52282199999999
+Brazil,BRA,99.710902
+Barbados,BRB,100.0
+Brunei Darussalam,BRN,100.0
+Bhutan,BTN,98.42352294921879
+Botswana,BWA,58.528751373290994
+Central African Republic,CAF,13.384423255920401
+Canada,CAN,100.0
+Switzerland,CHE,100.0
+Channel Islands,CHI,100.0
+Chile,CHL,99.714844
+China,CHN,100.0
+Cote d'Ivoire,CIV,64.0861968994141
+Cameroon,CMR,58.8651008605957
+"Congo, Dem. Rep.",COD,16.4191646575928
+"Congo, Rep.",COG,60.4
+Colombia,COL,98.186898
+Comoros,COM,75.3807144165039
+Cabo Verde,CPV,90.24390411376949
+Costa Rica,CRI,99.40980400000001
+Cuba,CUB,100.0
+Curacao,CUW,100.0
+Cayman Islands,CYM,100.0
+Cyprus,CYP,100.0
+Czech Republic,CZE,100.0
+Germany,DEU,100.0
+Djibouti,DJI,52.0257759094238
+Dominica,DMA,99.9029693603516
+Denmark,DNK,100.0
+Dominican Republic,DOM,98.560364
+Algeria,DZA,99.3367080688477
+Ecuador,ECU,98.82588299999999
+"Egypt, Arab Rep.",EGY,100.0
+Eritrea,ERI,45.5133209228516
+Spain,ESP,100.0
+Estonia,EST,100.0
+Ethiopia,ETH,33.418590545654304
+Finland,FIN,100.0
+Fiji,FJI,97.1194915771484
+France,FRA,100.0
+Faroe Islands,FRO,100.0
+"Micronesia, Fed. Sts.",FSM,73.5542297363281
+Gabon,GAB,90.3074722290039
+United Kingdom,GBR,100.0
+Georgia,GEO,99.99349975585942
+Ghana,GHA,75.7152786254883
+Gibraltar,GIB,100.0
+Guinea,GIN,30.9631519317627
+"Gambia, The",GMB,46.486663818359396
+Guinea-Bissau,GNB,14.0046701431274
+Equatorial Guinea,GNQ,67.473747253418
+Greece,GRC,100.0
+Grenada,GRD,91.8716888427734
+Greenland,GRL,100.0
+Guatemala,GTM,90.5062942504883
+Guam,GUM,100.0
+Guyana,GUY,83.5683517456055
+"Hong Kong SAR, China",HKG,100.0
+Honduras,HND,89.98170999999999
+Croatia,HRV,100.0
+Haiti,HTI,38.2211265563965
+Hungary,HUN,100.0
+Indonesia,IDN,97.53736743698221
+Isle of Man,IMN,100.0
+India,IND,88.0
+Ireland,IRL,100.0
+"Iran, Islamic Rep.",IRN,99.9750518798828
+Iraq,IRQ,99.8621826171875
+Iceland,ISL,100.0
+Israel,ISR,100.0
+Italy,ITA,100.0
+Jamaica,JAM,97.2788848876953
+Jordan,JOR,99.99832153320308
+Japan,JPN,100.0
+Kazakhstan,KAZ,100.0
+Kenya,KEN,41.6
+Kyrgyz Republic,KGZ,99.90655517578129
+Cambodia,KHM,47.565738677978494
+Kiribati,KIR,90.5581814089579
+St. Kitts and Nevis,KNA,99.9300155639648
+"Korea, Rep.",KOR,100.0
+Kuwait,KWT,100.0
+Lao PDR,LAO,89.7
+Lebanon,LBN,100.0
+Liberia,LBR,13.840091705322301
+Libya,LBY,98.5287628173828
+St. Lucia,LCA,97.16307830810551
+Liechtenstein,LIE,100.0
+Sri Lanka,LKA,93.88990020751949
+Lesotho,LSO,27.9232387542725
+Lithuania,LTU,100.0
+Luxembourg,LUX,100.0
+Latvia,LVA,100.0
+"Macao SAR, China",MAC,100.0
+St. Martin (French part),MAF,70.75880432128909
+Morocco,MAR,99.5860137939453
+Monaco,MCO,100.0
+Moldova,MDA,100.0
+Madagascar,MDG,19.0350608825684
+Maldives,MDV,99.99401092529301
+Mexico,MEX,99.0
+Marshall Islands,MHL,91.5148773193359
+"Macedonia, FYR",MKD,100.0
+Mali,MLI,37.6
+Malta,MLT,100.0
+Myanmar,MMR,60.5
+Montenegro,MNE,99.9991607666016
+Mongolia,MNG,81.1916275024414
+Northern Mariana Islands,MNP,100.0
+Mozambique,MOZ,24.0
+Mauritania,MRT,39.5
+Mauritius,MUS,98.7412567138672
+Malawi,MWI,10.8
+Malaysia,MYS,99.9985885620117
+Namibia,NAM,50.7034301757813
+New Caledonia,NCL,100.0
+Niger,NER,16.6
+Nigeria,NGA,52.5
+Nicaragua,NIC,81.1631393432617
+Netherlands,NLD,100.0
+Norway,NOR,100.0
+Nepal,NPL,87.213623046875
+Nauru,NRU,99.0
+New Zealand,NZL,100.0
+Oman,OMN,100.0
+Pakistan,PAK,93.5
+Panama,PAN,92.55484008789058
+Peru,PER,93.852179
+Philippines,PHL,89.08
+Palau,PLW,99.1614608764648
+Papua New Guinea,PNG,22.1889343261719
+Poland,POL,100.0
+Puerto Rico,PRI,100.0
+"Korea, Dem. People’s Rep.",PRK,37.446319580078104
+Portugal,PRT,100.0
+Paraguay,PRY,99.331532
+West Bank and Gaza,PSE,100.0
+French Polynesia,PYF,100.0
+Qatar,QAT,100.0
+Romania,ROU,100.0
+Russian Federation,RUS,100.0
+Rwanda,RWA,22.8
+Saudi Arabia,SAU,100.0
+Sudan,SDN,38.0091552734375
+Senegal,SEN,60.5
+Singapore,SGP,100.0
+Solomon Islands,SLB,55.1
+Sierra Leone,SLE,16.468376159668
+El Salvador,SLV,95.4
+San Marino,SMR,100.0
+Somalia,SOM,28.292404174804698
+Serbia,SRB,99.9827423095703
+South Sudan,SSD,7.93542766571045
+Sao Tome and Principe,STP,64.5101470947266
+Suriname,SUR,87.7446746826172
+Slovak Republic,SVK,100.0
+Slovenia,SVN,100.0
+Sweden,SWE,100.0
+Eswatini,SWZ,62.994544982910206
+Sint Maarten (Dutch part),SXM,100.0
+Seychelles,SYC,99.6783218383789
+Syrian Arab Republic,SYR,99.6365203857422
+Turks and Caicos Islands,TCA,95.4321975708008
+Chad,TCD,7.7
+Togo,TGO,45.0285453796387
+Thailand,THA,99.6
+Tajikistan,TJK,99.9973526000976
+Turkmenistan,TKM,100.0
+Timor-Leste,TLS,67.2815339423354
+Tonga,TON,96.1754531860352
+Trinidad and Tobago,TTO,100.0
+Tunisia,TUN,100.0
+Turkey,TUR,100.0
+Tuvalu,TUV,99.0326766967773
+Tanzania,TZA,18.5
+Uganda,UGA,18.5
+Ukraine,UKR,100.0
+Uruguay,URY,99.70948
+United States,USA,100.0
+Uzbekistan,UZB,100.0
+St. Vincent and the Grenadines,VCT,99.4550628662109
+"Venezuela, RB",VEN,99.4607391357422
+British Virgin Islands,VGB,
+Virgin Islands (U.S.),VIR,100.0
+Vietnam,VNM,100.0
+Vanuatu,VUT,44.669612884521506
+Samoa,WSM,99.9382781982422
+Kosovo,XKX,100.0
+"Yemen, Rep.",YEM,70.2139053344727
+South Africa,ZAF,85.5
+Zambia,ZMB,31.1
+Zimbabwe,ZWE,33.7

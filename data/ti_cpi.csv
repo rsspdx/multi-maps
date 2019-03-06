@@ -1,0 +1,158 @@
+,Country Rank,country_code,ti_cpi,country,iso_3,iso_2
+0,1,DNK,91,Denmark,DNK,DK
+1,1,NZL,91,New Zealand,NZL,NZ
+2,3,FIN,90,Finland,FIN,FI
+3,4,SWE,89,Sweden,SWE,SE
+4,5,NOR,88,Norway,NOR,NO
+5,6,CHE,86,Switzerland,CHE,CH
+6,7,LUX,85,Luxembourg,LUX,LU
+7,7,SGP,85,Singapore,SGP,SG
+8,9,NLD,84,Netherlands,NLD,NL
+9,10,CAN,83,Canada,CAN,CA
+10,11,DEU,81,Germany,DEU,DE
+11,11,GBR,81,United Kingdom,GBR,GB
+12,13,AUS,79,Australia,AUS,AU
+13,13,ISL,79,Iceland,ISL,IS
+14,15,BEL,77,Belgium,BEL,BE
+15,16,AUT,76,Austria,AUT,AT
+16,16,USA,76,United States of America,USA,US
+17,18,HKG,75,China HK,HKG,HK
+18,18,IRL,75,Ireland,IRL,IE
+19,18,JPN,75,Japan,JPN,JP
+20,21,URY,74,Uruguay,URY,UY
+21,22,QAT,71,Qatar,QAT,QA
+22,23,CHL,70,Chile,CHL,CL
+23,23,EST,70,Estonia,EST,EE
+24,23,FRA,70,France,FRA,FR
+25,23,ARE,70,United Arab Emirates,ARE,AE
+26,28,PRT,64,Portugal,PRT,PT
+27,29,POL,63,Poland,POL,PL
+28,32,CYP,61,Cyprus,CYP,CY
+29,32,ISR,61,Israel,ISR,IL
+30,34,MLT,60,Malta,MLT,MT
+31,34,SVN,60,Slovenia,SVN,SI
+32,36,LTU,59,Lithuania,LTU,LT
+33,37,ESP,58,Spain,ESP,ES
+34,38,CZE,56,Czech Rep.,CZE,CZ
+35,38,LVA,56,Latvia,LVA,LV
+36,40,CPV,55,Cabo Verde,CPV,CV
+37,40,CRI,55,Costa Rica,CRI,CR
+38,43,KOR,54,Rep. of Korea,KOR,KR
+39,43,RWA,54,Rwanda,RWA,RW
+40,45,JOR,53,Jordan,JOR,JO
+41,45,NAM,53,Namibia,NAM,
+42,48,GEO,52,Georgia,GEO,GE
+43,48,SAU,52,Saudi Arabia,SAU,SA
+44,50,BHR,51,Bahrain,BHR,BH
+45,50,HRV,51,Croatia,HRV,HR
+46,50,HUN,51,Hungary,HUN,HU
+47,50,SVK,51,Slovakia,SVK,SK
+48,54,MYS,50,Malaysia,MYS,MY
+49,55,KWT,49,Kuwait,KWT,KW
+50,56,CUB,47,Cuba,CUB,CU
+51,56,GHA,47,Ghana,GHA,GH
+52,58,GRC,46,Greece,GRC,GR
+53,60,OMN,45,Oman,OMN,OM
+54,61,ITA,44,Italy,ITA,IT
+55,61,LSO,44,Lesotho,LSO,LS
+56,61,SEN,44,Senegal,SEN,SN
+57,61,ZAF,44,South Africa,ZAF,ZA
+58,66,MKD,42,The former Yugoslav Republic of Macedonia,MKD,MK
+59,66,TUR,42,Turkey,TUR,TR
+60,69,BGR,41,Bulgaria,BGR,BG
+61,69,JAM,41,Jamaica,JAM,JM
+62,72,SLV,39,El Salvador,SLV,SV
+63,72,MNG,39,Mongolia,MNG,MN
+64,72,PAN,39,Panama,PAN,PA
+65,72,TTO,39,Trinidad and Tobago,TTO,TT
+66,76,BIH,38,Bosnia and Herzegovina,BIH,BA
+67,76,BRA,38,Brazil,BRA,BR
+68,76,BFA,38,Burkina Faso,BFA,BF
+69,76,IND,38,India,IND,IN
+70,76,THA,38,Thailand,THA,TH
+71,76,TUN,38,Tunisia,TUN,TN
+72,76,ZMB,38,Zambia,ZMB,ZM
+73,83,BEN,37,Benin,BEN,BJ
+74,83,CHN,37,China,CHN,CN
+75,83,COL,37,Colombia,COL,CO
+76,83,LBR,37,Liberia,LBR,LR
+77,83,LKA,37,Sri Lanka,LKA,LK
+78,88,ALB,36,Albania,ALB,AL
+79,88,DZA,36,Algeria,DZA,DZ
+80,88,EGY,36,Egypt,EGY,EG
+81,88,IDN,36,Indonesia,IDN,ID
+82,88,MAR,36,Morocco,MAR,MA
+83,88,PER,36,Peru,PER,PE
+84,88,SUR,36,Suriname,SUR,SR
+85,95,ARM,35,Armenia,ARM,AM
+86,95,MLI,35,Mali,MLI,MV
+87,95,PHL,35,Philippines,PHL,PH
+88,98,BOL,34,Bolivia (Plurinational State of),BOL,BO
+89,98,DJI,34,Djibouti,DJI,DJ
+90,98,GAB,34,Gabon,GAB,GA
+91,98,NER,34,Niger,NER,NE
+92,102,DOM,33,Dominican Rep.,DOM,DO
+93,102,ETH,33,Ethiopia,ETH,ET
+94,102,MDA,33,Rep. of Moldova,MDA,MD
+95,106,ARG,32,Argentina,ARG,AR
+96,106,BLR,32,Belarus,BLR,BY
+97,106,CIV,32,Cte d'Ivoire,CIV,CI
+98,106,ECU,32,Ecuador,ECU,EC
+99,106,TGO,32,Togo,TGO,TG
+100,111,HND,31,Honduras,HND,HN
+101,111,MWI,31,Malawi,MWI,MW
+102,111,MRT,31,Mauritania,MRT,MR
+103,111,MEX,31,Mexico,MEX,MX
+104,111,MOZ,31,Mozambique,MOZ,MZ
+105,111,VNM,31,Viet Nam,VNM,VN
+106,117,PAK,30,Pakistan,PAK,PK
+107,117,TZA,30,United Rep. of Tanzania,TZA,TZ
+108,119,AZE,29,Azerbaijan,AZE,AZ
+109,119,GUY,29,Guyana,GUY,GY
+110,119,RUS,29,Russian Federation,RUS,RU
+111,119,SLE,29,Sierra Leone,SLE,SL
+112,123,GMB,28,Gambia,GMB,GM
+113,123,GTM,28,Guatemala,GTM,GT
+114,123,KAZ,28,Kazakhstan,KAZ,KZ
+115,123,KGZ,28,Kyrgyzstan,KGZ,KG
+116,123,LBN,28,Lebanon,LBN,LB
+117,123,MDG,28,Madagascar,MDG,MG
+118,123,TLS,28,Timor-Leste,TLS,TL
+119,130,CMR,27,Cameroon,CMR,CM
+120,130,IRN,27,Iran (Islamic Rep. of),IRN,IR
+121,130,NPL,27,Nepal,NPL,NP
+122,130,NIC,27,Nicaragua,NIC,NI
+123,130,PRY,27,Paraguay,PRY,PY
+124,130,UKR,27,Ukraine,UKR,UA
+125,136,NGA,26,Nigeria,NGA,NG
+126,136,TJK,26,Tajikistan,TJK,TJ
+127,139,BGD,25,Bangladesh,BGD,BD
+128,139,GIN,25,Guinea,GIN,GN
+129,139,KEN,25,Kenya,KEN,KE
+130,139,LAO,25,Lao PDR,LAO,LA
+131,139,PNG,25,Papua New Guinea,PNG,PG
+132,139,UGA,25,Uganda,UGA,UG
+133,145,CAF,24,Central African Rep.,CAF,CF
+134,146,COG,23,Congo,COG,CG
+135,147,TCD,22,Chad,TCD,TD
+136,147,COD,22,Dem. Rep. of the Congo,COD,CD
+137,147,MMR,22,Myanmar,MMR,MM
+138,150,BDI,21,Burundi,BDI,BI
+139,150,KHM,21,Cambodia,KHM,KH
+140,150,ZWE,21,Zimbabwe,ZWE,ZW
+141,153,UZB,19,Uzbekistan,UZB,UZ
+142,154,ERI,18,Eritrea,ERI,ER
+143,154,SYR,18,Syrian Arab Rep.,SYR,SY
+144,154,TKM,18,Turkmenistan,TKM,TM
+145,154,YEM,18,Yemen,YEM,YE
+146,158,GNB,17,Guinea-Bissau,GNB,GW
+147,158,HTI,17,Haiti,HTI,HT
+148,158,VEN,17,Venezuela (Bolivarian Republic of),VEN,VE
+149,161,IRQ,16,Iraq,IRQ,IQ
+150,161,LBY,16,Libya,LBY,LY
+151,163,AGO,15,Angola,AGO,AO
+152,163,SSD,15,South Sudan,SSD,SS
+153,165,SDN,12,Sudan,SDN,SD
+154,166,AFG,11,Afghanistan,AFG,AF
+155,167,PRK,8,Dem. People's Rep. of Korea,PRK,KP
+156,167,SOM,8,Somalia,SOM,SO

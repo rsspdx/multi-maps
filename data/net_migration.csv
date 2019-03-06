@@ -1,0 +1,218 @@
+country,country_code,net_migration
+Aruba,ABW,1004.0
+Afghanistan,AFG,-299999.0
+Angola,AGO,0.0
+Albania,ALB,-40000.0
+Andorra,AND,
+United Arab Emirates,ARE,301000.0
+Argentina,ARG,24002.0
+Armenia,ARM,-24989.0
+American Samoa,ASM,
+Antigua and Barbuda,ATG,-56.0
+Australia,AUS,849966.0
+Austria,AUT,99999.0
+Azerbaijan,AZE,0.0
+Burundi,BDI,20000.0
+Belgium,BEL,240000.0
+Benin,BEN,-10000.0
+Burkina Faso,BFA,-125000.0
+Bangladesh,BGD,-2350001.0
+Bulgaria,BGR,-24001.0
+Bahrain,BHR,235000.0
+"Bahamas, The",BHS,5000.0
+Bosnia and Herzegovina,BIH,-2506.0
+Belarus,BLR,10000.0
+Belize,BLZ,6832.0
+Bermuda,BMU,
+Bolivia,BOL,-50005.0
+Brazil,BRA,30000.0
+Barbados,BRB,2072.0
+Brunei Darussalam,BRN,1760.0
+Bhutan,BTN,0.0
+Botswana,BWA,15000.0
+Central African Republic,CAF,-150000.0
+Canada,CAN,1100000.0
+Switzerland,CHE,250000.0
+Channel Islands,CHI,3654.0
+Chile,CHL,85285.0
+China,CHN,-1624595.0
+Cote d'Ivoire,CIV,30000.0
+Cameroon,CMR,-24000.0
+"Congo, Dem. Rep.",COD,119303.0
+"Congo, Rep.",COG,-20003.0
+Colombia,COL,-147004.0
+Comoros,COM,-10000.0
+Cabo Verde,CPV,-7392.0
+Costa Rica,CRI,16384.0
+Cuba,CUB,-109998.0
+Curacao,CUW,2573.0
+Cayman Islands,CYM,
+Cyprus,CYP,25001.0
+Czech Republic,CZE,59997.0
+Germany,DEU,1850000.0
+Djibouti,DJI,4501.0
+Dominica,DMA,
+Denmark,DNK,75998.0
+Dominican Republic,DOM,-151333.0
+Algeria,DZA,-50002.0
+Ecuador,ECU,-30776.0
+"Egypt, Arab Rep.",EGY,-275000.0
+Eritrea,ERI,-49999.0
+Spain,ESP,200000.0
+Estonia,EST,-4999.0
+Ethiopia,ETH,-60001.0
+Finland,FIN,70000.0
+Fiji,FJI,-20000.0
+France,FRA,400002.0
+Faroe Islands,FRO,
+"Micronesia, Fed. Sts.",FSM,-6000.0
+Gabon,GAB,5000.0
+United Kingdom,GBR,900000.0
+Georgia,GEO,-50000.0
+Ghana,GHA,-100000.0
+Gibraltar,GIB,
+Guinea,GIN,-50000.0
+"Gambia, The",GMB,-13000.0
+Guinea-Bissau,GNB,-9995.0
+Equatorial Guinea,GNQ,79999.0
+Greece,GRC,49996.0
+Grenada,GRD,-3497.0
+Greenland,GRL,
+Guatemala,GTM,-46073.0
+Guam,GUM,-2532.0
+Guyana,GUY,-24552.0
+"Hong Kong SAR, China",HKG,146542.0
+Honduras,HND,-14001.0
+Croatia,HRV,-40000.0
+Haiti,HTI,-175000.0
+Hungary,HUN,29999.0
+Indonesia,IDN,-825000.0
+Isle of Man,IMN,
+India,IND,-2449998.0
+Ireland,IRL,23497.0
+"Iran, Islamic Rep.",IRN,-274998.0
+Iraq,IRQ,39171.0
+Iceland,ISL,1900.0
+Israel,ISR,50002.0
+Italy,ITA,350000.0
+Jamaica,JAM,-93000.0
+Jordan,JOR,0.0
+Japan,JPN,250000.0
+Kazakhstan,KAZ,0.0
+Kenya,KEN,-50000.0
+Kyrgyz Republic,KGZ,-100001.0
+Cambodia,KHM,-149999.0
+Kiribati,KIR,-2126.0
+St. Kitts and Nevis,KNA,
+"Korea, Rep.",KOR,200000.0
+Kuwait,KWT,100000.0
+Lao PDR,LAO,-73518.0
+Lebanon,LBN,-150000.0
+Liberia,LBR,-25000.0
+Libya,LBY,-9997.0
+St. Lucia,LCA,40.0
+Liechtenstein,LIE,
+Sri Lanka,LKA,-449999.0
+Lesotho,LSO,-19998.0
+Lithuania,LTU,-25000.0
+Luxembourg,LUX,25001.0
+Latvia,LVA,-50000.0
+"Macao SAR, China",MAC,25000.0
+St. Martin (French part),MAF,
+Morocco,MAR,-257096.0
+Monaco,MCO,
+Moldova,MDA,-14318.0
+Madagascar,MDG,-7500.0
+Maldives,MDV,9758.0
+Mexico,MEX,-300000.0
+Marshall Islands,MHL,
+"Macedonia, FYR",MKD,-4999.0
+Mali,MLI,-200000.0
+Malta,MLT,4501.0
+Myanmar,MMR,-99998.0
+Montenegro,MNE,-2400.0
+Mongolia,MNG,-15001.0
+Northern Mariana Islands,MNP,
+Mozambique,MOZ,-25000.0
+Mauritania,MRT,25502.0
+Mauritius,MUS,0.0
+Malawi,MWI,-60000.0
+Malaysia,MYS,250000.0
+Namibia,NAM,-2236.0
+New Caledonia,NCL,5664.0
+Niger,NER,-28497.0
+Nigeria,NGA,-300000.0
+Nicaragua,NIC,-106342.0
+Netherlands,NLD,80000.0
+Norway,NOR,140000.0
+Nepal,NPL,-350000.0
+Nauru,NRU,
+New Zealand,NZL,74403.0
+Oman,OMN,605000.0
+Pakistan,PAK,-1071778.0
+Panama,PAN,31448.0
+Peru,PER,-179540.0
+Philippines,PHL,-650000.0
+Palau,PLW,
+Papua New Guinea,PNG,-1001.0
+Poland,POL,-50002.0
+Puerto Rico,PRI,-70002.0
+"Korea, Dem. People’s Rep.",PRK,-10156.0
+Portugal,PRT,-30001.0
+Paraguay,PRY,-82365.0
+West Bank and Gaza,PSE,-32816.0
+French Polynesia,PYF,-500.0
+Qatar,QAT,200000.0
+Romania,ROU,-150000.0
+Russian Federation,RUS,799998.0
+Rwanda,RWA,-44999.0
+Saudi Arabia,SAU,590000.0
+Sudan,SDN,-250001.0
+Senegal,SEN,-99996.0
+Singapore,SGP,298448.0
+Solomon Islands,SLB,-12000.0
+Sierra Leone,SLE,-21000.0
+El Salvador,SLV,-202694.0
+San Marino,SMR,
+Somalia,SOM,-199788.0
+Serbia,SRB,-50000.0
+South Sudan,SSD,150000.0
+Sao Tome and Principe,STP,-4999.0
+Suriname,SUR,-4999.0
+Slovak Republic,SVK,4999.0
+Slovenia,SVN,6002.0
+Sweden,SWE,200000.0
+Eswatini,SWZ,-9999.0
+Sint Maarten (Dutch part),SXM,
+Seychelles,SYC,-1000.0
+Syrian Arab Republic,SYR,-1240000.0
+Turks and Caicos Islands,TCA,
+Chad,TCD,10000.0
+Togo,TGO,-9999.0
+Thailand,THA,97222.0
+Tajikistan,TJK,-99999.0
+Turkmenistan,TKM,-25001.0
+Timor-Leste,TLS,-50004.0
+Tonga,TON,-4833.0
+Trinidad and Tobago,TTO,-4499.0
+Tunisia,TUN,-20000.0
+Turkey,TUR,1525002.0
+Tuvalu,TUV,
+Tanzania,TZA,-199999.0
+Uganda,UGA,-150000.0
+Ukraine,UKR,-100000.0
+Uruguay,URY,-15000.0
+United States,USA,4500000.0
+Uzbekistan,UZB,-44314.0
+St. Vincent and the Grenadines,VCT,-2996.0
+"Venezuela, RB",VEN,-60493.0
+British Virgin Islands,VGB,
+Virgin Islands (U.S.),VIR,-2254.0
+Vietnam,VNM,-200000.0
+Vanuatu,VUT,604.0
+Samoa,WSM,-12500.0
+Kosovo,XKX,
+"Yemen, Rep.",YEM,-150000.0
+South Africa,ZAF,300000.0
+Zambia,ZMB,-40000.0
+Zimbabwe,ZWE,-99998.0

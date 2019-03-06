@@ -877,38 +877,61 @@ for var in newvars:
     wdi_vars = wdi_vars.merge(df, on='country_code')
     df.to_csv(var + '_resid.csv')
 
+asylum_seekers_pct_pop = pd.read_csv('asylum_seekers_pct_pop.csv', index_col=False)
+asylum_seekers_pct_pop['country'] = asylum_seekers_pct_pop['country_x']
+asylum_seekers_pct_pop.to_csv('asylum_seekers_pct_pop.csv')
+
+
+asylum_seekers_pct_pop_resid = pd.read_csv('asylum_seekers_pct_pop_resid.csv', index_col=False)
 asylum_seekers_pct_pop_resid['country'] = asylum_seekers_pct_pop_resid['country_x']
 asylum_seekers_pct_pop_resid.to_csv('asylum_seekers_pct_pop_resid.csv')
 
-idps['country'] = idps['country_x']
+fdi_net_pct_gdp = pd.read_csv('fdi_net_pct_gdp.csv', index_col=False)
+fdi_net_pct_gdp['country'] = fdi_net_pct_gdp['country_x']
+fdi_net_pct_gdp.to_csv('fdi_net_pct_gdp.csv')
+
+fdi_net_pct_gdp_resid = pd.read_csv('fdi_net_pct_gdp_resid.csv', index_col=False)
+fdi_net_pct_gdp_resid['country'] = fdi_net_pct_gdp_resid['country_x']
+fdi_net_pct_gdp_resid.to_csv('fdi_net_pct_gdp_resid.csv')
+
+idps = idps.merge(country_iso_2_iso_3, left_on='country_code', right_on='iso_3')
 idps.to_csv('idps.csv')
 
-idps_resid['country'] = idps_resid['country_x']
-idps_resid.to_csv('idps_resid.csv')
+#idps_resid = pd.read_csv('idps_resid.csv', index_col=False)
+#idps_resid['country'] = idps_resid['country_x']
+#idps_resid.to_csv('idps_resid.csv')
 
-happiness['country'] = happiness['country_x']
+happiness = happiness.merge(country_iso_2_iso_3, left_on='country_code', right_on='iso_3')
 happiness.to_csv('happiness.csv')
 
-happiness_resid['country'] = happiness_resid['country_x']
-happiness_resid.to_csv('happiness_resid.csv')
+#happiness_resid = pd.read_csv('happiness_resid.csv', index_col=False)
+#happiness_resid['country'] = happiness_resid['country_x']
+#happiness_resid.to_csv('happiness_resid.csv')
 
-recognition_rate['country'] = recognition_rate['country_x']
+recognition_rate = recognition_rate.merge(country_iso_2_iso_3, left_on='country_code', right_on='iso_3') 
 recognition_rate.to_csv('recognition_rate.csv')
 
-recognition_rate_resid['country'] = recognition_rate_resid['country_x']
-recognition_rate_resid.to_csv('recognition_rate_resid.csv')
+#recognition_rate_resid = pd.read_csv('recognition_rate_resid.csv', index_col=False)
+#recognition_rate_resid['country'] = recognition_rate_resid['country_x']
+#recognition_rate_resid.to_csv('recognition_rate_resid.csv')
 
-refugees['country'] = refugees['country_x']
-refugees.to_csv('refugees.csv.)
+refugees = refugees.merge(country_iso_2_iso_3, left_on='country_code', right_on='iso_3')
+refugees.to_csv('refugees.csv')
 
-refugees_resid['country'] = refugees_resid['country_x']
-refugees_resid.to_csv('refugees_resid.csv')
+refugees_pct_pop = pd.read_csv('refugees_pct_pop.csv', index_col=False)
+refugees_pct_pop['country'] = refugees_pct_pop['country_x']
+refugees_pct_pop.to_csv('refugees_pct_pop.csv')
 
-ti_cpi['country'] = ti_cpi['country_x']
+refugees_pct_pop_resid = pd.read_csv('refugees_pct_pop_resid.csv', index_col=False)
+refugees_pct_pop_resid['country'] = refugees_pct_pop_resid['country_x']
+refugees_pct_pop_resid.to_csv('refugees_pct_pop_resid.csv')
+
+ti_cpi = ti_cpi.merge(country_iso_2_iso_3, left_on='country_code', right_on='iso_3')
 ti_cpi.to_csv('ti_cpi.csv')
 
-ti_cpi_resid['country'] = ti_cpi_resid['country_x']
-ti_cpi_resid.to_csv('ti_cpi_resid.csv')
+#ti_cpi_resid = pd.read_csv('ti_cpi_resid.csv', index_col=False)
+#ti_cpi_resid['country'] = ti_cpi_resid['country_x']
+#ti_cpi_resid.to_csv('ti_cpi_resid.csv')
 
 wdi_vars.to_csv('map_data.csv')
 ###########################################
@@ -1020,7 +1043,9 @@ vars = [
 {'varname': 'refugees_pct_pop', 'long_name': 'Refugees per Population, %, 2015', 'short_name': 'Refugees per Population, %', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'civil_liberties', 'long_name': "Civil Liberties, Rank 1-7 (1 High), 2015", 'short_name': 'Civil Liberties', 'source': 'Freedom House, Freedom in the World Report'},
 {'varname': 'civil_liberties_resid', 'long_name': "Civil Liberties, Rank 1-7 (1 High), Residuals from Regression on Gross Domestic Product per Capita", 'short_name': 'Civil Liberties, Residuals', 'source': 'Freedom House, Freedom in the World Report'},
-{'varname': 'fdi_net_pct_gdp', 'long_name': 'Net Foreign Direct Investment as % of Gross Domestic Product, 2015', 'short_name': 'FDI, % of GDP', 'source': 'World Bank, World Development Indicators'}
+{'varname': 'fdi_net_pct_gdp', 'long_name': 'Net Foreign Direct Investment as % of Gross Domestic Product, 2015', 'short_name': 'FDI, % of GDP', 'source': 'World Bank, World Development Indicators'},
+{'varname': 'fdi_net_pct_gdp_resid', 'long_name': 'Net Foreign Direct Investment as % of GDP, Residuals from Regression on GDP per capita', 'short_name': 'FDI, % of GDP, Residuals', 'source': 'World Bank, World Development Indicators'},
+
  ]
 
 for i in range(len(vars)):
