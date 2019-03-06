@@ -6,6 +6,11 @@ Created on Fri Feb 15 20:17:17 2019
 @author: rs
 """
 
+# uses World Development Indicators data
+# estimates lowess regressions of these vars on gdp per capita
+# saves residuals from those regressions as csv files with suffix _resid.csv
+# lowess models for UNHCR data are estimated separately
+
 import pandas as pd
 import os
 import statsmodels.api as sm

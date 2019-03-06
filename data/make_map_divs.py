@@ -111,7 +111,7 @@ vars = [
 {'varname': 'refugees_pct_pop', 'long_name': 'Refugees per Population, %, 2015', 'short_name': 'Refugees per Population, %', 'source':'United Nations High Commission for Refugees, Population Statistics'},
 {'varname': 'civil_liberties', 'long_name': "Civil Liberties, Rank 1-7 (1 High), 2015", 'short_name': 'Civil Liberties', 'source': 'Freedom House, Freedom in the World Report'},
 {'varname': 'civil_liberties_resid', 'long_name': "Civil Liberties, Rank 1-7 (1 High), Residuals from Regression on Gross Domestic Product per Capita", 'short_name': 'Civil Liberties, Residuals', 'source': 'Freedom House, Freedom in the World Report'},
-{'varname': 'net_fdi_pct_gdp', 'long_name': 'Net Foreign Direct Investment as % of Gross Domestic Product, 2015', 'short_name': 'Net FDI, % of GDP', 'source': 'World Bank, World Development Indicators'}
+{'varname': 'fdi_net_pct_gdp', 'long_name': 'Net Foreign Direct Investment as % of Gross Domestic Product, 2015', 'short_name': 'FDI, % of GDP', 'source': 'World Bank, World Development Indicators'}
  ]
 
 for i in range(len(vars)):

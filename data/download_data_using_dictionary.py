@@ -29,9 +29,11 @@ import pandas as pd
 wd = os.path.expanduser('~/multi-maps/data')
 os.chdir(wd)
 
-# download zip archives of csv data files
+# download zip archives of csv data files from World Bank, World Development Indicators
 # unzip them
+# manipulate them to keep relevant years, remove regions (leaving only countries)
 # write to csv
+# commented out data sets are left here to remind me not to retrieve them later; they are full of missing data
 
 
 

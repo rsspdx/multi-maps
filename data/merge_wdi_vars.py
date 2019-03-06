@@ -6,6 +6,9 @@ Created on Sun Feb 17 06:10:29 2019
 @author: rs
 """
 
+# merges World Development Indicators into a single file
+# this file is not used directly, it is just for future use
+
 import pandas as pd
 import os
 
