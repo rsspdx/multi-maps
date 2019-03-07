@@ -843,6 +843,7 @@ fdi_net_pct_gdp = fdi_net_pct_gdp.drop('gdp', 1)
 fdi_net_pct_gdp = fdi_net_pct_gdp.drop('population', 1)
 fdi_net_pct_gdp = fdi_net_pct_gdp.drop('fdi_net_current_usd', 1)
 fdi_net_pct_gdp = fdi_net_pct_gdp.drop('gdp_per_capita', 1)
+fdi_net_pct_gdp = fdi_net_pct_gdp[fdi_net_pct_gdp.country_code != 'CYM']
 fdi_net_pct_gdp.to_csv('fdi_net_pct_gdp.csv')
 
 # merge non-WDI vars into wdi_vars
@@ -903,6 +904,8 @@ idps.to_csv('idps.csv')
 
 happiness = happiness.merge(country_iso_2_iso_3, left_on='country_code', right_on='iso_3')
 happiness.to_csv('happiness.csv')
+
+
 
 #happiness_resid = pd.read_csv('happiness_resid.csv', index_col=False)
 #happiness_resid['country'] = happiness_resid['country_x']
